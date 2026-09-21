@@ -1,0 +1,6 @@
+# temp download cache (deleted after each pushed batch to save disk)
+_tmp/
+*.zip
+*.wav
+__pycache__/
+_work/
