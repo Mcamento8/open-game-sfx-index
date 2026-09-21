@@ -1,90 +1,99 @@
-# Open Game SFX Index 🎮🔊
+<div align="center">
 
-**AI-searchable index of public-domain game sound effects (OGG + MP3) with a machine-readable catalog.**
+# 🎮 Open Game SFX Index 🔊
 
-AI agents and developers can **search `index.json` first** (tags, categories, use-cases in English + Arabic keywords),
-**preview a single file**, then **download only that file** — no need to clone/download the whole library.
+**Every Kenney game sound — searchable by AI, playable in your browser.**
 
-> ⚖️ **No copyright risk:** all audio files are from [Kenney.nl](https://kenney.nl/assets/category:Audio)
-> released under **Creative Commons CC0 1.0 Universal (public domain)**.
-> This repo is an **independent community index** — not affiliated with or endorsed by Kenney.
-> See [ATTRIBUTION.md](ATTRIBUTION.md) and [SOURCES.md](SOURCES.md).
+[![Sounds](https://img.shields.io/badge/sounds-744-brightgreen?style=for-the-badge)](previews/README.md)
+[![Packs](https://img.shields.io/badge/packs-10-blue?style=for-the-badge)](SOURCES.md)
+[![License](https://img.shields.io/badge/license-CC0_1.0-lightgrey?style=for-the-badge)](ATTRIBUTION.md)
+[![AI Ready](https://img.shields.io/badge/AI-index.json-orange?style=for-the-badge)](docs/AGENT_GUIDE.md)
 
-## 📊 Status
+[🎧 **Listen now**](previews/README.md) · [🤖 **Agent guide**](docs/AGENT_GUIDE.md) · [📖 **Sources**](SOURCES.md) · [⚖️ **License**](ATTRIBUTION.md)
 
-| Pack | Files (upstream) | Status |
-|------|------------------|--------|
-| UI Audio (most-used first) | 50 | ⏳ Batch 1 |
-| Interface Sounds (most-used first) | 100 | ⏳ Batch 1 |
-| Impact Sounds | 130 | ⏳ Batch 2 |
-| Sci-fi Sounds | 70 | ⏳ Batch 3 |
-| Digital Audio | 60 | ⏳ Batch 3 |
-| RPG Audio | 50 | ⏳ Batch 4 |
-| Casino Audio | 50 | ⏳ Batch 4 |
-| Music Jingles | 85 | ⏳ Batch 5 |
-| Voiceover Pack | 90 | ⏳ Batch 5 |
-| Voiceover Pack (Fighter) | 45 | ⏳ Batch 5 |
-| **Total** | **~730 upstream → ~1460 OGG+MP3** | |
+</div>
 
-Progress is tracked in [`batches/STATUS.md`](batches/STATUS.md).
+---
 
-## 🤖 For AI agents (read this!)
+## ✨ What is this?
 
-1. **Fetch the catalog** (small, KBs):
-   `https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/index.json`
-2. **Filter in your code** by `category`, `tags`, `use_cases`, `mood`, or bilingual `keywords_ar` / `keywords_en`.
-   Example (Python):
-   ```python
-   import json, urllib.request
-   idx = json.load(urllib.request.urlopen("https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/index.json"))
-   hits = [s for s in idx["sounds"] if "click" in s["tags"] and s["formats"] ]
-   print(hits[0])  # contains download_url_ogg + download_url_mp3
-   ```
-3. **Download ONE file only:**
-   `download_url_ogg` or `download_url_mp3` from the matched entry (raw.githubusercontent.com URL).
-4. **Never clone the whole repo** for a single SFX. Full clone is only for mirroring.
+**744 public-domain game sound effects** (OGG, ~12 MB total) from
+[Kenney.nl](https://kenney.nl/assets/category:Audio), organized so that
+**humans can listen in one click** and **AI agents can search without downloading everything**.
 
-Full guide: [`docs/AGENT_GUIDE.md`](docs/AGENT_GUIDE.md)
-Lightweight search helper: [`scripts/search.py`](scripts/search.py)
+| I am… | Do this |
+|-------|---------|
+| 🧑 Human | Open [🎧 **previews/README.md**](previews/README.md) → pick a pack → press ▶ on any sound |
+| 🤖 AI agent | Fetch [`index.json`](https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/index.json) → filter → download **one** file |
 
-```bash
-python scripts/search.py --q "button click" --category ui --limit 5
-python scripts/search.py --q "زر ضغطة" --limit 5   # Arabic keywords supported
+> ⚖️ **100% copyright-safe:** all audio is **Creative Commons CC0 1.0** (public domain).
+> Independent community index — not affiliated with Kenney. Proof in [ATTRIBUTION.md](ATTRIBUTION.md).
+
+## 🎧 Listen (no download needed)
+
+| Pack | Sounds | Listen | Upstream |
+|------|--------|--------|----------|
+| 🔘 UI Audio | 51 | [▶ Play](previews/ui-audio.md) | [kenney.nl](https://kenney.nl/assets/ui-audio) |
+| 🖱️ Interface Sounds | 100 | [▶ Play](previews/interface-sounds.md) | [kenney.nl](https://kenney.nl/assets/interface-sounds) |
+| 💥 Impact Sounds | 130 | [▶ Play](previews/impact-sounds.md) | [kenney.nl](https://kenney.nl/assets/impact-sounds) |
+| 🚀 Sci-Fi Sounds | 73 | [▶ Play](previews/sci-fi-sounds.md) | [kenney.nl](https://kenney.nl/assets/sci-fi-sounds) |
+| 👾 Digital Audio | 62 | [▶ Play](previews/digital-audio.md) | [kenney.nl](https://kenney.nl/assets/digital-audio) |
+| ⚔️ RPG Audio | 51 | [▶ Play](previews/rpg-audio.md) | [kenney.nl](https://kenney.nl/assets/rpg-audio) |
+| 🎰 Casino Audio | 54 | [▶ Play](previews/casino-audio.md) | [kenney.nl](https://kenney.nl/assets/casino-audio) |
+| 🎵 Music Jingles | 85 | [▶ Play](previews/music-jingles.md) | [kenney.nl](https://kenney.nl/assets/music-jingles) |
+| 🎙️ Voiceover Pack (Male ♂ / Female ♀) | 92 | [▶ Play](previews/voiceover-pack.md) | [kenney.nl](https://kenney.nl/assets/voiceover-pack) |
+| 🥊 Voiceover Pack (Fighter) | 46 | [▶ Play](previews/voiceover-pack-fighter.md) | [kenney.nl](https://kenney.nl/assets/voiceover-pack-fighter) |
+
+## 🤖 For AI agents
+
+```python
+import json, urllib.request
+URL = "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/index.json"
+idx = json.load(urllib.request.urlopen(URL))          # kilobytes, not megabytes
+hits = [s for s in idx["sounds"]                      # filter locally
+        if "click" in s["tags"] and s["category"] == "ui"]
+print(hits[0]["download_url_ogg"])                    # download ONE file only
 ```
+
+Or locally: `python scripts/search.py --q "button click" --limit 5`
+(Arabic works too: `--q "زر"`)
+
+📖 Full guide: [docs/AGENT_GUIDE.md](docs/AGENT_GUIDE.md)
+
+Each entry carries: `id, title, pack, category, tags, use_cases, mood,`
+bilingual `keywords_en/ar, duration_sec, size, sha256, download URLs, license, source`.
 
 ## 📁 Layout
 
 ```
-open-game-sfx-index/
-  README.md            # this file
-  ATTRIBUTION.md       # credit + CC0 proof
-  SOURCES.md           # upstream pack URLs + hashes
-  LICENSE              # MIT for code/scripts + CC0 note for audio
-  index.json           # MASTER catalog (agents read this)
-  categories.json      # category → description + counts
-  audio/<pack>/...ogg/.mp3
-  scripts/search.py    # keyword search (no heavy deps)
-  scripts/build_index.py
-  docs/AGENT_GUIDE.md
-  batches/STATUS.md
+├── previews/            # ▶ per-pack listening pages (start here as a human)
+├── audio/<pack>/        # 744 OGG files (voiceover split into Male/ + Female/)
+├── index.json           # master machine catalog (agents read this)
+├── categories.json      # category descriptions
+├── scripts/search.py    # offline keyword search (EN + AR)
+├── scripts/build_index.py      # rebuild index.json
+├── scripts/build_previews.py   # rebuild previews/
+├── docs/AGENT_GUIDE.md  # how agents pick the right SFX
+├── SOURCES.md           # exact upstream ZIP URLs
+├── ATTRIBUTION.md       # CC0 proof + credit
+└── batches/STATUS.md    # upload log
 ```
 
-## 🎧 Formats
+## ❓ FAQ
 
-Upstream zips contain `WAV + OGG + MP3` per sound.
-To keep the repo lean and GitHub-friendly, **only `OGG + MP3` are stored**:
+**Is this the complete Kenney audio collection?**
+Yes — all **10 packs** in the [Audio category](https://kenney.nl/assets/category:Audio),
+verified file-by-file against the upstream ZIPs (753 OGG shipped − 9 preview tracks = **744**).
 
-- `OGG` → best quality/size for games (recommended)
-- `MP3` → universal preview compatibility
-- `WAV` → skipped (large, redundant; regenerable from upstream)
+**Why OGG only?**
+Upstream ships OGG only. OGG plays natively on GitHub file pages and in every game engine,
+at a fraction of WAV size (whole library ≈ 12 MB).
+
+**Can I use these commercially?**
+Yes. CC0 = public domain: commercial use, modification and redistribution allowed,
+no permission or attribution required (credit appreciated).
 
 ## ⚖️ License
 
-- **Audio (`audio/`)**: CC0 1.0 Universal — public domain. Do anything, no attribution required (credit appreciated).
-  Source: Kenney — https://kenney.nl/assets/category:Audio
-- **Code/metadata (`scripts/`, `index.json`, docs)**: MIT (see LICENSE).
-
-## 🤝 Contributing
-
-Batch uploads welcome. See `batches/STATUS.md` for the batch protocol
-(download 1 pack → keep OGG+MP3 → rebuild index → push → delete zip/temp/WAV).
+- **Audio (`audio/`)**: CC0 1.0 Universal — public domain, by Kenney.
+- **Code / metadata / docs**: MIT — see [LICENSE](LICENSE).

@@ -80,19 +80,25 @@ def main():
         pdir = AUDIO / pack
         if not pdir.is_dir():
             continue
-        # pair by stem: prefer OGG path as canonical, attach MP3 sibling
-        oggs = {p.stem.lower(): p for p in pdir.rglob("*.ogg")}
-        mp3s = {p.stem.lower(): p for p in pdir.rglob("*.mp3")}
-        stems = sorted(set(oggs) | set(mp3s))
-        for stem in stems:
-            ogg = oggs.get(stem)
-            mp3 = mp3s.get(stem)
+        # pair by RELATIVE PATH (not bare stem): packs like voiceover-pack
+        # ship Male/1.ogg + Female/1.ogg which would collide on stem alone
+        oggs = {p.relative_to(pdir).as_posix().lower(): p for p in pdir.rglob("*.ogg")}
+        mp3s = {p.relative_to(pdir).as_posix().lower(): p for p in pdir.rglob("*.mp3")}
+        keys = sorted(set(oggs) | set(mp3s))
+        for key in keys:
+            ogg = oggs.get(key)
+            mp3 = mp3s.get(key)
             if ogg is None and mp3 is None:
                 continue
             base = ogg or mp3
+            rel_base = base.relative_to(pdir)
+            stem = base.stem
+            sub = rel_base.parent.as_posix() if rel_base.parent.as_posix() != "." else ""
             words = [w for w in WORD_SPLIT.split(stem.lower()) if w]
-            tags = sorted(set(meta["tags"] + words[:6]))
-            sid = f"{pack}_{stem}".replace(" ", "_")[:120]
+            subwords = [w for w in WORD_SPLIT.split(sub.lower().replace("/", " ")) if w]
+            tags = sorted(set(meta["tags"] + subwords + words[:6]))
+            sid = f"{pack}_{sub}_{stem}".replace(" ", "_").replace("/", "_") if sub else f"{pack}_{stem}".replace(" ", "_")
+            sid = sid[:150]
             rel_ogg = (ogg.relative_to(ROOT).as_posix()) if ogg else None
             rel_mp3 = (mp3.relative_to(ROOT).as_posix()) if mp3 else None
             dur = duration(ogg or mp3)
