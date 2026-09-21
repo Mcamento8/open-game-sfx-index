@@ -1,1 +1,7784 @@
-{"batches": [], "generated_at": "2026-09-21T00:00:00Z", "license_audio": "CC0-1.0", "repo": "Mcamento8/open-game-sfx-index", "sounds": [], "version": "0.1.0"}
+{
+  "version": "0.1.0",
+  "repo": "Mcamento8/open-game-sfx-index",
+  "generated_at": "2026-09-21T19:53:44.068359Z",
+  "license_audio": "CC0-1.0",
+  "count": 151,
+  "batches": [
+    "interface-sounds",
+    "ui-audio"
+  ],
+  "sounds": [
+    {
+      "id": "interface-sounds_back_001",
+      "title": "back 001",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "001",
+        "back",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "001",
+        "back",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.064,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/back_001.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/back_001.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 6997,
+      "size_mp3": null,
+      "sha256_ogg": "07db973f79f6ae0f2edc34561e7592e24d0577455919fb602cb8ecc0da991dcf",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_back_002",
+      "title": "back 002",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "002",
+        "back",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "002",
+        "back",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.07,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/back_002.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/back_002.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 7029,
+      "size_mp3": null,
+      "sha256_ogg": "61581c58194e3f19f531072edabbc344204c7e0a2887b8ededce4357bcf09195",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_back_003",
+      "title": "back 003",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "003",
+        "back",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "003",
+        "back",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.093,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/back_003.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/back_003.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 7208,
+      "size_mp3": null,
+      "sha256_ogg": "ff5e87de1230b1a5f1fa83e5a4ba9d7eb1c07154267ac34b510a17d4caa03cef",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_back_004",
+      "title": "back 004",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "004",
+        "back",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "004",
+        "back",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.073,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/back_004.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/back_004.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 6923,
+      "size_mp3": null,
+      "sha256_ogg": "c22e3c49f42c2a5ba6748e91283efe124f32822469c1258c3e5d7b3d7ab9361c",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_bong_001",
+      "title": "bong 001",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "001",
+        "bong",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "001",
+        "bong",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.123,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/bong_001.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/bong_001.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 4848,
+      "size_mp3": null,
+      "sha256_ogg": "d21d0f0b782445db579d11e2506b24cd1ac9d664ee33aeaf807761aa7b6fd710",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_click_001",
+      "title": "click 001",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "001",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "001",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.1,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/click_001.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/click_001.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 4876,
+      "size_mp3": null,
+      "sha256_ogg": "ccfb7fa0cccdd9faec0eb16033c732b1e308d139d80f799161495d58f7adcdb9",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_click_002",
+      "title": "click 002",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "002",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "002",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.01,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/click_002.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/click_002.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 4275,
+      "size_mp3": null,
+      "sha256_ogg": "adcd1f4adc35f1b41bc1b5bbefeff7aa44f2f3f0d96d3199b544140c7c1e761c",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_click_003",
+      "title": "click 003",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "003",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "003",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.01,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/click_003.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/click_003.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 4371,
+      "size_mp3": null,
+      "sha256_ogg": "2fa929138bc3a0f432696588f66eac94b8f6d463905ec8808c6461ce4b054292",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_click_004",
+      "title": "click 004",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "004",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "004",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.01,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/click_004.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/click_004.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 4486,
+      "size_mp3": null,
+      "sha256_ogg": "09e2c1b643b71b9aff9932b4e02d78db116446b9a14b00a5b2a9b28d2668fd8e",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_click_005",
+      "title": "click 005",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "005",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "005",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.01,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/click_005.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/click_005.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 4410,
+      "size_mp3": null,
+      "sha256_ogg": "a3ee7ebb036bc3cdc218ae52bb27548c4f49bcf07505274f8b61b1af8236acc2",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_close_001",
+      "title": "close 001",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "001",
+        "click",
+        "close",
+        "confirm",
+        "error",
+        "hover",
+        "interface"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "001",
+        "click",
+        "close",
+        "confirm",
+        "error",
+        "hover",
+        "interface"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.148,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/close_001.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/close_001.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 9915,
+      "size_mp3": null,
+      "sha256_ogg": "44af8249b933e0fd35ec957a638bb1a0b01f85b53fbe9674bf77bd3ca3168ef4",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_close_002",
+      "title": "close 002",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "002",
+        "click",
+        "close",
+        "confirm",
+        "error",
+        "hover",
+        "interface"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "002",
+        "click",
+        "close",
+        "confirm",
+        "error",
+        "hover",
+        "interface"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.314,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/close_002.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/close_002.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 14752,
+      "size_mp3": null,
+      "sha256_ogg": "bc4279d2bb2bf86592473eab6a8eab55e51b54a8619315000dbd780a83b102d8",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_close_003",
+      "title": "close 003",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "003",
+        "click",
+        "close",
+        "confirm",
+        "error",
+        "hover",
+        "interface"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "003",
+        "click",
+        "close",
+        "confirm",
+        "error",
+        "hover",
+        "interface"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.314,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/close_003.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/close_003.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 15648,
+      "size_mp3": null,
+      "sha256_ogg": "39a1a7f3bc001766c1881841e9903c6b16f5a10b5666e0791d7f6444677d8b05",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_close_004",
+      "title": "close 004",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "004",
+        "click",
+        "close",
+        "confirm",
+        "error",
+        "hover",
+        "interface"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "004",
+        "click",
+        "close",
+        "confirm",
+        "error",
+        "hover",
+        "interface"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.323,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/close_004.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/close_004.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 16263,
+      "size_mp3": null,
+      "sha256_ogg": "41b41e01ac75f4bc5a9c8dc3b0de744fa7f877757463692783c12a8ae4bfae6b",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_confirmation_001",
+      "title": "confirmation 001",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "001",
+        "click",
+        "confirm",
+        "confirmation",
+        "error",
+        "hover",
+        "interface"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "001",
+        "click",
+        "confirm",
+        "confirmation",
+        "error",
+        "hover",
+        "interface"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.29,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/confirmation_001.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/confirmation_001.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 8968,
+      "size_mp3": null,
+      "sha256_ogg": "063564703b6094d70718a3e787a55cc9141611e4ecd6b6637f8828f79b4a8c3a",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_confirmation_002",
+      "title": "confirmation 002",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "002",
+        "click",
+        "confirm",
+        "confirmation",
+        "error",
+        "hover",
+        "interface"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "002",
+        "click",
+        "confirm",
+        "confirmation",
+        "error",
+        "hover",
+        "interface"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.539,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/confirmation_002.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/confirmation_002.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 14169,
+      "size_mp3": null,
+      "sha256_ogg": "33b17a9a9a2397c62b285c52c33a907fdffb476909c99e42dde603f6a7a8b12c",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_confirmation_003",
+      "title": "confirmation 003",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "003",
+        "click",
+        "confirm",
+        "confirmation",
+        "error",
+        "hover",
+        "interface"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "003",
+        "click",
+        "confirm",
+        "confirmation",
+        "error",
+        "hover",
+        "interface"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.322,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/confirmation_003.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/confirmation_003.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 9535,
+      "size_mp3": null,
+      "sha256_ogg": "3091bf0be0497f825769ee0733ca7bdc3bcd59bd6c6e8f2ba8f93d580ff38022",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_confirmation_004",
+      "title": "confirmation 004",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "004",
+        "click",
+        "confirm",
+        "confirmation",
+        "error",
+        "hover",
+        "interface"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "004",
+        "click",
+        "confirm",
+        "confirmation",
+        "error",
+        "hover",
+        "interface"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.49,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/confirmation_004.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/confirmation_004.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 12391,
+      "size_mp3": null,
+      "sha256_ogg": "568967a3d9f8a8f6af54ea01729c4882284308f2a27d78c07ffd7ee0d6951661",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_drop_001",
+      "title": "drop 001",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "001",
+        "click",
+        "confirm",
+        "drop",
+        "error",
+        "hover",
+        "interface"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "001",
+        "click",
+        "confirm",
+        "drop",
+        "error",
+        "hover",
+        "interface"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.11,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/drop_001.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/drop_001.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 5859,
+      "size_mp3": null,
+      "sha256_ogg": "692ee3a6f1821402ca649ff735bee9591dc4846c8098fc7d6a90fd15fa57c1af",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_drop_002",
+      "title": "drop 002",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "002",
+        "click",
+        "confirm",
+        "drop",
+        "error",
+        "hover",
+        "interface"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "002",
+        "click",
+        "confirm",
+        "drop",
+        "error",
+        "hover",
+        "interface"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.191,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/drop_002.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/drop_002.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 6411,
+      "size_mp3": null,
+      "sha256_ogg": "4ac4d1cef7e936965cbf795852ca2020300b9e2ba7daa59f2bf4f1f7bf416218",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_drop_003",
+      "title": "drop 003",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "003",
+        "click",
+        "confirm",
+        "drop",
+        "error",
+        "hover",
+        "interface"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "003",
+        "click",
+        "confirm",
+        "drop",
+        "error",
+        "hover",
+        "interface"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.191,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/drop_003.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/drop_003.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 6288,
+      "size_mp3": null,
+      "sha256_ogg": "43d086d50f90493a98cd2e09aa6dbf150d164f1578e1ec768d21cb185571ad87",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_drop_004",
+      "title": "drop 004",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "004",
+        "click",
+        "confirm",
+        "drop",
+        "error",
+        "hover",
+        "interface"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "004",
+        "click",
+        "confirm",
+        "drop",
+        "error",
+        "hover",
+        "interface"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.287,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/drop_004.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/drop_004.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 7230,
+      "size_mp3": null,
+      "sha256_ogg": "10738707f9300f9b963ceba46d5da2ed4a221faf7d39484a643c2d3bc151c5f2",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_error_001",
+      "title": "error 001",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "001",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "001",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.165,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/error_001.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/error_001.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 7373,
+      "size_mp3": null,
+      "sha256_ogg": "46e67425d16339772e8d328fb36a49426c9467418686e11beeb71ff84b0f6433",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_error_002",
+      "title": "error 002",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "002",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "002",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.165,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/error_002.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/error_002.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 7369,
+      "size_mp3": null,
+      "sha256_ogg": "76810ec365f41078fd0507101da5bb7b8730fe011dde43908329fdabd8575e79",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_error_003",
+      "title": "error 003",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "003",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "003",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.533,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/error_003.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/error_003.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 12256,
+      "size_mp3": null,
+      "sha256_ogg": "885b28175c7b511118bcffab95675b48bbac9005cf6514656ebdad979276b3ab",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_error_004",
+      "title": "error 004",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "004",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "004",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.103,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/error_004.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/error_004.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 6393,
+      "size_mp3": null,
+      "sha256_ogg": "0b574cea597d96507e782ae9764f88482ce49f46e931e57054bf7150047f2d69",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_error_005",
+      "title": "error 005",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "005",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "005",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.5,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/error_005.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/error_005.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 7266,
+      "size_mp3": null,
+      "sha256_ogg": "3f75b11df5b06d68d2c25fbf0e9c9d9e7dd9250562a4007ee34856b8a309a2ae",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_error_006",
+      "title": "error 006",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "006",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "006",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.5,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/error_006.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/error_006.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 8288,
+      "size_mp3": null,
+      "sha256_ogg": "a97513d7fd2b12b1210c423be943b4c1ab0e899b11db95855e9b74836e646ae0",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_error_007",
+      "title": "error 007",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "007",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "007",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.192,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/error_007.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/error_007.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 10225,
+      "size_mp3": null,
+      "sha256_ogg": "f1ee4c1ac8bfe1a82eacb54b26f49e8974bab93bcf10c01800bc10dbf730f559",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_error_008",
+      "title": "error 008",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "008",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "008",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.139,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/error_008.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/error_008.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 9215,
+      "size_mp3": null,
+      "sha256_ogg": "eba17ecb2a426bfd4a8a6acff5f8a86202b6424a77af0fd842e37809a1ab6d81",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_glass_001",
+      "title": "glass 001",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "001",
+        "click",
+        "confirm",
+        "error",
+        "glass",
+        "hover",
+        "interface"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "001",
+        "click",
+        "confirm",
+        "error",
+        "glass",
+        "hover",
+        "interface"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.278,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/glass_001.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/glass_001.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 6103,
+      "size_mp3": null,
+      "sha256_ogg": "183eebee20eb0a532b0b85104d139cbf2673eb66d95c3cc733ac9ea98362e7e8",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_glass_002",
+      "title": "glass 002",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "002",
+        "click",
+        "confirm",
+        "error",
+        "glass",
+        "hover",
+        "interface"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "002",
+        "click",
+        "confirm",
+        "error",
+        "glass",
+        "hover",
+        "interface"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.125,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/glass_002.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/glass_002.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 4917,
+      "size_mp3": null,
+      "sha256_ogg": "08e972c73e53c91d6d310e107e80db60edce78ae47225889a028e628a6f3da49",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_glass_003",
+      "title": "glass 003",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "003",
+        "click",
+        "confirm",
+        "error",
+        "glass",
+        "hover",
+        "interface"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "003",
+        "click",
+        "confirm",
+        "error",
+        "glass",
+        "hover",
+        "interface"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.124,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/glass_003.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/glass_003.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 5732,
+      "size_mp3": null,
+      "sha256_ogg": "9a6f16e3c2eff6fe5d017a4755a28306b14555728831cd00d70308e8f9689566",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_glass_004",
+      "title": "glass 004",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "004",
+        "click",
+        "confirm",
+        "error",
+        "glass",
+        "hover",
+        "interface"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "004",
+        "click",
+        "confirm",
+        "error",
+        "glass",
+        "hover",
+        "interface"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.692,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/glass_004.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/glass_004.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 8323,
+      "size_mp3": null,
+      "sha256_ogg": "2379b58f953e3d86982aa8cddcae763022c6258e9820171bf905ce58b4e97766",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_glass_005",
+      "title": "glass 005",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "005",
+        "click",
+        "confirm",
+        "error",
+        "glass",
+        "hover",
+        "interface"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "005",
+        "click",
+        "confirm",
+        "error",
+        "glass",
+        "hover",
+        "interface"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.111,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/glass_005.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/glass_005.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 6206,
+      "size_mp3": null,
+      "sha256_ogg": "1f6c88008d0d9fe449197512811785e1d4638daf408a96a4a02756530e019172",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_glass_006",
+      "title": "glass 006",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "006",
+        "click",
+        "confirm",
+        "error",
+        "glass",
+        "hover",
+        "interface"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "006",
+        "click",
+        "confirm",
+        "error",
+        "glass",
+        "hover",
+        "interface"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.111,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/glass_006.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/glass_006.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 6956,
+      "size_mp3": null,
+      "sha256_ogg": "840500be48078f1210f1fd7a9ac4e5665ed9b6f4a2b8dce91a237152a65e94cc",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_glitch_001",
+      "title": "glitch 001",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "001",
+        "click",
+        "confirm",
+        "error",
+        "glitch",
+        "hover",
+        "interface"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "001",
+        "click",
+        "confirm",
+        "error",
+        "glitch",
+        "hover",
+        "interface"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.02,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/glitch_001.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/glitch_001.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 5121,
+      "size_mp3": null,
+      "sha256_ogg": "da78c642bbd95da2c364ed0e991ebbfc5a4c0d281165d932b5819e0dd31a39d2",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_glitch_002",
+      "title": "glitch 002",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "002",
+        "click",
+        "confirm",
+        "error",
+        "glitch",
+        "hover",
+        "interface"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "002",
+        "click",
+        "confirm",
+        "error",
+        "glitch",
+        "hover",
+        "interface"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.03,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/glitch_002.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/glitch_002.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 5473,
+      "size_mp3": null,
+      "sha256_ogg": "1da06a2e63ce131f5e0316ca27c75fc0d672db7a8f9b986c70693f2bd992eabc",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_glitch_003",
+      "title": "glitch 003",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "003",
+        "click",
+        "confirm",
+        "error",
+        "glitch",
+        "hover",
+        "interface"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "003",
+        "click",
+        "confirm",
+        "error",
+        "glitch",
+        "hover",
+        "interface"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.01,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/glitch_003.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/glitch_003.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 4915,
+      "size_mp3": null,
+      "sha256_ogg": "d55e0c64aee9f1ab2ba9523d0e256ca76639c3ec2f230405e2ff25aff36020b3",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_glitch_004",
+      "title": "glitch 004",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "004",
+        "click",
+        "confirm",
+        "error",
+        "glitch",
+        "hover",
+        "interface"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "004",
+        "click",
+        "confirm",
+        "error",
+        "glitch",
+        "hover",
+        "interface"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.023,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/glitch_004.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/glitch_004.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 5225,
+      "size_mp3": null,
+      "sha256_ogg": "d0f4db4d12f88592bc328bd621d356d099eaa2dda37bab37a6cf17891c5026d1",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_maximize_001",
+      "title": "maximize 001",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "001",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "maximize"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "001",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "maximize"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.258,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/maximize_001.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/maximize_001.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 12111,
+      "size_mp3": null,
+      "sha256_ogg": "fd3e75e1de2f2fda90aceeacaeb0427ac8bddd3b07a6ce2a8f9ba923df3771f9",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_maximize_002",
+      "title": "maximize 002",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "002",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "maximize"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "002",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "maximize"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.258,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/maximize_002.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/maximize_002.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 9915,
+      "size_mp3": null,
+      "sha256_ogg": "cc51162cb4506158b953b121bf479aad070056533ade5c5cd2f980183127ceb4",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_maximize_003",
+      "title": "maximize 003",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "003",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "maximize"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "003",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "maximize"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.212,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/maximize_003.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/maximize_003.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 11748,
+      "size_mp3": null,
+      "sha256_ogg": "df16f25d45189f5d44d6a482ab20d5067350ca8525a9affa1f8ce599e31a20a5",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_maximize_004",
+      "title": "maximize 004",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "004",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "maximize"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "004",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "maximize"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.418,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/maximize_004.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/maximize_004.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 17723,
+      "size_mp3": null,
+      "sha256_ogg": "59c7a24b204be24d2a44a86d1e4d18c2cf51fa0446967a14b2590e8fb3afaf34",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_maximize_005",
+      "title": "maximize 005",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "005",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "maximize"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "005",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "maximize"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.526,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/maximize_005.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/maximize_005.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 20900,
+      "size_mp3": null,
+      "sha256_ogg": "0ee06fc3ee494723fc95b2224f9dc0af857f2903e7f94d5d33d8e67f454b3cf7",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_maximize_006",
+      "title": "maximize 006",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "006",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "maximize"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "006",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "maximize"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.38,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/maximize_006.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/maximize_006.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 11618,
+      "size_mp3": null,
+      "sha256_ogg": "f050b3bb77cb0b901bc8df43d2cc1872c353aebae10b4030cf8ae681726ad343",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_maximize_007",
+      "title": "maximize 007",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "007",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "maximize"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "007",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "maximize"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.186,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/maximize_007.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/maximize_007.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 8097,
+      "size_mp3": null,
+      "sha256_ogg": "3400931f3f3a1e9cf253efef9069bcdf053edd2234e4ee9bf88977c389943484",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_maximize_008",
+      "title": "maximize 008",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "008",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "maximize"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "008",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "maximize"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.225,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/maximize_008.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/maximize_008.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 9085,
+      "size_mp3": null,
+      "sha256_ogg": "57c074e600e193a303ce781c04c0ccc191c6030f9f106594fd94a65e55435c17",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_maximize_009",
+      "title": "maximize 009",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "009",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "maximize"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "009",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "maximize"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.225,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/maximize_009.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/maximize_009.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 7650,
+      "size_mp3": null,
+      "sha256_ogg": "b4d56386258b3cc1c8f6e5a22465f8cd65de3d4309e022664050f43151e466cd",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_minimize_001",
+      "title": "minimize 001",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "001",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "minimize"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "001",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "minimize"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.258,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/minimize_001.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/minimize_001.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 11924,
+      "size_mp3": null,
+      "sha256_ogg": "8481912bc7fa5828924a00ef15b6cd613b994956e0817bd3122065c9b2896d2d",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_minimize_002",
+      "title": "minimize 002",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "002",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "minimize"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "002",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "minimize"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.258,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/minimize_002.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/minimize_002.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 9441,
+      "size_mp3": null,
+      "sha256_ogg": "670e47846dc003fe29d39c8dfebb8635bfcacae3c0916392c0e8bff659493ad6",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_minimize_003",
+      "title": "minimize 003",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "003",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "minimize"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "003",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "minimize"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.212,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/minimize_003.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/minimize_003.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 11739,
+      "size_mp3": null,
+      "sha256_ogg": "400e1041499de85ec8b5529a35ff36787288175c4696cf2018ecff24a3a3fd29",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_minimize_004",
+      "title": "minimize 004",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "004",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "minimize"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "004",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "minimize"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.418,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/minimize_004.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/minimize_004.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 17099,
+      "size_mp3": null,
+      "sha256_ogg": "fcfe6fbb03a728e90b907f34d2ec7bf3ea1857397c3e47ee01990c1be059e4f6",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_minimize_005",
+      "title": "minimize 005",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "005",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "minimize"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "005",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "minimize"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.526,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/minimize_005.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/minimize_005.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 19501,
+      "size_mp3": null,
+      "sha256_ogg": "4e6792a98c75d3ff187c0c55561c38c569e02c64757ebebb98831cfe84e3e172",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_minimize_006",
+      "title": "minimize 006",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "006",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "minimize"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "006",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "minimize"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.38,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/minimize_006.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/minimize_006.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 11292,
+      "size_mp3": null,
+      "sha256_ogg": "39d7c47855b9642f43548b7b132c20e20a1490c7eb13d10008c32fcb24da19f8",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_minimize_007",
+      "title": "minimize 007",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "007",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "minimize"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "007",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "minimize"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.186,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/minimize_007.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/minimize_007.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 7677,
+      "size_mp3": null,
+      "sha256_ogg": "e951505044de0d5d87b72ce7f312ac3fbbdde025ec8c10db70f9d2651a2c8947",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_minimize_008",
+      "title": "minimize 008",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "008",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "minimize"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "008",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "minimize"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.225,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/minimize_008.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/minimize_008.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 9298,
+      "size_mp3": null,
+      "sha256_ogg": "bc14c17875436dcaaf809c25db5e61454dbc35612880f329ff37a95ef9b6a865",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_minimize_009",
+      "title": "minimize 009",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "009",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "minimize"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "009",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "minimize"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.225,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/minimize_009.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/minimize_009.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 7665,
+      "size_mp3": null,
+      "sha256_ogg": "885c20fc8b5b52226288794842a403821cd16e9800ec1d76be7a2f1655542eb8",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_open_001",
+      "title": "open 001",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "001",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "open"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "001",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "open"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.148,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/open_001.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/open_001.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 9834,
+      "size_mp3": null,
+      "sha256_ogg": "a27c6bb0df7da1e6af5dd5937593c98bc58b6e513f42fe6a3254cd6a6949c648",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_open_002",
+      "title": "open 002",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "002",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "open"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "002",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "open"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.314,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/open_002.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/open_002.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 14975,
+      "size_mp3": null,
+      "sha256_ogg": "24ff224fe2c09c6aed1b41249825382dc74cf324b887ff279d8494912ce2beee",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_open_003",
+      "title": "open 003",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "003",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "open"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "003",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "open"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.314,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/open_003.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/open_003.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 15046,
+      "size_mp3": null,
+      "sha256_ogg": "bcdca6b5c9c33aa15ca3fb18a1fa8d98a01b528b85be08c5a610e57c75fc022d",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_open_004",
+      "title": "open 004",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "004",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "open"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "004",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "open"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.323,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/open_004.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/open_004.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 15879,
+      "size_mp3": null,
+      "sha256_ogg": "4e02b8287bc4d9e7bf7a889cb9e48613c8eb22a310dfb0bf29c2bfd0a1e4bea5",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_pluck_001",
+      "title": "pluck 001",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "001",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "pluck"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "001",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "pluck"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.102,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/pluck_001.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/pluck_001.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 6317,
+      "size_mp3": null,
+      "sha256_ogg": "be97ec4893a02d6eccfb678daa76c83e34cb2583b834ec2593d2641def739fa4",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_pluck_002",
+      "title": "pluck 002",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "002",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "pluck"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "002",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "pluck"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.165,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/pluck_002.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/pluck_002.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 6941,
+      "size_mp3": null,
+      "sha256_ogg": "c977fe249ff42d1c93a552b33abc13a8399df3879fa510475426e5c4bbac1da9",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_question_001",
+      "title": "question 001",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "001",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "question"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "001",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "question"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.491,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/question_001.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/question_001.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 11700,
+      "size_mp3": null,
+      "sha256_ogg": "abb8f9e4eb2071491b0b15f84ee302386b1847609310c1b000ae174639a6cc5a",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_question_002",
+      "title": "question 002",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "002",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "question"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "002",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "question"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.333,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/question_002.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/question_002.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 9455,
+      "size_mp3": null,
+      "sha256_ogg": "46056f10c70dda860e93bd27b66f4d33c0b7154eff28def06471b50028efa5b3",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_question_003",
+      "title": "question 003",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "003",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "question"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "003",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "question"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.332,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/question_003.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/question_003.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 8233,
+      "size_mp3": null,
+      "sha256_ogg": "00bafc564e29c12e99da584864a750260e7110378251d63d3aa5b3d727836efe",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_question_004",
+      "title": "question 004",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "004",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "question"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "004",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "question"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.332,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/question_004.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/question_004.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 9821,
+      "size_mp3": null,
+      "sha256_ogg": "585ecb58b529dc49b5c5ce5ba93427bf73b7052bae55e49c43ba8f169c93ac99",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_scratch_001",
+      "title": "scratch 001",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "001",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "scratch"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "001",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "scratch"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.139,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/scratch_001.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/scratch_001.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 8989,
+      "size_mp3": null,
+      "sha256_ogg": "5c294d2e1a6b6d07ee2d75b17105a55ad3527e5482dd60652dc49c2ea4c70096",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_scratch_002",
+      "title": "scratch 002",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "002",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "scratch"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "002",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "scratch"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.139,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/scratch_002.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/scratch_002.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 9319,
+      "size_mp3": null,
+      "sha256_ogg": "2b07edafc1f3f49c4813f2b0ae9481c566c1f9962a22d5f5b79da7111e058e56",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_scratch_003",
+      "title": "scratch 003",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "003",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "scratch"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "003",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "scratch"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.123,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/scratch_003.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/scratch_003.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 8849,
+      "size_mp3": null,
+      "sha256_ogg": "2d80371b55ebe2e8b916b84093a8ae7717d09a80c6b617079ade5bd0dacba7b7",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_scratch_004",
+      "title": "scratch 004",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "004",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "scratch"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "004",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "scratch"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.325,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/scratch_004.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/scratch_004.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 16478,
+      "size_mp3": null,
+      "sha256_ogg": "26009c67ef90ee7a5a2bc458ef9e7f5a9da83da9397a830cff9e4a1813914687",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_scratch_005",
+      "title": "scratch 005",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "005",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "scratch"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "005",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "scratch"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.325,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/scratch_005.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/scratch_005.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 15824,
+      "size_mp3": null,
+      "sha256_ogg": "65742c15dca9853611e1c9e83bd04ac0d693f79896715cafa90bad39745d7a62",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_scroll_001",
+      "title": "scroll 001",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "001",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "scroll"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "001",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "scroll"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 1.0,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/scroll_001.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/scroll_001.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 21633,
+      "size_mp3": null,
+      "sha256_ogg": "320c6aafb2c7a503eae508dc443b72d7f7c0a317bfd16813157ed400cd04cf16",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_scroll_002",
+      "title": "scroll 002",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "002",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "scroll"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "002",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "scroll"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 1.0,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/scroll_002.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/scroll_002.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 24628,
+      "size_mp3": null,
+      "sha256_ogg": "6fbcda22bc45349c66f1ba4b56d6c211b12264e83667de4b9af1e4ffcef74be5",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_scroll_003",
+      "title": "scroll 003",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "003",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "scroll"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "003",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "scroll"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 1.0,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/scroll_003.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/scroll_003.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 29488,
+      "size_mp3": null,
+      "sha256_ogg": "c2fecaa6e37c73d7141d0bd303d1c2231428d97c19ce83d50236a56804818643",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_scroll_004",
+      "title": "scroll 004",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "004",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "scroll"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "004",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "scroll"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 1.0,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/scroll_004.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/scroll_004.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 20348,
+      "size_mp3": null,
+      "sha256_ogg": "431398a3c12ba3aa30ead97f3e2f9b05eb00978facf04b31bda138ab77a2f54c",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_scroll_005",
+      "title": "scroll 005",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "005",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "scroll"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "005",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "scroll"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 1.0,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/scroll_005.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/scroll_005.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 20448,
+      "size_mp3": null,
+      "sha256_ogg": "e39d059462225efa31f758fb2e01871cc96781972b5062873a24a55c88174e02",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_select_001",
+      "title": "select 001",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "001",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "select"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "001",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "select"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.043,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/select_001.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/select_001.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 5468,
+      "size_mp3": null,
+      "sha256_ogg": "aec0c31ea934a35936ae0d2ab8fac8123c93aa5647f935853a58dbaf90278b7a",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_select_002",
+      "title": "select 002",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "002",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "select"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "002",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "select"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.043,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/select_002.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/select_002.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 5463,
+      "size_mp3": null,
+      "sha256_ogg": "4cc6ac5341b9b2c86fef80c347de028e9ab9f2e037586ac7d9fa59a403a1c012",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_select_003",
+      "title": "select 003",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "003",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "select"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "003",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "select"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.383,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/select_003.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/select_003.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 6901,
+      "size_mp3": null,
+      "sha256_ogg": "9a612fd2f513d52a296906b41071c990f75defe56be3bee60d2d4e2423b51b8b",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_select_004",
+      "title": "select 004",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "004",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "select"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "004",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "select"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.383,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/select_004.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/select_004.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 6909,
+      "size_mp3": null,
+      "sha256_ogg": "eb6cb435f3f2ab14f85f46a2bdd9073ec511d0f1f8d8c890c6636045703a5fd4",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_select_005",
+      "title": "select 005",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "005",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "select"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "005",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "select"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.383,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/select_005.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/select_005.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 6767,
+      "size_mp3": null,
+      "sha256_ogg": "ad09146e4ea33b931b2f5dfb4051a4f1fe4a36f1a48c42c5e9269c292ae21214",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_select_006",
+      "title": "select 006",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "006",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "select"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "006",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "select"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 1.944,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/select_006.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/select_006.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 8101,
+      "size_mp3": null,
+      "sha256_ogg": "b44550fa8d3276c072ce7c3c1315d949f7a28a95bc22b3618ad4eea62eac8abe",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_select_007",
+      "title": "select 007",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "007",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "select"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "007",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "select"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.047,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/select_007.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/select_007.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 6580,
+      "size_mp3": null,
+      "sha256_ogg": "cd4390dd2b24f09016a5fa1be63334fa0f1859811f4cf29c02e8e2750f6a2cd0",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_select_008",
+      "title": "select 008",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "008",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "select"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "008",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "select"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.047,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/select_008.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/select_008.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 6339,
+      "size_mp3": null,
+      "sha256_ogg": "f703b6b1c62dae1c246a46d5c2442802588f68be2df4d17e0d65cf7e0dbfc826",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_switch_001",
+      "title": "switch 001",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "001",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "switch"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "001",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "switch"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.618,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/switch_001.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/switch_001.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 6753,
+      "size_mp3": null,
+      "sha256_ogg": "3b74efad87f1e69dbd1d05c5ad952ab90859b5a3d11da6ec5bd79b4f03b42afa",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_switch_002",
+      "title": "switch 002",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "002",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "switch"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "002",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "switch"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.611,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/switch_002.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/switch_002.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 7097,
+      "size_mp3": null,
+      "sha256_ogg": "6fc395be2ad1f99ce318a5d28f98fb76dbeb676d83a0b28239d8c1fb90736180",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_switch_003",
+      "title": "switch 003",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "003",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "switch"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "003",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "switch"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.5,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/switch_003.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/switch_003.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 9653,
+      "size_mp3": null,
+      "sha256_ogg": "ca12dd32103f401481d5aff56d5e9831174e99bb577139c09b07d046eb8b837e",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_switch_004",
+      "title": "switch 004",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "004",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "switch"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "004",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "switch"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.5,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/switch_004.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/switch_004.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 7248,
+      "size_mp3": null,
+      "sha256_ogg": "541c19cc1ab712a9efc5765df602e7d0da09d9cafdd297ce1e19b092289fd62f",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_switch_005",
+      "title": "switch 005",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "005",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "switch"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "005",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "switch"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.612,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/switch_005.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/switch_005.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 7814,
+      "size_mp3": null,
+      "sha256_ogg": "e94dfab6fd6558068ab3ea97e22e4b4f16b83ee440e6abf33ec4c4e9fbe8a70e",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_switch_006",
+      "title": "switch 006",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "006",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "switch"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "006",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "switch"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.611,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/switch_006.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/switch_006.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 7873,
+      "size_mp3": null,
+      "sha256_ogg": "2676ddc4e341ee557b4d1dc8767ef8655540d66fb3ded6a1614080dbc4dc6f18",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_switch_007",
+      "title": "switch 007",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "007",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "switch"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "007",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "switch"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.614,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/switch_007.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/switch_007.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 7921,
+      "size_mp3": null,
+      "sha256_ogg": "eeaf60c2abc7e1b715e2b032401bcbf6b3753b77f96b238f861a034a75515967",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_tick_001",
+      "title": "tick 001",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "001",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "tick"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "001",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "tick"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.023,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/tick_001.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/tick_001.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 4497,
+      "size_mp3": null,
+      "sha256_ogg": "9d057b918024c787bbe6c00beed13a7ef72a3fa0c259add3cef36582792f4230",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_tick_002",
+      "title": "tick 002",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "002",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "tick"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "002",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "tick"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.023,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/tick_002.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/tick_002.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 4514,
+      "size_mp3": null,
+      "sha256_ogg": "869442f54214be902ec7437f79e400dc91c1bfd90d18a6dd2d5b7e41ffbf457b",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_tick_004",
+      "title": "tick 004",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "004",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "tick"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "004",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "tick"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.055,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/tick_004.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/tick_004.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 5031,
+      "size_mp3": null,
+      "sha256_ogg": "0253d5f7d8d2afbbc370eac2a4539bb844239f0c98343e516d376b137c06d27c",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_toggle_001",
+      "title": "toggle 001",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "001",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "toggle"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "001",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "toggle"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.139,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/toggle_001.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/toggle_001.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 7369,
+      "size_mp3": null,
+      "sha256_ogg": "ca1d2dde5f0b286abac4f070e23edab8f30927c8a533665cdf2ac6492a415e49",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_toggle_002",
+      "title": "toggle 002",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "002",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "toggle"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "002",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "toggle"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.139,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/toggle_002.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/toggle_002.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 8056,
+      "size_mp3": null,
+      "sha256_ogg": "1f564f5520cfa0764028ce245ad97599d3ece8f0ab504554c403af92ac72b900",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_toggle_003",
+      "title": "toggle 003",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "003",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "toggle"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "003",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "toggle"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.139,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/toggle_003.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/toggle_003.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 8654,
+      "size_mp3": null,
+      "sha256_ogg": "7e69aba356d590826cce291bbd9dc6a85d7c53858b0e3712fcad30e1ad080b23",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "interface-sounds_toggle_004",
+      "title": "toggle 004",
+      "pack": "interface-sounds",
+      "category": "interface",
+      "tags": [
+        "004",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "toggle"
+      ],
+      "use_cases": [
+        "dialogs",
+        "inventory",
+        "notifications"
+      ],
+      "mood": [
+        "neutral",
+        "crisp"
+      ],
+      "keywords_en": [
+        "004",
+        "click",
+        "confirm",
+        "error",
+        "hover",
+        "interface",
+        "toggle"
+      ],
+      "keywords_ar": [
+        "واجهة",
+        "تأكيد",
+        "خطأ",
+        "تنبيه",
+        "تمرير"
+      ],
+      "duration_sec": 0.066,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/interface-sounds/toggle_004.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/interface-sounds/toggle_004.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 6695,
+      "size_mp3": null,
+      "sha256_ogg": "d7bf2236fc95a0fe1e3b278259392bcb062644e2d4ec5f9c96f7c09a9928262f",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "ui-audio_click1",
+      "title": "click1",
+      "pack": "ui-audio",
+      "category": "ui",
+      "tags": [
+        "button",
+        "click",
+        "click1",
+        "ui"
+      ],
+      "use_cases": [
+        "menu navigation",
+        "mobile tap",
+        "settings toggle"
+      ],
+      "mood": [
+        "neutral",
+        "clean"
+      ],
+      "keywords_en": [
+        "button",
+        "click",
+        "click1",
+        "ui"
+      ],
+      "keywords_ar": [
+        "زر",
+        "ضغطة",
+        "نقرة واجهة",
+        "قائمة"
+      ],
+      "duration_sec": 0.094,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/ui-audio/click1.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/ui-audio/click1.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 4983,
+      "size_mp3": null,
+      "sha256_ogg": "59175ac17cd49a68dd736285738441287636112a84a6f7ce0d89921bda5a5360",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-audio"
+    },
+    {
+      "id": "ui-audio_click2",
+      "title": "click2",
+      "pack": "ui-audio",
+      "category": "ui",
+      "tags": [
+        "button",
+        "click",
+        "click2",
+        "ui"
+      ],
+      "use_cases": [
+        "menu navigation",
+        "mobile tap",
+        "settings toggle"
+      ],
+      "mood": [
+        "neutral",
+        "clean"
+      ],
+      "keywords_en": [
+        "button",
+        "click",
+        "click2",
+        "ui"
+      ],
+      "keywords_ar": [
+        "زر",
+        "ضغطة",
+        "نقرة واجهة",
+        "قائمة"
+      ],
+      "duration_sec": 0.056,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/ui-audio/click2.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/ui-audio/click2.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 4656,
+      "size_mp3": null,
+      "sha256_ogg": "c394b46bc6737f7f7edfbfa3031ce621b7a43d498d456d6198364eee9cd3e306",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-audio"
+    },
+    {
+      "id": "ui-audio_click3",
+      "title": "click3",
+      "pack": "ui-audio",
+      "category": "ui",
+      "tags": [
+        "button",
+        "click",
+        "click3",
+        "ui"
+      ],
+      "use_cases": [
+        "menu navigation",
+        "mobile tap",
+        "settings toggle"
+      ],
+      "mood": [
+        "neutral",
+        "clean"
+      ],
+      "keywords_en": [
+        "button",
+        "click",
+        "click3",
+        "ui"
+      ],
+      "keywords_ar": [
+        "زر",
+        "ضغطة",
+        "نقرة واجهة",
+        "قائمة"
+      ],
+      "duration_sec": 0.086,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/ui-audio/click3.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/ui-audio/click3.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 4880,
+      "size_mp3": null,
+      "sha256_ogg": "e3e7fc7ccd9c5cfdf77bffa05aee10d4973812076c76dc889ba2b16ea434127f",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-audio"
+    },
+    {
+      "id": "ui-audio_click4",
+      "title": "click4",
+      "pack": "ui-audio",
+      "category": "ui",
+      "tags": [
+        "button",
+        "click",
+        "click4",
+        "ui"
+      ],
+      "use_cases": [
+        "menu navigation",
+        "mobile tap",
+        "settings toggle"
+      ],
+      "mood": [
+        "neutral",
+        "clean"
+      ],
+      "keywords_en": [
+        "button",
+        "click",
+        "click4",
+        "ui"
+      ],
+      "keywords_ar": [
+        "زر",
+        "ضغطة",
+        "نقرة واجهة",
+        "قائمة"
+      ],
+      "duration_sec": 0.037,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/ui-audio/click4.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/ui-audio/click4.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 4558,
+      "size_mp3": null,
+      "sha256_ogg": "9c02bbfc872b50eb8750adf4b7c343120f19f5d2f04ab06a7a8948368a77b872",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-audio"
+    },
+    {
+      "id": "ui-audio_click5",
+      "title": "click5",
+      "pack": "ui-audio",
+      "category": "ui",
+      "tags": [
+        "button",
+        "click",
+        "click5",
+        "ui"
+      ],
+      "use_cases": [
+        "menu navigation",
+        "mobile tap",
+        "settings toggle"
+      ],
+      "mood": [
+        "neutral",
+        "clean"
+      ],
+      "keywords_en": [
+        "button",
+        "click",
+        "click5",
+        "ui"
+      ],
+      "keywords_ar": [
+        "زر",
+        "ضغطة",
+        "نقرة واجهة",
+        "قائمة"
+      ],
+      "duration_sec": 0.032,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/ui-audio/click5.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/ui-audio/click5.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 4532,
+      "size_mp3": null,
+      "sha256_ogg": "52d41e0bb012731bf2a391d53ffb52265ef21589c7701e66b391d5e36a65b293",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-audio"
+    },
+    {
+      "id": "ui-audio_mouseclick1",
+      "title": "mouseclick1",
+      "pack": "ui-audio",
+      "category": "ui",
+      "tags": [
+        "button",
+        "click",
+        "mouseclick1",
+        "ui"
+      ],
+      "use_cases": [
+        "menu navigation",
+        "mobile tap",
+        "settings toggle"
+      ],
+      "mood": [
+        "neutral",
+        "clean"
+      ],
+      "keywords_en": [
+        "button",
+        "click",
+        "mouseclick1",
+        "ui"
+      ],
+      "keywords_ar": [
+        "زر",
+        "ضغطة",
+        "نقرة واجهة",
+        "قائمة"
+      ],
+      "duration_sec": 0.059,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/ui-audio/mouseclick1.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/ui-audio/mouseclick1.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 4686,
+      "size_mp3": null,
+      "sha256_ogg": "ece1210c62ccae6c9ea4f4c59466d9d453d6b357c7d4b1a6c31196e5e6fea1bf",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-audio"
+    },
+    {
+      "id": "ui-audio_mouserelease1",
+      "title": "mouserelease1",
+      "pack": "ui-audio",
+      "category": "ui",
+      "tags": [
+        "button",
+        "click",
+        "mouserelease1",
+        "ui"
+      ],
+      "use_cases": [
+        "menu navigation",
+        "mobile tap",
+        "settings toggle"
+      ],
+      "mood": [
+        "neutral",
+        "clean"
+      ],
+      "keywords_en": [
+        "button",
+        "click",
+        "mouserelease1",
+        "ui"
+      ],
+      "keywords_ar": [
+        "زر",
+        "ضغطة",
+        "نقرة واجهة",
+        "قائمة"
+      ],
+      "duration_sec": 0.069,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/ui-audio/mouserelease1.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/ui-audio/mouserelease1.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 4775,
+      "size_mp3": null,
+      "sha256_ogg": "23cb78cea76d8f1bb1266af228101a09b5d62063f4ac87ead15b1d395c6181f0",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-audio"
+    },
+    {
+      "id": "ui-audio_rollover1",
+      "title": "rollover1",
+      "pack": "ui-audio",
+      "category": "ui",
+      "tags": [
+        "button",
+        "click",
+        "rollover1",
+        "ui"
+      ],
+      "use_cases": [
+        "menu navigation",
+        "mobile tap",
+        "settings toggle"
+      ],
+      "mood": [
+        "neutral",
+        "clean"
+      ],
+      "keywords_en": [
+        "button",
+        "click",
+        "rollover1",
+        "ui"
+      ],
+      "keywords_ar": [
+        "زر",
+        "ضغطة",
+        "نقرة واجهة",
+        "قائمة"
+      ],
+      "duration_sec": 0.227,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/ui-audio/rollover1.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/ui-audio/rollover1.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 5932,
+      "size_mp3": null,
+      "sha256_ogg": "4eb47e2e1540c44847b47a89825e21335c820a4e54cacf8c4c1eb5100e36af42",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-audio"
+    },
+    {
+      "id": "ui-audio_rollover2",
+      "title": "rollover2",
+      "pack": "ui-audio",
+      "category": "ui",
+      "tags": [
+        "button",
+        "click",
+        "rollover2",
+        "ui"
+      ],
+      "use_cases": [
+        "menu navigation",
+        "mobile tap",
+        "settings toggle"
+      ],
+      "mood": [
+        "neutral",
+        "clean"
+      ],
+      "keywords_en": [
+        "button",
+        "click",
+        "rollover2",
+        "ui"
+      ],
+      "keywords_ar": [
+        "زر",
+        "ضغطة",
+        "نقرة واجهة",
+        "قائمة"
+      ],
+      "duration_sec": 0.057,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/ui-audio/rollover2.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/ui-audio/rollover2.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 4701,
+      "size_mp3": null,
+      "sha256_ogg": "d0bc0fcba496d73df1da8c145e5330df75f87ab5a4f33a9b71461b006b5c338e",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-audio"
+    },
+    {
+      "id": "ui-audio_rollover3",
+      "title": "rollover3",
+      "pack": "ui-audio",
+      "category": "ui",
+      "tags": [
+        "button",
+        "click",
+        "rollover3",
+        "ui"
+      ],
+      "use_cases": [
+        "menu navigation",
+        "mobile tap",
+        "settings toggle"
+      ],
+      "mood": [
+        "neutral",
+        "clean"
+      ],
+      "keywords_en": [
+        "button",
+        "click",
+        "rollover3",
+        "ui"
+      ],
+      "keywords_ar": [
+        "زر",
+        "ضغطة",
+        "نقرة واجهة",
+        "قائمة"
+      ],
+      "duration_sec": 0.069,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/ui-audio/rollover3.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/ui-audio/rollover3.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 4778,
+      "size_mp3": null,
+      "sha256_ogg": "641df2c95468f1f035ff0ae964129da10543b4ea8ff6c13f66bcbd899dcfc113",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-audio"
+    },
+    {
+      "id": "ui-audio_rollover4",
+      "title": "rollover4",
+      "pack": "ui-audio",
+      "category": "ui",
+      "tags": [
+        "button",
+        "click",
+        "rollover4",
+        "ui"
+      ],
+      "use_cases": [
+        "menu navigation",
+        "mobile tap",
+        "settings toggle"
+      ],
+      "mood": [
+        "neutral",
+        "clean"
+      ],
+      "keywords_en": [
+        "button",
+        "click",
+        "rollover4",
+        "ui"
+      ],
+      "keywords_ar": [
+        "زر",
+        "ضغطة",
+        "نقرة واجهة",
+        "قائمة"
+      ],
+      "duration_sec": 0.113,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/ui-audio/rollover4.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/ui-audio/rollover4.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 5188,
+      "size_mp3": null,
+      "sha256_ogg": "8b70e47aa1d51d220a3609a02cc50ceed6e05a20f51c6f8daaf5fd83eae42cf3",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-audio"
+    },
+    {
+      "id": "ui-audio_rollover5",
+      "title": "rollover5",
+      "pack": "ui-audio",
+      "category": "ui",
+      "tags": [
+        "button",
+        "click",
+        "rollover5",
+        "ui"
+      ],
+      "use_cases": [
+        "menu navigation",
+        "mobile tap",
+        "settings toggle"
+      ],
+      "mood": [
+        "neutral",
+        "clean"
+      ],
+      "keywords_en": [
+        "button",
+        "click",
+        "rollover5",
+        "ui"
+      ],
+      "keywords_ar": [
+        "زر",
+        "ضغطة",
+        "نقرة واجهة",
+        "قائمة"
+      ],
+      "duration_sec": 0.112,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/ui-audio/rollover5.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/ui-audio/rollover5.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 5258,
+      "size_mp3": null,
+      "sha256_ogg": "3e1805b914a66e63695913d19ba98c5ec584cc69d29c7167d83c460ab752a5d3",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-audio"
+    },
+    {
+      "id": "ui-audio_rollover6",
+      "title": "rollover6",
+      "pack": "ui-audio",
+      "category": "ui",
+      "tags": [
+        "button",
+        "click",
+        "rollover6",
+        "ui"
+      ],
+      "use_cases": [
+        "menu navigation",
+        "mobile tap",
+        "settings toggle"
+      ],
+      "mood": [
+        "neutral",
+        "clean"
+      ],
+      "keywords_en": [
+        "button",
+        "click",
+        "rollover6",
+        "ui"
+      ],
+      "keywords_ar": [
+        "زر",
+        "ضغطة",
+        "نقرة واجهة",
+        "قائمة"
+      ],
+      "duration_sec": 0.174,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/ui-audio/rollover6.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/ui-audio/rollover6.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 5385,
+      "size_mp3": null,
+      "sha256_ogg": "18f6f69f5fdbf55c175ca4eca8447d4ad5d8a315efd985038424f922dadefad8",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-audio"
+    },
+    {
+      "id": "ui-audio_switch1",
+      "title": "switch1",
+      "pack": "ui-audio",
+      "category": "ui",
+      "tags": [
+        "button",
+        "click",
+        "switch1",
+        "ui"
+      ],
+      "use_cases": [
+        "menu navigation",
+        "mobile tap",
+        "settings toggle"
+      ],
+      "mood": [
+        "neutral",
+        "clean"
+      ],
+      "keywords_en": [
+        "button",
+        "click",
+        "switch1",
+        "ui"
+      ],
+      "keywords_ar": [
+        "زر",
+        "ضغطة",
+        "نقرة واجهة",
+        "قائمة"
+      ],
+      "duration_sec": 0.315,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/ui-audio/switch1.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/ui-audio/switch1.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 6104,
+      "size_mp3": null,
+      "sha256_ogg": "efdd1d1e2904fb2d81259cd96bb80101caceae94be02baa4b5310714a6708b19",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-audio"
+    },
+    {
+      "id": "ui-audio_switch10",
+      "title": "switch10",
+      "pack": "ui-audio",
+      "category": "ui",
+      "tags": [
+        "button",
+        "click",
+        "switch10",
+        "ui"
+      ],
+      "use_cases": [
+        "menu navigation",
+        "mobile tap",
+        "settings toggle"
+      ],
+      "mood": [
+        "neutral",
+        "clean"
+      ],
+      "keywords_en": [
+        "button",
+        "click",
+        "switch10",
+        "ui"
+      ],
+      "keywords_ar": [
+        "زر",
+        "ضغطة",
+        "نقرة واجهة",
+        "قائمة"
+      ],
+      "duration_sec": 0.367,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/ui-audio/switch10.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/ui-audio/switch10.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 6456,
+      "size_mp3": null,
+      "sha256_ogg": "bf61b3f3af39b2c680e70ee2f791786edd2bca2016ea683947059f079849bbf3",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-audio"
+    },
+    {
+      "id": "ui-audio_switch11",
+      "title": "switch11",
+      "pack": "ui-audio",
+      "category": "ui",
+      "tags": [
+        "button",
+        "click",
+        "switch11",
+        "ui"
+      ],
+      "use_cases": [
+        "menu navigation",
+        "mobile tap",
+        "settings toggle"
+      ],
+      "mood": [
+        "neutral",
+        "clean"
+      ],
+      "keywords_en": [
+        "button",
+        "click",
+        "switch11",
+        "ui"
+      ],
+      "keywords_ar": [
+        "زر",
+        "ضغطة",
+        "نقرة واجهة",
+        "قائمة"
+      ],
+      "duration_sec": 0.297,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/ui-audio/switch11.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/ui-audio/switch11.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 6248,
+      "size_mp3": null,
+      "sha256_ogg": "a8d445bd96fe3842ff2dcdd42ae728330baa8928032ca5f3d5cd4b926929550a",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-audio"
+    },
+    {
+      "id": "ui-audio_switch12",
+      "title": "switch12",
+      "pack": "ui-audio",
+      "category": "ui",
+      "tags": [
+        "button",
+        "click",
+        "switch12",
+        "ui"
+      ],
+      "use_cases": [
+        "menu navigation",
+        "mobile tap",
+        "settings toggle"
+      ],
+      "mood": [
+        "neutral",
+        "clean"
+      ],
+      "keywords_en": [
+        "button",
+        "click",
+        "switch12",
+        "ui"
+      ],
+      "keywords_ar": [
+        "زر",
+        "ضغطة",
+        "نقرة واجهة",
+        "قائمة"
+      ],
+      "duration_sec": 0.054,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/ui-audio/switch12.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/ui-audio/switch12.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 4588,
+      "size_mp3": null,
+      "sha256_ogg": "dab0c21eacb6536724d139c27c0d60c932c87171752dc8d24d7a826694377f94",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-audio"
+    },
+    {
+      "id": "ui-audio_switch13",
+      "title": "switch13",
+      "pack": "ui-audio",
+      "category": "ui",
+      "tags": [
+        "button",
+        "click",
+        "switch13",
+        "ui"
+      ],
+      "use_cases": [
+        "menu navigation",
+        "mobile tap",
+        "settings toggle"
+      ],
+      "mood": [
+        "neutral",
+        "clean"
+      ],
+      "keywords_en": [
+        "button",
+        "click",
+        "switch13",
+        "ui"
+      ],
+      "keywords_ar": [
+        "زر",
+        "ضغطة",
+        "نقرة واجهة",
+        "قائمة"
+      ],
+      "duration_sec": 0.028,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/ui-audio/switch13.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/ui-audio/switch13.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 4467,
+      "size_mp3": null,
+      "sha256_ogg": "54d1e63b907274bb415a8de7f652194756a8eeab4079a7cf769ec153b93a436a",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-audio"
+    },
+    {
+      "id": "ui-audio_switch14",
+      "title": "switch14",
+      "pack": "ui-audio",
+      "category": "ui",
+      "tags": [
+        "button",
+        "click",
+        "switch14",
+        "ui"
+      ],
+      "use_cases": [
+        "menu navigation",
+        "mobile tap",
+        "settings toggle"
+      ],
+      "mood": [
+        "neutral",
+        "clean"
+      ],
+      "keywords_en": [
+        "button",
+        "click",
+        "switch14",
+        "ui"
+      ],
+      "keywords_ar": [
+        "زر",
+        "ضغطة",
+        "نقرة واجهة",
+        "قائمة"
+      ],
+      "duration_sec": 0.033,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/ui-audio/switch14.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/ui-audio/switch14.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 4522,
+      "size_mp3": null,
+      "sha256_ogg": "c640b370738c816eda3d1196d8a8dda7130825b4094f3bb3cbba22a9f6f9b7c9",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-audio"
+    },
+    {
+      "id": "ui-audio_switch15",
+      "title": "switch15",
+      "pack": "ui-audio",
+      "category": "ui",
+      "tags": [
+        "button",
+        "click",
+        "switch15",
+        "ui"
+      ],
+      "use_cases": [
+        "menu navigation",
+        "mobile tap",
+        "settings toggle"
+      ],
+      "mood": [
+        "neutral",
+        "clean"
+      ],
+      "keywords_en": [
+        "button",
+        "click",
+        "switch15",
+        "ui"
+      ],
+      "keywords_ar": [
+        "زر",
+        "ضغطة",
+        "نقرة واجهة",
+        "قائمة"
+      ],
+      "duration_sec": 0.256,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/ui-audio/switch15.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/ui-audio/switch15.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 6325,
+      "size_mp3": null,
+      "sha256_ogg": "5a20a9d5365dec8fec1311731540f56429cab38822326133c7ce60fbcf9fd275",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-audio"
+    },
+    {
+      "id": "ui-audio_switch16",
+      "title": "switch16",
+      "pack": "ui-audio",
+      "category": "ui",
+      "tags": [
+        "button",
+        "click",
+        "switch16",
+        "ui"
+      ],
+      "use_cases": [
+        "menu navigation",
+        "mobile tap",
+        "settings toggle"
+      ],
+      "mood": [
+        "neutral",
+        "clean"
+      ],
+      "keywords_en": [
+        "button",
+        "click",
+        "switch16",
+        "ui"
+      ],
+      "keywords_ar": [
+        "زر",
+        "ضغطة",
+        "نقرة واجهة",
+        "قائمة"
+      ],
+      "duration_sec": 0.359,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/ui-audio/switch16.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/ui-audio/switch16.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 6991,
+      "size_mp3": null,
+      "sha256_ogg": "d2e9dd4fd2918132f8400e270701384e93139f2207ac115705a2c183cf3d2098",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-audio"
+    },
+    {
+      "id": "ui-audio_switch17",
+      "title": "switch17",
+      "pack": "ui-audio",
+      "category": "ui",
+      "tags": [
+        "button",
+        "click",
+        "switch17",
+        "ui"
+      ],
+      "use_cases": [
+        "menu navigation",
+        "mobile tap",
+        "settings toggle"
+      ],
+      "mood": [
+        "neutral",
+        "clean"
+      ],
+      "keywords_en": [
+        "button",
+        "click",
+        "switch17",
+        "ui"
+      ],
+      "keywords_ar": [
+        "زر",
+        "ضغطة",
+        "نقرة واجهة",
+        "قائمة"
+      ],
+      "duration_sec": 0.333,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/ui-audio/switch17.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/ui-audio/switch17.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 6686,
+      "size_mp3": null,
+      "sha256_ogg": "d09974d4cf5ccb2d75647e2464cd424e7e3c7a0374e73e8a22577662031a3677",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-audio"
+    },
+    {
+      "id": "ui-audio_switch18",
+      "title": "switch18",
+      "pack": "ui-audio",
+      "category": "ui",
+      "tags": [
+        "button",
+        "click",
+        "switch18",
+        "ui"
+      ],
+      "use_cases": [
+        "menu navigation",
+        "mobile tap",
+        "settings toggle"
+      ],
+      "mood": [
+        "neutral",
+        "clean"
+      ],
+      "keywords_en": [
+        "button",
+        "click",
+        "switch18",
+        "ui"
+      ],
+      "keywords_ar": [
+        "زر",
+        "ضغطة",
+        "نقرة واجهة",
+        "قائمة"
+      ],
+      "duration_sec": 0.435,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/ui-audio/switch18.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/ui-audio/switch18.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 7633,
+      "size_mp3": null,
+      "sha256_ogg": "ba759707fc2e55f4e7d1edd1dd78a4110267f4dc564edfb989c00f062ef69d8c",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-audio"
+    },
+    {
+      "id": "ui-audio_switch19",
+      "title": "switch19",
+      "pack": "ui-audio",
+      "category": "ui",
+      "tags": [
+        "button",
+        "click",
+        "switch19",
+        "ui"
+      ],
+      "use_cases": [
+        "menu navigation",
+        "mobile tap",
+        "settings toggle"
+      ],
+      "mood": [
+        "neutral",
+        "clean"
+      ],
+      "keywords_en": [
+        "button",
+        "click",
+        "switch19",
+        "ui"
+      ],
+      "keywords_ar": [
+        "زر",
+        "ضغطة",
+        "نقرة واجهة",
+        "قائمة"
+      ],
+      "duration_sec": 0.384,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/ui-audio/switch19.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/ui-audio/switch19.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 7177,
+      "size_mp3": null,
+      "sha256_ogg": "63753f884e4e0d44b0939bee9f048b32e658d996958930363c0579ffa0f810c1",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-audio"
+    },
+    {
+      "id": "ui-audio_switch2",
+      "title": "switch2",
+      "pack": "ui-audio",
+      "category": "ui",
+      "tags": [
+        "button",
+        "click",
+        "switch2",
+        "ui"
+      ],
+      "use_cases": [
+        "menu navigation",
+        "mobile tap",
+        "settings toggle"
+      ],
+      "mood": [
+        "neutral",
+        "clean"
+      ],
+      "keywords_en": [
+        "button",
+        "click",
+        "switch2",
+        "ui"
+      ],
+      "keywords_ar": [
+        "زر",
+        "ضغطة",
+        "نقرة واجهة",
+        "قائمة"
+      ],
+      "duration_sec": 0.297,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/ui-audio/switch2.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/ui-audio/switch2.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 6042,
+      "size_mp3": null,
+      "sha256_ogg": "aa8ad6e4745e87c84c24a0335e0e0f8629ccbbc474ccfd544fe07d7f3a1b2280",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-audio"
+    },
+    {
+      "id": "ui-audio_switch20",
+      "title": "switch20",
+      "pack": "ui-audio",
+      "category": "ui",
+      "tags": [
+        "button",
+        "click",
+        "switch20",
+        "ui"
+      ],
+      "use_cases": [
+        "menu navigation",
+        "mobile tap",
+        "settings toggle"
+      ],
+      "mood": [
+        "neutral",
+        "clean"
+      ],
+      "keywords_en": [
+        "button",
+        "click",
+        "switch20",
+        "ui"
+      ],
+      "keywords_ar": [
+        "زر",
+        "ضغطة",
+        "نقرة واجهة",
+        "قائمة"
+      ],
+      "duration_sec": 0.359,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/ui-audio/switch20.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/ui-audio/switch20.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 6965,
+      "size_mp3": null,
+      "sha256_ogg": "276b402ee4840f88a8df4eca6ece029b61c5840fa9149b0c5008fe4bda89cc21",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-audio"
+    },
+    {
+      "id": "ui-audio_switch21",
+      "title": "switch21",
+      "pack": "ui-audio",
+      "category": "ui",
+      "tags": [
+        "button",
+        "click",
+        "switch21",
+        "ui"
+      ],
+      "use_cases": [
+        "menu navigation",
+        "mobile tap",
+        "settings toggle"
+      ],
+      "mood": [
+        "neutral",
+        "clean"
+      ],
+      "keywords_en": [
+        "button",
+        "click",
+        "switch21",
+        "ui"
+      ],
+      "keywords_ar": [
+        "زر",
+        "ضغطة",
+        "نقرة واجهة",
+        "قائمة"
+      ],
+      "duration_sec": 0.41,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/ui-audio/switch21.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/ui-audio/switch21.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 7453,
+      "size_mp3": null,
+      "sha256_ogg": "8a3fdc5d35c74ae4ce4ec75c1f85c7f5fac1a2a6ac838353b09c48c5d7888fc9",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-audio"
+    },
+    {
+      "id": "ui-audio_switch22",
+      "title": "switch22",
+      "pack": "ui-audio",
+      "category": "ui",
+      "tags": [
+        "button",
+        "click",
+        "switch22",
+        "ui"
+      ],
+      "use_cases": [
+        "menu navigation",
+        "mobile tap",
+        "settings toggle"
+      ],
+      "mood": [
+        "neutral",
+        "clean"
+      ],
+      "keywords_en": [
+        "button",
+        "click",
+        "switch22",
+        "ui"
+      ],
+      "keywords_ar": [
+        "زر",
+        "ضغطة",
+        "نقرة واجهة",
+        "قائمة"
+      ],
+      "duration_sec": 0.359,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/ui-audio/switch22.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/ui-audio/switch22.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 7116,
+      "size_mp3": null,
+      "sha256_ogg": "913261ad55fa0692902e4027a7a139844e7589d30c4286ab10e6d637f28b1d9f",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-audio"
+    },
+    {
+      "id": "ui-audio_switch23",
+      "title": "switch23",
+      "pack": "ui-audio",
+      "category": "ui",
+      "tags": [
+        "button",
+        "click",
+        "switch23",
+        "ui"
+      ],
+      "use_cases": [
+        "menu navigation",
+        "mobile tap",
+        "settings toggle"
+      ],
+      "mood": [
+        "neutral",
+        "clean"
+      ],
+      "keywords_en": [
+        "button",
+        "click",
+        "switch23",
+        "ui"
+      ],
+      "keywords_ar": [
+        "زر",
+        "ضغطة",
+        "نقرة واجهة",
+        "قائمة"
+      ],
+      "duration_sec": 0.384,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/ui-audio/switch23.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/ui-audio/switch23.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 7177,
+      "size_mp3": null,
+      "sha256_ogg": "148d91722dd819b450d8b50e65686d9b1d39d38ca05b361caa387bcbd2a90d81",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-audio"
+    },
+    {
+      "id": "ui-audio_switch24",
+      "title": "switch24",
+      "pack": "ui-audio",
+      "category": "ui",
+      "tags": [
+        "button",
+        "click",
+        "switch24",
+        "ui"
+      ],
+      "use_cases": [
+        "menu navigation",
+        "mobile tap",
+        "settings toggle"
+      ],
+      "mood": [
+        "neutral",
+        "clean"
+      ],
+      "keywords_en": [
+        "button",
+        "click",
+        "switch24",
+        "ui"
+      ],
+      "keywords_ar": [
+        "زر",
+        "ضغطة",
+        "نقرة واجهة",
+        "قائمة"
+      ],
+      "duration_sec": 0.282,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/ui-audio/switch24.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/ui-audio/switch24.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 6340,
+      "size_mp3": null,
+      "sha256_ogg": "aec5e91eef35c4a64d3bec7a25e54a68fa0448f4cf3179455e18c72c3dda60e9",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-audio"
+    },
+    {
+      "id": "ui-audio_switch25",
+      "title": "switch25",
+      "pack": "ui-audio",
+      "category": "ui",
+      "tags": [
+        "button",
+        "click",
+        "switch25",
+        "ui"
+      ],
+      "use_cases": [
+        "menu navigation",
+        "mobile tap",
+        "settings toggle"
+      ],
+      "mood": [
+        "neutral",
+        "clean"
+      ],
+      "keywords_en": [
+        "button",
+        "click",
+        "switch25",
+        "ui"
+      ],
+      "keywords_ar": [
+        "زر",
+        "ضغطة",
+        "نقرة واجهة",
+        "قائمة"
+      ],
+      "duration_sec": 0.384,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/ui-audio/switch25.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/ui-audio/switch25.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 7130,
+      "size_mp3": null,
+      "sha256_ogg": "ba31fc9a780a6908809154e0108e8d2728b5b9a6e769c8f56d61d920fba100ae",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-audio"
+    },
+    {
+      "id": "ui-audio_switch26",
+      "title": "switch26",
+      "pack": "ui-audio",
+      "category": "ui",
+      "tags": [
+        "button",
+        "click",
+        "switch26",
+        "ui"
+      ],
+      "use_cases": [
+        "menu navigation",
+        "mobile tap",
+        "settings toggle"
+      ],
+      "mood": [
+        "neutral",
+        "clean"
+      ],
+      "keywords_en": [
+        "button",
+        "click",
+        "switch26",
+        "ui"
+      ],
+      "keywords_ar": [
+        "زر",
+        "ضغطة",
+        "نقرة واجهة",
+        "قائمة"
+      ],
+      "duration_sec": 0.23,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/ui-audio/switch26.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/ui-audio/switch26.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 6031,
+      "size_mp3": null,
+      "sha256_ogg": "1a628e2fbede99afdb57533fa367f352fede596df18c91deb841a21f8171654a",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-audio"
+    },
+    {
+      "id": "ui-audio_switch27",
+      "title": "switch27",
+      "pack": "ui-audio",
+      "category": "ui",
+      "tags": [
+        "button",
+        "click",
+        "switch27",
+        "ui"
+      ],
+      "use_cases": [
+        "menu navigation",
+        "mobile tap",
+        "settings toggle"
+      ],
+      "mood": [
+        "neutral",
+        "clean"
+      ],
+      "keywords_en": [
+        "button",
+        "click",
+        "switch27",
+        "ui"
+      ],
+      "keywords_ar": [
+        "زر",
+        "ضغطة",
+        "نقرة واجهة",
+        "قائمة"
+      ],
+      "duration_sec": 0.282,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/ui-audio/switch27.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/ui-audio/switch27.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 6445,
+      "size_mp3": null,
+      "sha256_ogg": "a6a3a5fa54037e3b69c0fe7f2d9b50422cb23dd616bb7f72ac0a2a028a810028",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-audio"
+    },
+    {
+      "id": "ui-audio_switch28",
+      "title": "switch28",
+      "pack": "ui-audio",
+      "category": "ui",
+      "tags": [
+        "button",
+        "click",
+        "switch28",
+        "ui"
+      ],
+      "use_cases": [
+        "menu navigation",
+        "mobile tap",
+        "settings toggle"
+      ],
+      "mood": [
+        "neutral",
+        "clean"
+      ],
+      "keywords_en": [
+        "button",
+        "click",
+        "switch28",
+        "ui"
+      ],
+      "keywords_ar": [
+        "زر",
+        "ضغطة",
+        "نقرة واجهة",
+        "قائمة"
+      ],
+      "duration_sec": 0.205,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/ui-audio/switch28.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/ui-audio/switch28.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 5916,
+      "size_mp3": null,
+      "sha256_ogg": "2f7b627d85ce1530faef5374d3826bfca1ff2823b1b41d5f908448976061e2d4",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-audio"
+    },
+    {
+      "id": "ui-audio_switch29",
+      "title": "switch29",
+      "pack": "ui-audio",
+      "category": "ui",
+      "tags": [
+        "button",
+        "click",
+        "switch29",
+        "ui"
+      ],
+      "use_cases": [
+        "menu navigation",
+        "mobile tap",
+        "settings toggle"
+      ],
+      "mood": [
+        "neutral",
+        "clean"
+      ],
+      "keywords_en": [
+        "button",
+        "click",
+        "switch29",
+        "ui"
+      ],
+      "keywords_ar": [
+        "زر",
+        "ضغطة",
+        "نقرة واجهة",
+        "قائمة"
+      ],
+      "duration_sec": 0.307,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/ui-audio/switch29.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/ui-audio/switch29.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 6769,
+      "size_mp3": null,
+      "sha256_ogg": "b2923ed170e963b5e211bf73e75f8eeb41f6b49a46eb52f3b3fc43234c713a16",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-audio"
+    },
+    {
+      "id": "ui-audio_switch3",
+      "title": "switch3",
+      "pack": "ui-audio",
+      "category": "ui",
+      "tags": [
+        "button",
+        "click",
+        "switch3",
+        "ui"
+      ],
+      "use_cases": [
+        "menu navigation",
+        "mobile tap",
+        "settings toggle"
+      ],
+      "mood": [
+        "neutral",
+        "clean"
+      ],
+      "keywords_en": [
+        "button",
+        "click",
+        "switch3",
+        "ui"
+      ],
+      "keywords_ar": [
+        "زر",
+        "ضغطة",
+        "نقرة واجهة",
+        "قائمة"
+      ],
+      "duration_sec": 0.367,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/ui-audio/switch3.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/ui-audio/switch3.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 6270,
+      "size_mp3": null,
+      "sha256_ogg": "75d87dc60b7d29df838530af8c9e28205102234e07b5f1e849aa3d95c3922bd0",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-audio"
+    },
+    {
+      "id": "ui-audio_switch30",
+      "title": "switch30",
+      "pack": "ui-audio",
+      "category": "ui",
+      "tags": [
+        "button",
+        "click",
+        "switch30",
+        "ui"
+      ],
+      "use_cases": [
+        "menu navigation",
+        "mobile tap",
+        "settings toggle"
+      ],
+      "mood": [
+        "neutral",
+        "clean"
+      ],
+      "keywords_en": [
+        "button",
+        "click",
+        "switch30",
+        "ui"
+      ],
+      "keywords_ar": [
+        "زر",
+        "ضغطة",
+        "نقرة واجهة",
+        "قائمة"
+      ],
+      "duration_sec": 0.359,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/ui-audio/switch30.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/ui-audio/switch30.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 7151,
+      "size_mp3": null,
+      "sha256_ogg": "d220abb5218fccc6d37649e17e7cce2a4e253f474332d9ea2b0f0518264aff5a",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-audio"
+    },
+    {
+      "id": "ui-audio_switch31",
+      "title": "switch31",
+      "pack": "ui-audio",
+      "category": "ui",
+      "tags": [
+        "button",
+        "click",
+        "switch31",
+        "ui"
+      ],
+      "use_cases": [
+        "menu navigation",
+        "mobile tap",
+        "settings toggle"
+      ],
+      "mood": [
+        "neutral",
+        "clean"
+      ],
+      "keywords_en": [
+        "button",
+        "click",
+        "switch31",
+        "ui"
+      ],
+      "keywords_ar": [
+        "زر",
+        "ضغطة",
+        "نقرة واجهة",
+        "قائمة"
+      ],
+      "duration_sec": 0.435,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/ui-audio/switch31.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/ui-audio/switch31.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 8180,
+      "size_mp3": null,
+      "sha256_ogg": "bca5f3047e73d28f6619d49a45dee1984340c165da5fa49b239068c2cb9b4be1",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-audio"
+    },
+    {
+      "id": "ui-audio_switch32",
+      "title": "switch32",
+      "pack": "ui-audio",
+      "category": "ui",
+      "tags": [
+        "button",
+        "click",
+        "switch32",
+        "ui"
+      ],
+      "use_cases": [
+        "menu navigation",
+        "mobile tap",
+        "settings toggle"
+      ],
+      "mood": [
+        "neutral",
+        "clean"
+      ],
+      "keywords_en": [
+        "button",
+        "click",
+        "switch32",
+        "ui"
+      ],
+      "keywords_ar": [
+        "زر",
+        "ضغطة",
+        "نقرة واجهة",
+        "قائمة"
+      ],
+      "duration_sec": 0.435,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/ui-audio/switch32.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/ui-audio/switch32.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 7868,
+      "size_mp3": null,
+      "sha256_ogg": "b740f507ad386a1d09bb5ca69a75231656a71375df11348fcd2d5e323b8d6727",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-audio"
+    },
+    {
+      "id": "ui-audio_switch33",
+      "title": "switch33",
+      "pack": "ui-audio",
+      "category": "ui",
+      "tags": [
+        "button",
+        "click",
+        "switch33",
+        "ui"
+      ],
+      "use_cases": [
+        "menu navigation",
+        "mobile tap",
+        "settings toggle"
+      ],
+      "mood": [
+        "neutral",
+        "clean"
+      ],
+      "keywords_en": [
+        "button",
+        "click",
+        "switch33",
+        "ui"
+      ],
+      "keywords_ar": [
+        "زر",
+        "ضغطة",
+        "نقرة واجهة",
+        "قائمة"
+      ],
+      "duration_sec": 0.512,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/ui-audio/switch33.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/ui-audio/switch33.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 8530,
+      "size_mp3": null,
+      "sha256_ogg": "977ecead4b27cf9801aed433bfa4bdfcf49444c15990d27d2e472401a1fb2742",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-audio"
+    },
+    {
+      "id": "ui-audio_switch34",
+      "title": "switch34",
+      "pack": "ui-audio",
+      "category": "ui",
+      "tags": [
+        "button",
+        "click",
+        "switch34",
+        "ui"
+      ],
+      "use_cases": [
+        "menu navigation",
+        "mobile tap",
+        "settings toggle"
+      ],
+      "mood": [
+        "neutral",
+        "clean"
+      ],
+      "keywords_en": [
+        "button",
+        "click",
+        "switch34",
+        "ui"
+      ],
+      "keywords_ar": [
+        "زر",
+        "ضغطة",
+        "نقرة واجهة",
+        "قائمة"
+      ],
+      "duration_sec": 0.461,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/ui-audio/switch34.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/ui-audio/switch34.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 7910,
+      "size_mp3": null,
+      "sha256_ogg": "6e7943ed133c1b559d009da5028da0a318fee0b1bcfe6e4fa49744ba2cd3975b",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-audio"
+    },
+    {
+      "id": "ui-audio_switch35",
+      "title": "switch35",
+      "pack": "ui-audio",
+      "category": "ui",
+      "tags": [
+        "button",
+        "click",
+        "switch35",
+        "ui"
+      ],
+      "use_cases": [
+        "menu navigation",
+        "mobile tap",
+        "settings toggle"
+      ],
+      "mood": [
+        "neutral",
+        "clean"
+      ],
+      "keywords_en": [
+        "button",
+        "click",
+        "switch35",
+        "ui"
+      ],
+      "keywords_ar": [
+        "زر",
+        "ضغطة",
+        "نقرة واجهة",
+        "قائمة"
+      ],
+      "duration_sec": 0.333,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/ui-audio/switch35.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/ui-audio/switch35.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 6935,
+      "size_mp3": null,
+      "sha256_ogg": "1ec7f5a76318f88c499d37567167f565cb564266d52b37112aac6467fe4126cb",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-audio"
+    },
+    {
+      "id": "ui-audio_switch36",
+      "title": "switch36",
+      "pack": "ui-audio",
+      "category": "ui",
+      "tags": [
+        "button",
+        "click",
+        "switch36",
+        "ui"
+      ],
+      "use_cases": [
+        "menu navigation",
+        "mobile tap",
+        "settings toggle"
+      ],
+      "mood": [
+        "neutral",
+        "clean"
+      ],
+      "keywords_en": [
+        "button",
+        "click",
+        "switch36",
+        "ui"
+      ],
+      "keywords_ar": [
+        "زر",
+        "ضغطة",
+        "نقرة واجهة",
+        "قائمة"
+      ],
+      "duration_sec": 0.307,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/ui-audio/switch36.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/ui-audio/switch36.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 6616,
+      "size_mp3": null,
+      "sha256_ogg": "1dd3cf29291219ab2eed0292d5c3b06b1e102ea70821099e741fc127734ffa04",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-audio"
+    },
+    {
+      "id": "ui-audio_switch37",
+      "title": "switch37",
+      "pack": "ui-audio",
+      "category": "ui",
+      "tags": [
+        "button",
+        "click",
+        "switch37",
+        "ui"
+      ],
+      "use_cases": [
+        "menu navigation",
+        "mobile tap",
+        "settings toggle"
+      ],
+      "mood": [
+        "neutral",
+        "clean"
+      ],
+      "keywords_en": [
+        "button",
+        "click",
+        "switch37",
+        "ui"
+      ],
+      "keywords_ar": [
+        "زر",
+        "ضغطة",
+        "نقرة واجهة",
+        "قائمة"
+      ],
+      "duration_sec": 0.307,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/ui-audio/switch37.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/ui-audio/switch37.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 6822,
+      "size_mp3": null,
+      "sha256_ogg": "25faa57a3e819a3e3a2191934226e540467fcd11680131a7a77b47271048327e",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-audio"
+    },
+    {
+      "id": "ui-audio_switch38",
+      "title": "switch38",
+      "pack": "ui-audio",
+      "category": "ui",
+      "tags": [
+        "button",
+        "click",
+        "switch38",
+        "ui"
+      ],
+      "use_cases": [
+        "menu navigation",
+        "mobile tap",
+        "settings toggle"
+      ],
+      "mood": [
+        "neutral",
+        "clean"
+      ],
+      "keywords_en": [
+        "button",
+        "click",
+        "switch38",
+        "ui"
+      ],
+      "keywords_ar": [
+        "زر",
+        "ضغطة",
+        "نقرة واجهة",
+        "قائمة"
+      ],
+      "duration_sec": 0.424,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/ui-audio/switch38.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/ui-audio/switch38.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 7303,
+      "size_mp3": null,
+      "sha256_ogg": "d5c164ba622e3c7904eb0f442a81cff9985bebbd8951202348d2a7c8a449309b",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-audio"
+    },
+    {
+      "id": "ui-audio_switch4",
+      "title": "switch4",
+      "pack": "ui-audio",
+      "category": "ui",
+      "tags": [
+        "button",
+        "click",
+        "switch4",
+        "ui"
+      ],
+      "use_cases": [
+        "menu navigation",
+        "mobile tap",
+        "settings toggle"
+      ],
+      "mood": [
+        "neutral",
+        "clean"
+      ],
+      "keywords_en": [
+        "button",
+        "click",
+        "switch4",
+        "ui"
+      ],
+      "keywords_ar": [
+        "زر",
+        "ضغطة",
+        "نقرة واجهة",
+        "قائمة"
+      ],
+      "duration_sec": 0.42,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/ui-audio/switch4.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/ui-audio/switch4.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 6477,
+      "size_mp3": null,
+      "sha256_ogg": "687a42c24e5d25be1a256f35a439fe858548fe76d43ccfb17db546618b0d36db",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-audio"
+    },
+    {
+      "id": "ui-audio_switch5",
+      "title": "switch5",
+      "pack": "ui-audio",
+      "category": "ui",
+      "tags": [
+        "button",
+        "click",
+        "switch5",
+        "ui"
+      ],
+      "use_cases": [
+        "menu navigation",
+        "mobile tap",
+        "settings toggle"
+      ],
+      "mood": [
+        "neutral",
+        "clean"
+      ],
+      "keywords_en": [
+        "button",
+        "click",
+        "switch5",
+        "ui"
+      ],
+      "keywords_ar": [
+        "زر",
+        "ضغطة",
+        "نقرة واجهة",
+        "قائمة"
+      ],
+      "duration_sec": 0.315,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/ui-audio/switch5.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/ui-audio/switch5.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 6181,
+      "size_mp3": null,
+      "sha256_ogg": "8a5c85c0009cfd985634e8fdb4e0350690be5d85fd49f43a90b35c7de0bef7c0",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-audio"
+    },
+    {
+      "id": "ui-audio_switch6",
+      "title": "switch6",
+      "pack": "ui-audio",
+      "category": "ui",
+      "tags": [
+        "button",
+        "click",
+        "switch6",
+        "ui"
+      ],
+      "use_cases": [
+        "menu navigation",
+        "mobile tap",
+        "settings toggle"
+      ],
+      "mood": [
+        "neutral",
+        "clean"
+      ],
+      "keywords_en": [
+        "button",
+        "click",
+        "switch6",
+        "ui"
+      ],
+      "keywords_ar": [
+        "زر",
+        "ضغطة",
+        "نقرة واجهة",
+        "قائمة"
+      ],
+      "duration_sec": 0.35,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/ui-audio/switch6.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/ui-audio/switch6.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 6610,
+      "size_mp3": null,
+      "sha256_ogg": "34d37cbfe6785cab2f3217b613fc976ba05b869c0ce61381eafa67ee257ecc9d",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-audio"
+    },
+    {
+      "id": "ui-audio_switch7",
+      "title": "switch7",
+      "pack": "ui-audio",
+      "category": "ui",
+      "tags": [
+        "button",
+        "click",
+        "switch7",
+        "ui"
+      ],
+      "use_cases": [
+        "menu navigation",
+        "mobile tap",
+        "settings toggle"
+      ],
+      "mood": [
+        "neutral",
+        "clean"
+      ],
+      "keywords_en": [
+        "button",
+        "click",
+        "switch7",
+        "ui"
+      ],
+      "keywords_ar": [
+        "زر",
+        "ضغطة",
+        "نقرة واجهة",
+        "قائمة"
+      ],
+      "duration_sec": 0.192,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/ui-audio/switch7.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/ui-audio/switch7.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 5707,
+      "size_mp3": null,
+      "sha256_ogg": "7a3032d1dae63d1096cf2f1e59cb43e598d5229dcb9617e9d3fb13e96c78d5f2",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-audio"
+    },
+    {
+      "id": "ui-audio_switch8",
+      "title": "switch8",
+      "pack": "ui-audio",
+      "category": "ui",
+      "tags": [
+        "button",
+        "click",
+        "switch8",
+        "ui"
+      ],
+      "use_cases": [
+        "menu navigation",
+        "mobile tap",
+        "settings toggle"
+      ],
+      "mood": [
+        "neutral",
+        "clean"
+      ],
+      "keywords_en": [
+        "button",
+        "click",
+        "switch8",
+        "ui"
+      ],
+      "keywords_ar": [
+        "زر",
+        "ضغطة",
+        "نقرة واجهة",
+        "قائمة"
+      ],
+      "duration_sec": 0.332,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/ui-audio/switch8.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/ui-audio/switch8.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 6253,
+      "size_mp3": null,
+      "sha256_ogg": "c7bf07f8d58ac62faac2427868619631b1a89b0ab08e87c7c01621a086fa1873",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-audio"
+    },
+    {
+      "id": "ui-audio_switch9",
+      "title": "switch9",
+      "pack": "ui-audio",
+      "category": "ui",
+      "tags": [
+        "button",
+        "click",
+        "switch9",
+        "ui"
+      ],
+      "use_cases": [
+        "menu navigation",
+        "mobile tap",
+        "settings toggle"
+      ],
+      "mood": [
+        "neutral",
+        "clean"
+      ],
+      "keywords_en": [
+        "button",
+        "click",
+        "switch9",
+        "ui"
+      ],
+      "keywords_ar": [
+        "زر",
+        "ضغطة",
+        "نقرة واجهة",
+        "قائمة"
+      ],
+      "duration_sec": 0.262,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/ui-audio/switch9.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/ui-audio/switch9.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 6009,
+      "size_mp3": null,
+      "sha256_ogg": "069861740681c528866483e3d528d79034f24d744c4fc79f7045b7d9ed999e26",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/ui-audio"
+    }
+  ]
+}
