@@ -29,5 +29,13 @@ Goal: mirror ~730 upstream sounds as OGG+MP3 (~1460 files) **without filling the
 - [x] Batch 4: rpg-audio (51) + casino-audio (54) → 521 total — pushed `f09841b`
 - [x] Batch 5: music-jingles (85) + voiceover-pack (92) + voiceover-pack-fighter (46) → 700 total — pushed `305afae`
 
-Note: upstream packs contain OGG only (no MP3/WAV), so the mirror is 700 OGG files,
-12.08 MB total. index.json `formats`/`download_url_mp3` are null where MP3 does not exist.
+Note: upstream packs contain OGG only (no MP3/WAV), so the mirror is OGG files,
+~12.5 MB total. index.json `formats`/`download_url_mp3` are null where MP3 does not exist.
+
+## Fix 2026-09-21: voiceover-pack completeness
+
+Audit found `voiceover-pack` ships `Male/1.ogg` + `Female/1.ogg` (same basenames),
+so flat extraction overwrote 44 files (repo had 48, upstream 92).
+Fixed by preserving `Male/` + `Female/` subfolders; `build_index.py` now keys by
+relative path for collision-proof IDs. Verified: 753 OGG in upstream ZIPs −
+9 preview tracks = **744 mirrored**. All `_tmp/` audit ZIPs deleted.
