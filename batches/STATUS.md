@@ -46,7 +46,12 @@ Skipped: 5 non-CC0 packs + 5 Kenney re-uploads (dupes of Wave 1).
 
 - Sonniss GDC: redistribution as sound library prohibited + AI use prohibited.
 - Freesound: needs user API key (OAuth for originals); API ToS forbids DB replication.
-  → pending user credentials for a small curated import.
+  → skipped per user (2026-09-21).
+- itch.io CC0 (34 packs found): files sit behind the purchase/download flow
+  (no direct URLs in page HTML; PWYW items need login). Anonymous scraping would
+  also breach itch.io ToS on automated access.
+  → blocked unless user claims the packs in-browser and provides an itch.io API
+  key (`scripts/itch_audit.py` lists all 34). Pending user decision.
 
 ## Fix 2026-09-21: voiceover-pack completeness
 
