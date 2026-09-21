@@ -21,10 +21,13 @@ Goal: mirror ~730 upstream sounds as OGG+MP3 (~1460 files) **without filling the
 6. Verify on github.com, then `rm -rf _tmp/*` (frees disk before next batch).
 7. Update this file + README status table.
 
-## Log
+## Log (completed 2026-09-21 — temp ZIPs deleted after each push, disk-safe)
 
-- [ ] Batch 1: ui-audio + interface-sounds
-- [ ] Batch 2: impact-sounds
-- [ ] Batch 3: sci-fi-sounds + digital-audio
-- [ ] Batch 4: rpg-audio + casino-audio
-- [ ] Batch 5: music-jingles + voiceover-pack + voiceover-pack-fighter
+- [x] Batch 1: ui-audio (51) + interface-sounds (100) → 151 indexed — pushed `1f78fa4`
+- [x] Batch 2: impact-sounds (130) → 281 total — pushed `f9ce9b9`
+- [x] Batch 3: sci-fi-sounds (73) + digital-audio (62) → 416 total — pushed `303b6cf`
+- [x] Batch 4: rpg-audio (51) + casino-audio (54) → 521 total — pushed `f09841b`
+- [x] Batch 5: music-jingles (85) + voiceover-pack (92) + voiceover-pack-fighter (46) → 700 total — pushed `305afae`
+
+Note: upstream packs contain OGG only (no MP3/WAV), so the mirror is 700 OGG files,
+12.08 MB total. index.json `formats`/`download_url_mp3` are null where MP3 does not exist.
