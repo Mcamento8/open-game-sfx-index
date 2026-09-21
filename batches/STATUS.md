@@ -27,10 +27,26 @@ Goal: mirror ~730 upstream sounds as OGG+MP3 (~1460 files) **without filling the
 - [x] Batch 2: impact-sounds (130) → 281 total — pushed `f9ce9b9`
 - [x] Batch 3: sci-fi-sounds (73) + digital-audio (62) → 416 total — pushed `303b6cf`
 - [x] Batch 4: rpg-audio (51) + casino-audio (54) → 521 total — pushed `f09841b`
-- [x] Batch 5: music-jingles (85) + voiceover-pack (92) + voiceover-pack-fighter (46) → 700 total — pushed `305afae`
+- [x] Batch 5: music-jingles (85) + voiceover-pack (92) + voiceover-pack-fighter (46) → 744 total (after voiceover fix below)
 
 Note: upstream packs contain OGG only (no MP3/WAV), so the mirror is OGG files,
 ~12.5 MB total. index.json `formats`/`download_url_mp3` are null where MP3 does not exist.
+
+## Wave 2 — OpenGameArt CC0 (2026-09-21, +707 sounds → 1451 total)
+
+License audit first (`scripts/oga_audit.py`): 11/16 candidate packs CC0.
+Skipped: 5 non-CC0 packs + 5 Kenney re-uploads (dupes of Wave 1).
+`__MACOSX`/`._` junk removed (144 files); AIFF→WAV lossless; FLAC supported.
+
+- [x] oga-512-retro (512, SubspaceAudio) + oga-rpg-pack (96, artisticdude)
+- [x] oga-gui-lokif (13) + oga-hits-punches (37 FLAC) + oga-levelup-powerup (13)
+- [x] oga-zombies (24) + oga-footsteps (8) + oga-battle (4)
+
+## Not mirrored (legal reasons — see ATTRIBUTION.md)
+
+- Sonniss GDC: redistribution as sound library prohibited + AI use prohibited.
+- Freesound: needs user API key (OAuth for originals); API ToS forbids DB replication.
+  → pending user credentials for a small curated import.
 
 ## Fix 2026-09-21: voiceover-pack completeness
 

@@ -1,4 +1,6 @@
-# Upstream sources (exact download URLs, CC0)
+# Upstream sources (exact download URLs, CC0 only)
+
+## Kenney.nl (10 packs, OGG)
 
 | Pack | Pack page | Direct ZIP (verified 2026-09-21) | Upstream count |
 |------|-----------|----------------------------------|----------------|
@@ -13,5 +15,24 @@
 | voiceover-pack | https://kenney.nl/assets/voiceover-pack | https://kenney.nl/media/pages/assets/voiceover-pack/3f7f168698-1677589897/kenney_voiceover-pack.zip | 90 |
 | voiceover-pack-fighter | https://kenney.nl/assets/voiceover-pack-fighter | https://kenney.nl/media/pages/assets/voiceover-pack-fighter/6ceb77c6f1-1677589837/kenney_voiceover-pack-fighter.zip | 45 |
 
-All pack pages state **License: Creative Commons CC0**.
-Only OGG+MP3 are mirrored here (WAV skipped for size — see README).
+All Kenney pack pages state **License: Creative Commons CC0**.
+
+## OpenGameArt.org (8 packs, WAV/FLAC/AIFF→WAV — verified CC0 2026-09-21)
+
+Each page's license badge was checked for CC0 before download.
+Kenney re-uploads on OGA were skipped (duplicates of the Kenney mirror above),
+as were 5 non-CC0 packs (CC-BY).
+
+| Pack (local dir) | OGA page | Direct file | Author | Mirrored |
+|------|-----------|-------------|--------|----------|
+| oga-512-retro | https://opengameart.org/content/512-sound-effects-8-bit-style | `The Essential Retro Video Game Sound Effects Collection [512 sounds].zip` (19.6 MB) | SubspaceAudio | 512 |
+| oga-rpg-pack | https://opengameart.org/content/rpg-sound-pack | `rpg_sound_pack.zip` (11.9 MB) | artisticdude | 96 |
+| oga-gui-lokif | https://opengameart.org/content/gui-sound-effects | `GUI_Sound_Effects_by_Lokif.7z` (2.2 MB) | LokiF | 13 |
+| oga-hits-punches | https://opengameart.org/content/37-hitspunches | `independent_nu_ljudbank-hits_and_punches.7z` (1.6 MB) | qubodup | 37 |
+| oga-levelup-powerup | https://opengameart.org/content/level-up-power-up-coin-get-13-sounds | `SoundPack01.zip` (6.5 MB, AIFF→WAV lossless) | wobbleboxx | 13 |
+| oga-zombies | https://opengameart.org/content/zombies-sound-pack | `zombies.zip` (4.5 MB) | artisticdude | 24 |
+| oga-footsteps | https://opengameart.org/content/different-steps-on-wood-stone-leaves-gravel-and-mud | `[kdd]DifferentSteps_0.zip` | TinyWorlds | 8 |
+| oga-battle | https://opengameart.org/content/battle-sound-effects | `battle_sound_effects_0.zip` | Ogrebane | 4 |
+
+Full file URLs under `https://opengameart.org/sites/default/files/…` (see `scripts/oga_fetch.py`).
+macOS `__MACOSX` / `._` junk files were removed; AIFF converted losslessly to WAV.

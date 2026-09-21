@@ -22,6 +22,14 @@ PACK_TITLES = {
     "music-jingles": ("Music Jingles", "🎵", "Win/lose stingers and short musical motifs."),
     "voiceover-pack": ("Voiceover Pack", "🎙️", "Male & female announcements, battles and objectives."),
     "voiceover-pack-fighter": ("Voiceover Pack (Fighter)", "🥊", "Fighter announcer: rounds, fights and victories."),
+    "oga-512-retro": ("OGA 512 Retro SFX", "👾", "512 8-bit/16-bit retro sounds by SubspaceAudio (CC0)."),
+    "oga-rpg-pack": ("OGA RPG Pack", "⚔️", "95 fantasy RPG sounds by artisticdude (CC0)."),
+    "oga-gui-lokif": ("OGA GUI Sounds", "🔘", "Interface sounds by LokiF (CC0)."),
+    "oga-hits-punches": ("OGA Hits & Punches", "👊", "37 hits and punches by qubodup (CC0)."),
+    "oga-levelup-powerup": ("OGA Level-Up & Coins", "🪙", "Level-ups, power-ups and coin pickups by wobbleboxx (CC0)."),
+    "oga-zombies": ("OGA Zombies", "🧟", "Zombie growls and horror sounds by artisticdude (CC0)."),
+    "oga-footsteps": ("OGA Footsteps", "👣", "Steps on wood, stone, leaves, gravel and mud by TinyWorlds (CC0)."),
+    "oga-battle": ("OGA Battle", "⚔️", "Battle sound effects by Ogrebane (CC0)."),
 }
 
 
@@ -48,7 +56,7 @@ def main():
             "|---|-------|----------|------|----------|",
         ]
         for i, s in enumerate(sounds, 1):
-            url = s["download_url_ogg"] or s["download_url_mp3"] or ""
+            url = s.get("download_url_ogg") or s.get("download_url_mp3") or s.get("download_url_wav") or s.get("download_url_flac") or ""
             dur = f'{s["duration_sec"]}s' if s.get("duration_sec") else "—"
             tags = ", ".join(s["tags"][:5])
             name = s["title"]

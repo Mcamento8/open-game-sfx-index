@@ -40,7 +40,7 @@ Schema per entry:
 ## 2. Search strategy (recommended order)
 
 1. Exact `category` match (`ui`, `interface`, `impact`, `sci-fi`, `digital`,
-   `rpg`, `casino`, `music-jingle`, `voiceover`).
+   `rpg`, `casino`, `music-jingle`, `voiceover`, `retro`, `horror`).
 2. `tags` overlap with the task (e.g. task "jump" → tags `jump`, `movement`).
 3. `use_cases` / `mood` for ambience fit.
 4. Fall back to bilingual keyword search (`keywords_en` + `keywords_ar`).
@@ -66,3 +66,5 @@ Use `scripts/search.py` locally, or replicate its scoring in your own runtime.
 | casino | cards, dice, chips | casino-audio |
 | music-jingle | win/lose stingers, short loops | music-jingles |
 | voiceover | fighter grunts, male/female lines | voiceover packs |
+| retro | 8-bit/16-bit chiptune arcade | oga-512-retro |
+| horror | zombies, monsters, dark ambience | oga-zombies |
