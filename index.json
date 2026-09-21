@@ -1,15 +1,2993 @@
 {
   "version": "0.1.0",
   "repo": "Mcamento8/open-game-sfx-index",
-  "generated_at": "2026-09-21T19:54:10.130933Z",
+  "generated_at": "2026-09-21T19:54:33.134911Z",
   "license_audio": "CC0-1.0",
-  "count": 281,
+  "count": 416,
   "batches": [
+    "digital-audio",
     "impact-sounds",
     "interface-sounds",
+    "sci-fi-sounds",
     "ui-audio"
   ],
   "sounds": [
+    {
+      "id": "digital-audio_highdown",
+      "title": "highdown",
+      "pack": "digital-audio",
+      "category": "digital",
+      "tags": [
+        "blip",
+        "digital",
+        "highdown",
+        "pickup",
+        "retro"
+      ],
+      "use_cases": [
+        "arcade pickup",
+        "retro UI",
+        "powerup"
+      ],
+      "mood": [
+        "retro",
+        "playful"
+      ],
+      "keywords_en": [
+        "blip",
+        "digital",
+        "highdown",
+        "pickup",
+        "retro"
+      ],
+      "keywords_ar": [
+        "رقمي",
+        "التقاط",
+        "رجعي"
+      ],
+      "duration_sec": 0.522,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/digital-audio/highDown.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/digital-audio/highDown.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 5803,
+      "size_mp3": null,
+      "sha256_ogg": "cdbea353b2e435b4f869c7b045af81079c5d5eb81cfbbc805013ccc3a7a0f36a",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio"
+    },
+    {
+      "id": "digital-audio_highup",
+      "title": "highup",
+      "pack": "digital-audio",
+      "category": "digital",
+      "tags": [
+        "blip",
+        "digital",
+        "highup",
+        "pickup",
+        "retro"
+      ],
+      "use_cases": [
+        "arcade pickup",
+        "retro UI",
+        "powerup"
+      ],
+      "mood": [
+        "retro",
+        "playful"
+      ],
+      "keywords_en": [
+        "blip",
+        "digital",
+        "highup",
+        "pickup",
+        "retro"
+      ],
+      "keywords_ar": [
+        "رقمي",
+        "التقاط",
+        "رجعي"
+      ],
+      "duration_sec": 0.549,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/digital-audio/highUp.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/digital-audio/highUp.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 6135,
+      "size_mp3": null,
+      "sha256_ogg": "cbc1c3c7ccf5d7903818144a4c3f5b2ed2385095792f29d8d7c76360ba4fa559",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio"
+    },
+    {
+      "id": "digital-audio_laser1",
+      "title": "laser1",
+      "pack": "digital-audio",
+      "category": "digital",
+      "tags": [
+        "blip",
+        "digital",
+        "laser1",
+        "pickup",
+        "retro"
+      ],
+      "use_cases": [
+        "arcade pickup",
+        "retro UI",
+        "powerup"
+      ],
+      "mood": [
+        "retro",
+        "playful"
+      ],
+      "keywords_en": [
+        "blip",
+        "digital",
+        "laser1",
+        "pickup",
+        "retro"
+      ],
+      "keywords_ar": [
+        "رقمي",
+        "التقاط",
+        "رجعي"
+      ],
+      "duration_sec": 1.1,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/digital-audio/laser1.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/digital-audio/laser1.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 9315,
+      "size_mp3": null,
+      "sha256_ogg": "0bf468769b48a834dc1c6e38e457f2c71159b010225a9aedf84316795e8cc3e5",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio"
+    },
+    {
+      "id": "digital-audio_laser2",
+      "title": "laser2",
+      "pack": "digital-audio",
+      "category": "digital",
+      "tags": [
+        "blip",
+        "digital",
+        "laser2",
+        "pickup",
+        "retro"
+      ],
+      "use_cases": [
+        "arcade pickup",
+        "retro UI",
+        "powerup"
+      ],
+      "mood": [
+        "retro",
+        "playful"
+      ],
+      "keywords_en": [
+        "blip",
+        "digital",
+        "laser2",
+        "pickup",
+        "retro"
+      ],
+      "keywords_ar": [
+        "رقمي",
+        "التقاط",
+        "رجعي"
+      ],
+      "duration_sec": 1.091,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/digital-audio/laser2.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/digital-audio/laser2.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 8524,
+      "size_mp3": null,
+      "sha256_ogg": "50470d64f9397855e5d9a334484da9c5232b3e0524c52f088b8a73822bd89f45",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio"
+    },
+    {
+      "id": "digital-audio_laser3",
+      "title": "laser3",
+      "pack": "digital-audio",
+      "category": "digital",
+      "tags": [
+        "blip",
+        "digital",
+        "laser3",
+        "pickup",
+        "retro"
+      ],
+      "use_cases": [
+        "arcade pickup",
+        "retro UI",
+        "powerup"
+      ],
+      "mood": [
+        "retro",
+        "playful"
+      ],
+      "keywords_en": [
+        "blip",
+        "digital",
+        "laser3",
+        "pickup",
+        "retro"
+      ],
+      "keywords_ar": [
+        "رقمي",
+        "التقاط",
+        "رجعي"
+      ],
+      "duration_sec": 0.984,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/digital-audio/laser3.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/digital-audio/laser3.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 8302,
+      "size_mp3": null,
+      "sha256_ogg": "caede23d2b65299acdc4e9cab16d06c247d69c7ca1c74caa5e9da21cbdbc1400",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio"
+    },
+    {
+      "id": "digital-audio_laser4",
+      "title": "laser4",
+      "pack": "digital-audio",
+      "category": "digital",
+      "tags": [
+        "blip",
+        "digital",
+        "laser4",
+        "pickup",
+        "retro"
+      ],
+      "use_cases": [
+        "arcade pickup",
+        "retro UI",
+        "powerup"
+      ],
+      "mood": [
+        "retro",
+        "playful"
+      ],
+      "keywords_en": [
+        "blip",
+        "digital",
+        "laser4",
+        "pickup",
+        "retro"
+      ],
+      "keywords_ar": [
+        "رقمي",
+        "التقاط",
+        "رجعي"
+      ],
+      "duration_sec": 1.132,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/digital-audio/laser4.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/digital-audio/laser4.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 9208,
+      "size_mp3": null,
+      "sha256_ogg": "13f34561740aadbd3438b971dfe248cf56ea09d333eb7a0278561e09e27c3557",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio"
+    },
+    {
+      "id": "digital-audio_laser5",
+      "title": "laser5",
+      "pack": "digital-audio",
+      "category": "digital",
+      "tags": [
+        "blip",
+        "digital",
+        "laser5",
+        "pickup",
+        "retro"
+      ],
+      "use_cases": [
+        "arcade pickup",
+        "retro UI",
+        "powerup"
+      ],
+      "mood": [
+        "retro",
+        "playful"
+      ],
+      "keywords_en": [
+        "blip",
+        "digital",
+        "laser5",
+        "pickup",
+        "retro"
+      ],
+      "keywords_ar": [
+        "رقمي",
+        "التقاط",
+        "رجعي"
+      ],
+      "duration_sec": 1.014,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/digital-audio/laser5.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/digital-audio/laser5.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 8484,
+      "size_mp3": null,
+      "sha256_ogg": "8d7b30b35112bedf4dd6f03796a5f33af85414b02947187e4063819fd80cf3e2",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio"
+    },
+    {
+      "id": "digital-audio_laser6",
+      "title": "laser6",
+      "pack": "digital-audio",
+      "category": "digital",
+      "tags": [
+        "blip",
+        "digital",
+        "laser6",
+        "pickup",
+        "retro"
+      ],
+      "use_cases": [
+        "arcade pickup",
+        "retro UI",
+        "powerup"
+      ],
+      "mood": [
+        "retro",
+        "playful"
+      ],
+      "keywords_en": [
+        "blip",
+        "digital",
+        "laser6",
+        "pickup",
+        "retro"
+      ],
+      "keywords_ar": [
+        "رقمي",
+        "التقاط",
+        "رجعي"
+      ],
+      "duration_sec": 0.971,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/digital-audio/laser6.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/digital-audio/laser6.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 8928,
+      "size_mp3": null,
+      "sha256_ogg": "cec018b67fdd9a857e692be0596cec070617346853e5341c3e2df3aae950473d",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio"
+    },
+    {
+      "id": "digital-audio_laser7",
+      "title": "laser7",
+      "pack": "digital-audio",
+      "category": "digital",
+      "tags": [
+        "blip",
+        "digital",
+        "laser7",
+        "pickup",
+        "retro"
+      ],
+      "use_cases": [
+        "arcade pickup",
+        "retro UI",
+        "powerup"
+      ],
+      "mood": [
+        "retro",
+        "playful"
+      ],
+      "keywords_en": [
+        "blip",
+        "digital",
+        "laser7",
+        "pickup",
+        "retro"
+      ],
+      "keywords_ar": [
+        "رقمي",
+        "التقاط",
+        "رجعي"
+      ],
+      "duration_sec": 0.933,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/digital-audio/laser7.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/digital-audio/laser7.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 8848,
+      "size_mp3": null,
+      "sha256_ogg": "ec67a33a99dce15b93d74ee4d32c903150dcd04b822853f417eafd526ca041fd",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio"
+    },
+    {
+      "id": "digital-audio_laser8",
+      "title": "laser8",
+      "pack": "digital-audio",
+      "category": "digital",
+      "tags": [
+        "blip",
+        "digital",
+        "laser8",
+        "pickup",
+        "retro"
+      ],
+      "use_cases": [
+        "arcade pickup",
+        "retro UI",
+        "powerup"
+      ],
+      "mood": [
+        "retro",
+        "playful"
+      ],
+      "keywords_en": [
+        "blip",
+        "digital",
+        "laser8",
+        "pickup",
+        "retro"
+      ],
+      "keywords_ar": [
+        "رقمي",
+        "التقاط",
+        "رجعي"
+      ],
+      "duration_sec": 0.987,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/digital-audio/laser8.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/digital-audio/laser8.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 9383,
+      "size_mp3": null,
+      "sha256_ogg": "c87572c683af43f2c0050138a0d72ca049d7cae0ad0a6ae27ba3bd7ddf29bcd6",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio"
+    },
+    {
+      "id": "digital-audio_laser9",
+      "title": "laser9",
+      "pack": "digital-audio",
+      "category": "digital",
+      "tags": [
+        "blip",
+        "digital",
+        "laser9",
+        "pickup",
+        "retro"
+      ],
+      "use_cases": [
+        "arcade pickup",
+        "retro UI",
+        "powerup"
+      ],
+      "mood": [
+        "retro",
+        "playful"
+      ],
+      "keywords_en": [
+        "blip",
+        "digital",
+        "laser9",
+        "pickup",
+        "retro"
+      ],
+      "keywords_ar": [
+        "رقمي",
+        "التقاط",
+        "رجعي"
+      ],
+      "duration_sec": 1.009,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/digital-audio/laser9.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/digital-audio/laser9.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 9331,
+      "size_mp3": null,
+      "sha256_ogg": "ae77fe3e3f3488e64b83f0526640af512e5ef452d88e79b4b97404803a047e9f",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio"
+    },
+    {
+      "id": "digital-audio_lowdown",
+      "title": "lowdown",
+      "pack": "digital-audio",
+      "category": "digital",
+      "tags": [
+        "blip",
+        "digital",
+        "lowdown",
+        "pickup",
+        "retro"
+      ],
+      "use_cases": [
+        "arcade pickup",
+        "retro UI",
+        "powerup"
+      ],
+      "mood": [
+        "retro",
+        "playful"
+      ],
+      "keywords_en": [
+        "blip",
+        "digital",
+        "lowdown",
+        "pickup",
+        "retro"
+      ],
+      "keywords_ar": [
+        "رقمي",
+        "التقاط",
+        "رجعي"
+      ],
+      "duration_sec": 0.784,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/digital-audio/lowDown.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/digital-audio/lowDown.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 5956,
+      "size_mp3": null,
+      "sha256_ogg": "e0215fcfd8b9d7877f74d5c46b239a13d7db0d25998da97b80404931ef9eef5d",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio"
+    },
+    {
+      "id": "digital-audio_lowrandom",
+      "title": "lowrandom",
+      "pack": "digital-audio",
+      "category": "digital",
+      "tags": [
+        "blip",
+        "digital",
+        "lowrandom",
+        "pickup",
+        "retro"
+      ],
+      "use_cases": [
+        "arcade pickup",
+        "retro UI",
+        "powerup"
+      ],
+      "mood": [
+        "retro",
+        "playful"
+      ],
+      "keywords_en": [
+        "blip",
+        "digital",
+        "lowrandom",
+        "pickup",
+        "retro"
+      ],
+      "keywords_ar": [
+        "رقمي",
+        "التقاط",
+        "رجعي"
+      ],
+      "duration_sec": 0.549,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/digital-audio/lowRandom.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/digital-audio/lowRandom.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 5416,
+      "size_mp3": null,
+      "sha256_ogg": "ceefeeeb6982838d78ac9059a845ca614b3bd94580a9a9127fd5834d6206f739",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio"
+    },
+    {
+      "id": "digital-audio_lowthreetone",
+      "title": "lowthreetone",
+      "pack": "digital-audio",
+      "category": "digital",
+      "tags": [
+        "blip",
+        "digital",
+        "lowthreetone",
+        "pickup",
+        "retro"
+      ],
+      "use_cases": [
+        "arcade pickup",
+        "retro UI",
+        "powerup"
+      ],
+      "mood": [
+        "retro",
+        "playful"
+      ],
+      "keywords_en": [
+        "blip",
+        "digital",
+        "lowthreetone",
+        "pickup",
+        "retro"
+      ],
+      "keywords_ar": [
+        "رقمي",
+        "التقاط",
+        "رجعي"
+      ],
+      "duration_sec": 1.019,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/digital-audio/lowThreeTone.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/digital-audio/lowThreeTone.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 7035,
+      "size_mp3": null,
+      "sha256_ogg": "b4b3bc7420e71bfbec49a6ea13b8c12d76a5751cbdf063d8a8ac017c0b1e1d87",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio"
+    },
+    {
+      "id": "digital-audio_pepsound1",
+      "title": "pepsound1",
+      "pack": "digital-audio",
+      "category": "digital",
+      "tags": [
+        "blip",
+        "digital",
+        "pepsound1",
+        "pickup",
+        "retro"
+      ],
+      "use_cases": [
+        "arcade pickup",
+        "retro UI",
+        "powerup"
+      ],
+      "mood": [
+        "retro",
+        "playful"
+      ],
+      "keywords_en": [
+        "blip",
+        "digital",
+        "pepsound1",
+        "pickup",
+        "retro"
+      ],
+      "keywords_ar": [
+        "رقمي",
+        "التقاط",
+        "رجعي"
+      ],
+      "duration_sec": 0.522,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/digital-audio/pepSound1.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/digital-audio/pepSound1.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 6019,
+      "size_mp3": null,
+      "sha256_ogg": "f2f44effce087e47683f0fea05a71002bd8dca78fb10bf93d9f0b38d49f9590e",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio"
+    },
+    {
+      "id": "digital-audio_pepsound2",
+      "title": "pepsound2",
+      "pack": "digital-audio",
+      "category": "digital",
+      "tags": [
+        "blip",
+        "digital",
+        "pepsound2",
+        "pickup",
+        "retro"
+      ],
+      "use_cases": [
+        "arcade pickup",
+        "retro UI",
+        "powerup"
+      ],
+      "mood": [
+        "retro",
+        "playful"
+      ],
+      "keywords_en": [
+        "blip",
+        "digital",
+        "pepsound2",
+        "pickup",
+        "retro"
+      ],
+      "keywords_ar": [
+        "رقمي",
+        "التقاط",
+        "رجعي"
+      ],
+      "duration_sec": 0.549,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/digital-audio/pepSound2.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/digital-audio/pepSound2.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 5910,
+      "size_mp3": null,
+      "sha256_ogg": "5a33494e622c15c4587e0a19447cf55c86283faac0e6c1238b550f43a30f16a3",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio"
+    },
+    {
+      "id": "digital-audio_pepsound3",
+      "title": "pepsound3",
+      "pack": "digital-audio",
+      "category": "digital",
+      "tags": [
+        "blip",
+        "digital",
+        "pepsound3",
+        "pickup",
+        "retro"
+      ],
+      "use_cases": [
+        "arcade pickup",
+        "retro UI",
+        "powerup"
+      ],
+      "mood": [
+        "retro",
+        "playful"
+      ],
+      "keywords_en": [
+        "blip",
+        "digital",
+        "pepsound3",
+        "pickup",
+        "retro"
+      ],
+      "keywords_ar": [
+        "رقمي",
+        "التقاط",
+        "رجعي"
+      ],
+      "duration_sec": 0.444,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/digital-audio/pepSound3.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/digital-audio/pepSound3.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 5590,
+      "size_mp3": null,
+      "sha256_ogg": "5e9f2b4a0b14e65a157d0bbcb28cf816926583afa96e753489c722ec3d810a78",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio"
+    },
+    {
+      "id": "digital-audio_pepsound4",
+      "title": "pepsound4",
+      "pack": "digital-audio",
+      "category": "digital",
+      "tags": [
+        "blip",
+        "digital",
+        "pepsound4",
+        "pickup",
+        "retro"
+      ],
+      "use_cases": [
+        "arcade pickup",
+        "retro UI",
+        "powerup"
+      ],
+      "mood": [
+        "retro",
+        "playful"
+      ],
+      "keywords_en": [
+        "blip",
+        "digital",
+        "pepsound4",
+        "pickup",
+        "retro"
+      ],
+      "keywords_ar": [
+        "رقمي",
+        "التقاط",
+        "رجعي"
+      ],
+      "duration_sec": 0.627,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/digital-audio/pepSound4.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/digital-audio/pepSound4.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 5948,
+      "size_mp3": null,
+      "sha256_ogg": "8afd1776651eb3155e1b588f26d6c9b5cc183e9c53297685763f51ac63e63673",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio"
+    },
+    {
+      "id": "digital-audio_pepsound5",
+      "title": "pepsound5",
+      "pack": "digital-audio",
+      "category": "digital",
+      "tags": [
+        "blip",
+        "digital",
+        "pepsound5",
+        "pickup",
+        "retro"
+      ],
+      "use_cases": [
+        "arcade pickup",
+        "retro UI",
+        "powerup"
+      ],
+      "mood": [
+        "retro",
+        "playful"
+      ],
+      "keywords_en": [
+        "blip",
+        "digital",
+        "pepsound5",
+        "pickup",
+        "retro"
+      ],
+      "keywords_ar": [
+        "رقمي",
+        "التقاط",
+        "رجعي"
+      ],
+      "duration_sec": 0.627,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/digital-audio/pepSound5.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/digital-audio/pepSound5.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 6422,
+      "size_mp3": null,
+      "sha256_ogg": "4dc9824b319efd915bac82d8e2767e51d5f6503224d358fda6e2d445f2934bc8",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio"
+    },
+    {
+      "id": "digital-audio_phasejump1",
+      "title": "phasejump1",
+      "pack": "digital-audio",
+      "category": "digital",
+      "tags": [
+        "blip",
+        "digital",
+        "phasejump1",
+        "pickup",
+        "retro"
+      ],
+      "use_cases": [
+        "arcade pickup",
+        "retro UI",
+        "powerup"
+      ],
+      "mood": [
+        "retro",
+        "playful"
+      ],
+      "keywords_en": [
+        "blip",
+        "digital",
+        "phasejump1",
+        "pickup",
+        "retro"
+      ],
+      "keywords_ar": [
+        "رقمي",
+        "التقاط",
+        "رجعي"
+      ],
+      "duration_sec": 0.47,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/digital-audio/phaseJump1.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/digital-audio/phaseJump1.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 6733,
+      "size_mp3": null,
+      "sha256_ogg": "c60069ed7108678dd6a1306404d168a93cc2575cda37b06add9dd6c4d46352a3",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio"
+    },
+    {
+      "id": "digital-audio_phasejump2",
+      "title": "phasejump2",
+      "pack": "digital-audio",
+      "category": "digital",
+      "tags": [
+        "blip",
+        "digital",
+        "phasejump2",
+        "pickup",
+        "retro"
+      ],
+      "use_cases": [
+        "arcade pickup",
+        "retro UI",
+        "powerup"
+      ],
+      "mood": [
+        "retro",
+        "playful"
+      ],
+      "keywords_en": [
+        "blip",
+        "digital",
+        "phasejump2",
+        "pickup",
+        "retro"
+      ],
+      "keywords_ar": [
+        "رقمي",
+        "التقاط",
+        "رجعي"
+      ],
+      "duration_sec": 0.392,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/digital-audio/phaseJump2.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/digital-audio/phaseJump2.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 6342,
+      "size_mp3": null,
+      "sha256_ogg": "5d85717cfca231f7da7887cef5f44b2131bbe3308eb0c1fee0b4f9e61d59b571",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio"
+    },
+    {
+      "id": "digital-audio_phasejump3",
+      "title": "phasejump3",
+      "pack": "digital-audio",
+      "category": "digital",
+      "tags": [
+        "blip",
+        "digital",
+        "phasejump3",
+        "pickup",
+        "retro"
+      ],
+      "use_cases": [
+        "arcade pickup",
+        "retro UI",
+        "powerup"
+      ],
+      "mood": [
+        "retro",
+        "playful"
+      ],
+      "keywords_en": [
+        "blip",
+        "digital",
+        "phasejump3",
+        "pickup",
+        "retro"
+      ],
+      "keywords_ar": [
+        "رقمي",
+        "التقاط",
+        "رجعي"
+      ],
+      "duration_sec": 0.444,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/digital-audio/phaseJump3.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/digital-audio/phaseJump3.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 6854,
+      "size_mp3": null,
+      "sha256_ogg": "69e25a1b7b0781f57af84eb4424973ec406d34bc48eed8b6964787b2d74093a9",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio"
+    },
+    {
+      "id": "digital-audio_phasejump4",
+      "title": "phasejump4",
+      "pack": "digital-audio",
+      "category": "digital",
+      "tags": [
+        "blip",
+        "digital",
+        "phasejump4",
+        "pickup",
+        "retro"
+      ],
+      "use_cases": [
+        "arcade pickup",
+        "retro UI",
+        "powerup"
+      ],
+      "mood": [
+        "retro",
+        "playful"
+      ],
+      "keywords_en": [
+        "blip",
+        "digital",
+        "phasejump4",
+        "pickup",
+        "retro"
+      ],
+      "keywords_ar": [
+        "رقمي",
+        "التقاط",
+        "رجعي"
+      ],
+      "duration_sec": 0.47,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/digital-audio/phaseJump4.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/digital-audio/phaseJump4.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 7117,
+      "size_mp3": null,
+      "sha256_ogg": "90e1c90b9da3d0be66b54f4daa926f0fde79eba867dec7e9d1eef10524756e19",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio"
+    },
+    {
+      "id": "digital-audio_phasejump5",
+      "title": "phasejump5",
+      "pack": "digital-audio",
+      "category": "digital",
+      "tags": [
+        "blip",
+        "digital",
+        "phasejump5",
+        "pickup",
+        "retro"
+      ],
+      "use_cases": [
+        "arcade pickup",
+        "retro UI",
+        "powerup"
+      ],
+      "mood": [
+        "retro",
+        "playful"
+      ],
+      "keywords_en": [
+        "blip",
+        "digital",
+        "phasejump5",
+        "pickup",
+        "retro"
+      ],
+      "keywords_ar": [
+        "رقمي",
+        "التقاط",
+        "رجعي"
+      ],
+      "duration_sec": 0.418,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/digital-audio/phaseJump5.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/digital-audio/phaseJump5.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 6770,
+      "size_mp3": null,
+      "sha256_ogg": "322d62ab7da973880d86c5ad217a2da85916ed95aa6c8d29991de392fd0f7522",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio"
+    },
+    {
+      "id": "digital-audio_phaserdown1",
+      "title": "phaserdown1",
+      "pack": "digital-audio",
+      "category": "digital",
+      "tags": [
+        "blip",
+        "digital",
+        "phaserdown1",
+        "pickup",
+        "retro"
+      ],
+      "use_cases": [
+        "arcade pickup",
+        "retro UI",
+        "powerup"
+      ],
+      "mood": [
+        "retro",
+        "playful"
+      ],
+      "keywords_en": [
+        "blip",
+        "digital",
+        "phaserdown1",
+        "pickup",
+        "retro"
+      ],
+      "keywords_ar": [
+        "رقمي",
+        "التقاط",
+        "رجعي"
+      ],
+      "duration_sec": 0.47,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/digital-audio/phaserDown1.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/digital-audio/phaserDown1.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 7113,
+      "size_mp3": null,
+      "sha256_ogg": "d2d046cd0247045f8819905fc9719a7237ccbd590b3128ce58a61a81f50d208b",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio"
+    },
+    {
+      "id": "digital-audio_phaserdown2",
+      "title": "phaserdown2",
+      "pack": "digital-audio",
+      "category": "digital",
+      "tags": [
+        "blip",
+        "digital",
+        "phaserdown2",
+        "pickup",
+        "retro"
+      ],
+      "use_cases": [
+        "arcade pickup",
+        "retro UI",
+        "powerup"
+      ],
+      "mood": [
+        "retro",
+        "playful"
+      ],
+      "keywords_en": [
+        "blip",
+        "digital",
+        "phaserdown2",
+        "pickup",
+        "retro"
+      ],
+      "keywords_ar": [
+        "رقمي",
+        "التقاط",
+        "رجعي"
+      ],
+      "duration_sec": 0.313,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/digital-audio/phaserDown2.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/digital-audio/phaserDown2.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 6093,
+      "size_mp3": null,
+      "sha256_ogg": "0eaadbbc5c259cc89a1dfbb0c99b61ca07e08710d035cc9bfc805b68cb0bdc9e",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio"
+    },
+    {
+      "id": "digital-audio_phaserdown3",
+      "title": "phaserdown3",
+      "pack": "digital-audio",
+      "category": "digital",
+      "tags": [
+        "blip",
+        "digital",
+        "phaserdown3",
+        "pickup",
+        "retro"
+      ],
+      "use_cases": [
+        "arcade pickup",
+        "retro UI",
+        "powerup"
+      ],
+      "mood": [
+        "retro",
+        "playful"
+      ],
+      "keywords_en": [
+        "blip",
+        "digital",
+        "phaserdown3",
+        "pickup",
+        "retro"
+      ],
+      "keywords_ar": [
+        "رقمي",
+        "التقاط",
+        "رجعي"
+      ],
+      "duration_sec": 0.496,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/digital-audio/phaserDown3.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/digital-audio/phaserDown3.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 7329,
+      "size_mp3": null,
+      "sha256_ogg": "19fd2f5bb8448e022381f1a72c36117d4adcb521ebeb697e888bfaf7945cfa56",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio"
+    },
+    {
+      "id": "digital-audio_phaserup1",
+      "title": "phaserup1",
+      "pack": "digital-audio",
+      "category": "digital",
+      "tags": [
+        "blip",
+        "digital",
+        "phaserup1",
+        "pickup",
+        "retro"
+      ],
+      "use_cases": [
+        "arcade pickup",
+        "retro UI",
+        "powerup"
+      ],
+      "mood": [
+        "retro",
+        "playful"
+      ],
+      "keywords_en": [
+        "blip",
+        "digital",
+        "phaserup1",
+        "pickup",
+        "retro"
+      ],
+      "keywords_ar": [
+        "رقمي",
+        "التقاط",
+        "رجعي"
+      ],
+      "duration_sec": 0.496,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/digital-audio/phaserUp1.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/digital-audio/phaserUp1.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 7390,
+      "size_mp3": null,
+      "sha256_ogg": "4423d459fc15fdd8593a4584d71e272ec2e5f8bdc11b759db623fc613ffd957c",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio"
+    },
+    {
+      "id": "digital-audio_phaserup2",
+      "title": "phaserup2",
+      "pack": "digital-audio",
+      "category": "digital",
+      "tags": [
+        "blip",
+        "digital",
+        "phaserup2",
+        "pickup",
+        "retro"
+      ],
+      "use_cases": [
+        "arcade pickup",
+        "retro UI",
+        "powerup"
+      ],
+      "mood": [
+        "retro",
+        "playful"
+      ],
+      "keywords_en": [
+        "blip",
+        "digital",
+        "phaserup2",
+        "pickup",
+        "retro"
+      ],
+      "keywords_ar": [
+        "رقمي",
+        "التقاط",
+        "رجعي"
+      ],
+      "duration_sec": 0.418,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/digital-audio/phaserUp2.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/digital-audio/phaserUp2.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 6895,
+      "size_mp3": null,
+      "sha256_ogg": "8f158744623b8d7a6d68aec5ba0716b8edd76a7461646071120c81f81dc54792",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio"
+    },
+    {
+      "id": "digital-audio_phaserup3",
+      "title": "phaserup3",
+      "pack": "digital-audio",
+      "category": "digital",
+      "tags": [
+        "blip",
+        "digital",
+        "phaserup3",
+        "pickup",
+        "retro"
+      ],
+      "use_cases": [
+        "arcade pickup",
+        "retro UI",
+        "powerup"
+      ],
+      "mood": [
+        "retro",
+        "playful"
+      ],
+      "keywords_en": [
+        "blip",
+        "digital",
+        "phaserup3",
+        "pickup",
+        "retro"
+      ],
+      "keywords_ar": [
+        "رقمي",
+        "التقاط",
+        "رجعي"
+      ],
+      "duration_sec": 0.522,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/digital-audio/phaserUp3.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/digital-audio/phaserUp3.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 7222,
+      "size_mp3": null,
+      "sha256_ogg": "d6edcbde2c7190e275ef3eba08a8886129153a361cd0e16dc0fb58206deb5e53",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio"
+    },
+    {
+      "id": "digital-audio_phaserup4",
+      "title": "phaserup4",
+      "pack": "digital-audio",
+      "category": "digital",
+      "tags": [
+        "blip",
+        "digital",
+        "phaserup4",
+        "pickup",
+        "retro"
+      ],
+      "use_cases": [
+        "arcade pickup",
+        "retro UI",
+        "powerup"
+      ],
+      "mood": [
+        "retro",
+        "playful"
+      ],
+      "keywords_en": [
+        "blip",
+        "digital",
+        "phaserup4",
+        "pickup",
+        "retro"
+      ],
+      "keywords_ar": [
+        "رقمي",
+        "التقاط",
+        "رجعي"
+      ],
+      "duration_sec": 0.366,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/digital-audio/phaserUp4.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/digital-audio/phaserUp4.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 6332,
+      "size_mp3": null,
+      "sha256_ogg": "a64a69368af9d85dfce8dd38432fd6c9935a7766621782193102c9cb276571fc",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio"
+    },
+    {
+      "id": "digital-audio_phaserup5",
+      "title": "phaserup5",
+      "pack": "digital-audio",
+      "category": "digital",
+      "tags": [
+        "blip",
+        "digital",
+        "phaserup5",
+        "pickup",
+        "retro"
+      ],
+      "use_cases": [
+        "arcade pickup",
+        "retro UI",
+        "powerup"
+      ],
+      "mood": [
+        "retro",
+        "playful"
+      ],
+      "keywords_en": [
+        "blip",
+        "digital",
+        "phaserup5",
+        "pickup",
+        "retro"
+      ],
+      "keywords_ar": [
+        "رقمي",
+        "التقاط",
+        "رجعي"
+      ],
+      "duration_sec": 0.313,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/digital-audio/phaserUp5.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/digital-audio/phaserUp5.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 6289,
+      "size_mp3": null,
+      "sha256_ogg": "704433167121712c456fa7f06af96c975a28f9a022d91feb68196bb073704ea0",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio"
+    },
+    {
+      "id": "digital-audio_phaserup6",
+      "title": "phaserup6",
+      "pack": "digital-audio",
+      "category": "digital",
+      "tags": [
+        "blip",
+        "digital",
+        "phaserup6",
+        "pickup",
+        "retro"
+      ],
+      "use_cases": [
+        "arcade pickup",
+        "retro UI",
+        "powerup"
+      ],
+      "mood": [
+        "retro",
+        "playful"
+      ],
+      "keywords_en": [
+        "blip",
+        "digital",
+        "phaserup6",
+        "pickup",
+        "retro"
+      ],
+      "keywords_ar": [
+        "رقمي",
+        "التقاط",
+        "رجعي"
+      ],
+      "duration_sec": 0.34,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/digital-audio/phaserUp6.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/digital-audio/phaserUp6.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 6349,
+      "size_mp3": null,
+      "sha256_ogg": "39616fbeb3cf28288873502e99acfc590705d54bf7f58ef3f1a23cec72dd22db",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio"
+    },
+    {
+      "id": "digital-audio_phaserup7",
+      "title": "phaserup7",
+      "pack": "digital-audio",
+      "category": "digital",
+      "tags": [
+        "blip",
+        "digital",
+        "phaserup7",
+        "pickup",
+        "retro"
+      ],
+      "use_cases": [
+        "arcade pickup",
+        "retro UI",
+        "powerup"
+      ],
+      "mood": [
+        "retro",
+        "playful"
+      ],
+      "keywords_en": [
+        "blip",
+        "digital",
+        "phaserup7",
+        "pickup",
+        "retro"
+      ],
+      "keywords_ar": [
+        "رقمي",
+        "التقاط",
+        "رجعي"
+      ],
+      "duration_sec": 0.366,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/digital-audio/phaserUp7.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/digital-audio/phaserUp7.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 6410,
+      "size_mp3": null,
+      "sha256_ogg": "47ff0828ef14d4944689e771a50bc4e991a88067bea1ba46a06c6aeb1e03c2a3",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio"
+    },
+    {
+      "id": "digital-audio_powerup1",
+      "title": "powerup1",
+      "pack": "digital-audio",
+      "category": "digital",
+      "tags": [
+        "blip",
+        "digital",
+        "pickup",
+        "powerup1",
+        "retro"
+      ],
+      "use_cases": [
+        "arcade pickup",
+        "retro UI",
+        "powerup"
+      ],
+      "mood": [
+        "retro",
+        "playful"
+      ],
+      "keywords_en": [
+        "blip",
+        "digital",
+        "pickup",
+        "powerup1",
+        "retro"
+      ],
+      "keywords_ar": [
+        "رقمي",
+        "التقاط",
+        "رجعي"
+      ],
+      "duration_sec": 1.202,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/digital-audio/powerUp1.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/digital-audio/powerUp1.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 9011,
+      "size_mp3": null,
+      "sha256_ogg": "8c361b624b560c0bc30ea3063b71212bc30caebf425c9df2481c13b25561485c",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio"
+    },
+    {
+      "id": "digital-audio_powerup10",
+      "title": "powerup10",
+      "pack": "digital-audio",
+      "category": "digital",
+      "tags": [
+        "blip",
+        "digital",
+        "pickup",
+        "powerup10",
+        "retro"
+      ],
+      "use_cases": [
+        "arcade pickup",
+        "retro UI",
+        "powerup"
+      ],
+      "mood": [
+        "retro",
+        "playful"
+      ],
+      "keywords_en": [
+        "blip",
+        "digital",
+        "pickup",
+        "powerup10",
+        "retro"
+      ],
+      "keywords_ar": [
+        "رقمي",
+        "التقاط",
+        "رجعي"
+      ],
+      "duration_sec": 0.653,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/digital-audio/powerUp10.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/digital-audio/powerUp10.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 6568,
+      "size_mp3": null,
+      "sha256_ogg": "e4d2c7707655361678ccd358048b7956753e4f333e99545b4ae25e07a9b2ef9b",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio"
+    },
+    {
+      "id": "digital-audio_powerup11",
+      "title": "powerup11",
+      "pack": "digital-audio",
+      "category": "digital",
+      "tags": [
+        "blip",
+        "digital",
+        "pickup",
+        "powerup11",
+        "retro"
+      ],
+      "use_cases": [
+        "arcade pickup",
+        "retro UI",
+        "powerup"
+      ],
+      "mood": [
+        "retro",
+        "playful"
+      ],
+      "keywords_en": [
+        "blip",
+        "digital",
+        "pickup",
+        "powerup11",
+        "retro"
+      ],
+      "keywords_ar": [
+        "رقمي",
+        "التقاط",
+        "رجعي"
+      ],
+      "duration_sec": 0.679,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/digital-audio/powerUp11.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/digital-audio/powerUp11.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 6495,
+      "size_mp3": null,
+      "sha256_ogg": "d673bfcd3aee32202908708fdadb3ad3033f65162c6dbae4615e181e19eee0d3",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio"
+    },
+    {
+      "id": "digital-audio_powerup12",
+      "title": "powerup12",
+      "pack": "digital-audio",
+      "category": "digital",
+      "tags": [
+        "blip",
+        "digital",
+        "pickup",
+        "powerup12",
+        "retro"
+      ],
+      "use_cases": [
+        "arcade pickup",
+        "retro UI",
+        "powerup"
+      ],
+      "mood": [
+        "retro",
+        "playful"
+      ],
+      "keywords_en": [
+        "blip",
+        "digital",
+        "pickup",
+        "powerup12",
+        "retro"
+      ],
+      "keywords_ar": [
+        "رقمي",
+        "التقاط",
+        "رجعي"
+      ],
+      "duration_sec": 0.862,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/digital-audio/powerUp12.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/digital-audio/powerUp12.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 7278,
+      "size_mp3": null,
+      "sha256_ogg": "a9387a2cb0b13b8c794579e61ae1fb7e666e22d46a36aec6c77471635096f2fc",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio"
+    },
+    {
+      "id": "digital-audio_powerup2",
+      "title": "powerup2",
+      "pack": "digital-audio",
+      "category": "digital",
+      "tags": [
+        "blip",
+        "digital",
+        "pickup",
+        "powerup2",
+        "retro"
+      ],
+      "use_cases": [
+        "arcade pickup",
+        "retro UI",
+        "powerup"
+      ],
+      "mood": [
+        "retro",
+        "playful"
+      ],
+      "keywords_en": [
+        "blip",
+        "digital",
+        "pickup",
+        "powerup2",
+        "retro"
+      ],
+      "keywords_ar": [
+        "رقمي",
+        "التقاط",
+        "رجعي"
+      ],
+      "duration_sec": 0.47,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/digital-audio/powerUp2.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/digital-audio/powerUp2.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 5577,
+      "size_mp3": null,
+      "sha256_ogg": "83786b43d828a399e14ac20604b63a60ca05385977f5477d00304c2adc696204",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio"
+    },
+    {
+      "id": "digital-audio_powerup3",
+      "title": "powerup3",
+      "pack": "digital-audio",
+      "category": "digital",
+      "tags": [
+        "blip",
+        "digital",
+        "pickup",
+        "powerup3",
+        "retro"
+      ],
+      "use_cases": [
+        "arcade pickup",
+        "retro UI",
+        "powerup"
+      ],
+      "mood": [
+        "retro",
+        "playful"
+      ],
+      "keywords_en": [
+        "blip",
+        "digital",
+        "pickup",
+        "powerup3",
+        "retro"
+      ],
+      "keywords_ar": [
+        "رقمي",
+        "التقاط",
+        "رجعي"
+      ],
+      "duration_sec": 1.149,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/digital-audio/powerUp3.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/digital-audio/powerUp3.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 9043,
+      "size_mp3": null,
+      "sha256_ogg": "59e7591f7a068882767bc1fd61edabf479b78787466d3a70bc49dfa0533777d2",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio"
+    },
+    {
+      "id": "digital-audio_powerup4",
+      "title": "powerup4",
+      "pack": "digital-audio",
+      "category": "digital",
+      "tags": [
+        "blip",
+        "digital",
+        "pickup",
+        "powerup4",
+        "retro"
+      ],
+      "use_cases": [
+        "arcade pickup",
+        "retro UI",
+        "powerup"
+      ],
+      "mood": [
+        "retro",
+        "playful"
+      ],
+      "keywords_en": [
+        "blip",
+        "digital",
+        "pickup",
+        "powerup4",
+        "retro"
+      ],
+      "keywords_ar": [
+        "رقمي",
+        "التقاط",
+        "رجعي"
+      ],
+      "duration_sec": 0.549,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/digital-audio/powerUp4.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/digital-audio/powerUp4.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 6288,
+      "size_mp3": null,
+      "sha256_ogg": "df6992456056af760815460b66d2ca1c3a07c200cca26325db5820b90104d177",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio"
+    },
+    {
+      "id": "digital-audio_powerup5",
+      "title": "powerup5",
+      "pack": "digital-audio",
+      "category": "digital",
+      "tags": [
+        "blip",
+        "digital",
+        "pickup",
+        "powerup5",
+        "retro"
+      ],
+      "use_cases": [
+        "arcade pickup",
+        "retro UI",
+        "powerup"
+      ],
+      "mood": [
+        "retro",
+        "playful"
+      ],
+      "keywords_en": [
+        "blip",
+        "digital",
+        "pickup",
+        "powerup5",
+        "retro"
+      ],
+      "keywords_ar": [
+        "رقمي",
+        "التقاط",
+        "رجعي"
+      ],
+      "duration_sec": 0.444,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/digital-audio/powerUp5.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/digital-audio/powerUp5.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 5652,
+      "size_mp3": null,
+      "sha256_ogg": "528e7245a1b61c6fd94bcb8df1d747e6e9b76dce58a36e44be992cf9e09884f8",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio"
+    },
+    {
+      "id": "digital-audio_powerup6",
+      "title": "powerup6",
+      "pack": "digital-audio",
+      "category": "digital",
+      "tags": [
+        "blip",
+        "digital",
+        "pickup",
+        "powerup6",
+        "retro"
+      ],
+      "use_cases": [
+        "arcade pickup",
+        "retro UI",
+        "powerup"
+      ],
+      "mood": [
+        "retro",
+        "playful"
+      ],
+      "keywords_en": [
+        "blip",
+        "digital",
+        "pickup",
+        "powerup6",
+        "retro"
+      ],
+      "keywords_ar": [
+        "رقمي",
+        "التقاط",
+        "رجعي"
+      ],
+      "duration_sec": 0.444,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/digital-audio/powerUp6.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/digital-audio/powerUp6.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 5607,
+      "size_mp3": null,
+      "sha256_ogg": "d1007bc67852cc767fad077a6b7ee016c0eb3d52a2032f1496726d7ab590e22d",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio"
+    },
+    {
+      "id": "digital-audio_powerup7",
+      "title": "powerup7",
+      "pack": "digital-audio",
+      "category": "digital",
+      "tags": [
+        "blip",
+        "digital",
+        "pickup",
+        "powerup7",
+        "retro"
+      ],
+      "use_cases": [
+        "arcade pickup",
+        "retro UI",
+        "powerup"
+      ],
+      "mood": [
+        "retro",
+        "playful"
+      ],
+      "keywords_en": [
+        "blip",
+        "digital",
+        "pickup",
+        "powerup7",
+        "retro"
+      ],
+      "keywords_ar": [
+        "رقمي",
+        "التقاط",
+        "رجعي"
+      ],
+      "duration_sec": 0.522,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/digital-audio/powerUp7.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/digital-audio/powerUp7.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 5868,
+      "size_mp3": null,
+      "sha256_ogg": "9048d651b51f528099c384566b0d4c6c597bee8b56c48f3adab7a901feba0fa5",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio"
+    },
+    {
+      "id": "digital-audio_powerup8",
+      "title": "powerup8",
+      "pack": "digital-audio",
+      "category": "digital",
+      "tags": [
+        "blip",
+        "digital",
+        "pickup",
+        "powerup8",
+        "retro"
+      ],
+      "use_cases": [
+        "arcade pickup",
+        "retro UI",
+        "powerup"
+      ],
+      "mood": [
+        "retro",
+        "playful"
+      ],
+      "keywords_en": [
+        "blip",
+        "digital",
+        "pickup",
+        "powerup8",
+        "retro"
+      ],
+      "keywords_ar": [
+        "رقمي",
+        "التقاط",
+        "رجعي"
+      ],
+      "duration_sec": 0.575,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/digital-audio/powerUp8.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/digital-audio/powerUp8.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 6363,
+      "size_mp3": null,
+      "sha256_ogg": "2a2adebaacbf07cc89c194e5d088c8e01cad8557800559d6cb5b6106b6739508",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio"
+    },
+    {
+      "id": "digital-audio_powerup9",
+      "title": "powerup9",
+      "pack": "digital-audio",
+      "category": "digital",
+      "tags": [
+        "blip",
+        "digital",
+        "pickup",
+        "powerup9",
+        "retro"
+      ],
+      "use_cases": [
+        "arcade pickup",
+        "retro UI",
+        "powerup"
+      ],
+      "mood": [
+        "retro",
+        "playful"
+      ],
+      "keywords_en": [
+        "blip",
+        "digital",
+        "pickup",
+        "powerup9",
+        "retro"
+      ],
+      "keywords_ar": [
+        "رقمي",
+        "التقاط",
+        "رجعي"
+      ],
+      "duration_sec": 0.549,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/digital-audio/powerUp9.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/digital-audio/powerUp9.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 6101,
+      "size_mp3": null,
+      "sha256_ogg": "7dfa3198ab951f09bee096bcd08db6faafcdb57a6bf416c91e1fa9a8321076e5",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio"
+    },
+    {
+      "id": "digital-audio_spacetrash1",
+      "title": "spacetrash1",
+      "pack": "digital-audio",
+      "category": "digital",
+      "tags": [
+        "blip",
+        "digital",
+        "pickup",
+        "retro",
+        "spacetrash1"
+      ],
+      "use_cases": [
+        "arcade pickup",
+        "retro UI",
+        "powerup"
+      ],
+      "mood": [
+        "retro",
+        "playful"
+      ],
+      "keywords_en": [
+        "blip",
+        "digital",
+        "pickup",
+        "retro",
+        "spacetrash1"
+      ],
+      "keywords_ar": [
+        "رقمي",
+        "التقاط",
+        "رجعي"
+      ],
+      "duration_sec": 1.451,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/digital-audio/spaceTrash1.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/digital-audio/spaceTrash1.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 12132,
+      "size_mp3": null,
+      "sha256_ogg": "8f702781627c95cf9f91724dab3bcdb46bb87cc0ccf2a350748798dba6bc82aa",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio"
+    },
+    {
+      "id": "digital-audio_spacetrash2",
+      "title": "spacetrash2",
+      "pack": "digital-audio",
+      "category": "digital",
+      "tags": [
+        "blip",
+        "digital",
+        "pickup",
+        "retro",
+        "spacetrash2"
+      ],
+      "use_cases": [
+        "arcade pickup",
+        "retro UI",
+        "powerup"
+      ],
+      "mood": [
+        "retro",
+        "playful"
+      ],
+      "keywords_en": [
+        "blip",
+        "digital",
+        "pickup",
+        "retro",
+        "spacetrash2"
+      ],
+      "keywords_ar": [
+        "رقمي",
+        "التقاط",
+        "رجعي"
+      ],
+      "duration_sec": 1.475,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/digital-audio/spaceTrash2.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/digital-audio/spaceTrash2.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 12640,
+      "size_mp3": null,
+      "sha256_ogg": "1b3a14886d25a471273eec5d55ff3a7e7c7c6df4e82f3659046dafed982a76d4",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio"
+    },
+    {
+      "id": "digital-audio_spacetrash3",
+      "title": "spacetrash3",
+      "pack": "digital-audio",
+      "category": "digital",
+      "tags": [
+        "blip",
+        "digital",
+        "pickup",
+        "retro",
+        "spacetrash3"
+      ],
+      "use_cases": [
+        "arcade pickup",
+        "retro UI",
+        "powerup"
+      ],
+      "mood": [
+        "retro",
+        "playful"
+      ],
+      "keywords_en": [
+        "blip",
+        "digital",
+        "pickup",
+        "retro",
+        "spacetrash3"
+      ],
+      "keywords_ar": [
+        "رقمي",
+        "التقاط",
+        "رجعي"
+      ],
+      "duration_sec": 1.535,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/digital-audio/spaceTrash3.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/digital-audio/spaceTrash3.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 12413,
+      "size_mp3": null,
+      "sha256_ogg": "03fd29fd857c67b4401e7ffbc321568229844a10051ae455af497b2335f37d6c",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio"
+    },
+    {
+      "id": "digital-audio_spacetrash4",
+      "title": "spacetrash4",
+      "pack": "digital-audio",
+      "category": "digital",
+      "tags": [
+        "blip",
+        "digital",
+        "pickup",
+        "retro",
+        "spacetrash4"
+      ],
+      "use_cases": [
+        "arcade pickup",
+        "retro UI",
+        "powerup"
+      ],
+      "mood": [
+        "retro",
+        "playful"
+      ],
+      "keywords_en": [
+        "blip",
+        "digital",
+        "pickup",
+        "retro",
+        "spacetrash4"
+      ],
+      "keywords_ar": [
+        "رقمي",
+        "التقاط",
+        "رجعي"
+      ],
+      "duration_sec": 1.477,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/digital-audio/spaceTrash4.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/digital-audio/spaceTrash4.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 12685,
+      "size_mp3": null,
+      "sha256_ogg": "d0c659b2c8108a7bccfeac94dbac6b770f89e4b71c0b4c6c3024941287094f34",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio"
+    },
+    {
+      "id": "digital-audio_spacetrash5",
+      "title": "spacetrash5",
+      "pack": "digital-audio",
+      "category": "digital",
+      "tags": [
+        "blip",
+        "digital",
+        "pickup",
+        "retro",
+        "spacetrash5"
+      ],
+      "use_cases": [
+        "arcade pickup",
+        "retro UI",
+        "powerup"
+      ],
+      "mood": [
+        "retro",
+        "playful"
+      ],
+      "keywords_en": [
+        "blip",
+        "digital",
+        "pickup",
+        "retro",
+        "spacetrash5"
+      ],
+      "keywords_ar": [
+        "رقمي",
+        "التقاط",
+        "رجعي"
+      ],
+      "duration_sec": 1.426,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/digital-audio/spaceTrash5.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/digital-audio/spaceTrash5.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 11729,
+      "size_mp3": null,
+      "sha256_ogg": "7b74e7c5c9df8023bd6bdc595045ef96bd3e606da5457cfbbb6ff9d4dd32a005",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio"
+    },
+    {
+      "id": "digital-audio_threetone1",
+      "title": "threetone1",
+      "pack": "digital-audio",
+      "category": "digital",
+      "tags": [
+        "blip",
+        "digital",
+        "pickup",
+        "retro",
+        "threetone1"
+      ],
+      "use_cases": [
+        "arcade pickup",
+        "retro UI",
+        "powerup"
+      ],
+      "mood": [
+        "retro",
+        "playful"
+      ],
+      "keywords_en": [
+        "blip",
+        "digital",
+        "pickup",
+        "retro",
+        "threetone1"
+      ],
+      "keywords_ar": [
+        "رقمي",
+        "التقاط",
+        "رجعي"
+      ],
+      "duration_sec": 0.827,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/digital-audio/threeTone1.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/digital-audio/threeTone1.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 7361,
+      "size_mp3": null,
+      "sha256_ogg": "bdf21eb12e65507f091d074886fdac820e1ccae51d060caa168e5567acadb84b",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio"
+    },
+    {
+      "id": "digital-audio_threetone2",
+      "title": "threetone2",
+      "pack": "digital-audio",
+      "category": "digital",
+      "tags": [
+        "blip",
+        "digital",
+        "pickup",
+        "retro",
+        "threetone2"
+      ],
+      "use_cases": [
+        "arcade pickup",
+        "retro UI",
+        "powerup"
+      ],
+      "mood": [
+        "retro",
+        "playful"
+      ],
+      "keywords_en": [
+        "blip",
+        "digital",
+        "pickup",
+        "retro",
+        "threetone2"
+      ],
+      "keywords_ar": [
+        "رقمي",
+        "التقاط",
+        "رجعي"
+      ],
+      "duration_sec": 0.866,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/digital-audio/threeTone2.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/digital-audio/threeTone2.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 8082,
+      "size_mp3": null,
+      "sha256_ogg": "124198c80ff2e1826230be606aa3dcdd90262272bb545f621a9eb91dccfd5c9d",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio"
+    },
+    {
+      "id": "digital-audio_tone1",
+      "title": "tone1",
+      "pack": "digital-audio",
+      "category": "digital",
+      "tags": [
+        "blip",
+        "digital",
+        "pickup",
+        "retro",
+        "tone1"
+      ],
+      "use_cases": [
+        "arcade pickup",
+        "retro UI",
+        "powerup"
+      ],
+      "mood": [
+        "retro",
+        "playful"
+      ],
+      "keywords_en": [
+        "blip",
+        "digital",
+        "pickup",
+        "retro",
+        "tone1"
+      ],
+      "keywords_ar": [
+        "رقمي",
+        "التقاط",
+        "رجعي"
+      ],
+      "duration_sec": 0.661,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/digital-audio/tone1.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/digital-audio/tone1.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 6634,
+      "size_mp3": null,
+      "sha256_ogg": "12c6a1955aad54cb04206b5e9985df4379ebc598a01b65070609e0b0a3b9b026",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio"
+    },
+    {
+      "id": "digital-audio_twotone1",
+      "title": "twotone1",
+      "pack": "digital-audio",
+      "category": "digital",
+      "tags": [
+        "blip",
+        "digital",
+        "pickup",
+        "retro",
+        "twotone1"
+      ],
+      "use_cases": [
+        "arcade pickup",
+        "retro UI",
+        "powerup"
+      ],
+      "mood": [
+        "retro",
+        "playful"
+      ],
+      "keywords_en": [
+        "blip",
+        "digital",
+        "pickup",
+        "retro",
+        "twotone1"
+      ],
+      "keywords_ar": [
+        "رقمي",
+        "التقاط",
+        "رجعي"
+      ],
+      "duration_sec": 0.724,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/digital-audio/twoTone1.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/digital-audio/twoTone1.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 7362,
+      "size_mp3": null,
+      "sha256_ogg": "8732f14d6398407a8f1df77b986c2099cfd88f6583e1272cb60497cb2fe8da1d",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio"
+    },
+    {
+      "id": "digital-audio_twotone2",
+      "title": "twotone2",
+      "pack": "digital-audio",
+      "category": "digital",
+      "tags": [
+        "blip",
+        "digital",
+        "pickup",
+        "retro",
+        "twotone2"
+      ],
+      "use_cases": [
+        "arcade pickup",
+        "retro UI",
+        "powerup"
+      ],
+      "mood": [
+        "retro",
+        "playful"
+      ],
+      "keywords_en": [
+        "blip",
+        "digital",
+        "pickup",
+        "retro",
+        "twotone2"
+      ],
+      "keywords_ar": [
+        "رقمي",
+        "التقاط",
+        "رجعي"
+      ],
+      "duration_sec": 0.731,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/digital-audio/twoTone2.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/digital-audio/twoTone2.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 7349,
+      "size_mp3": null,
+      "sha256_ogg": "e8e4a2d9faa4344f4722de9ef81103290858bbcd80f1dc686879128cae52e9f0",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio"
+    },
+    {
+      "id": "digital-audio_zap1",
+      "title": "zap1",
+      "pack": "digital-audio",
+      "category": "digital",
+      "tags": [
+        "blip",
+        "digital",
+        "pickup",
+        "retro",
+        "zap1"
+      ],
+      "use_cases": [
+        "arcade pickup",
+        "retro UI",
+        "powerup"
+      ],
+      "mood": [
+        "retro",
+        "playful"
+      ],
+      "keywords_en": [
+        "blip",
+        "digital",
+        "pickup",
+        "retro",
+        "zap1"
+      ],
+      "keywords_ar": [
+        "رقمي",
+        "التقاط",
+        "رجعي"
+      ],
+      "duration_sec": 1.019,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/digital-audio/zap1.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/digital-audio/zap1.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 8126,
+      "size_mp3": null,
+      "sha256_ogg": "4e4bf11c671a4be0723022a7177f8e122329fa32a0c59555581f4193ed111585",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio"
+    },
+    {
+      "id": "digital-audio_zap2",
+      "title": "zap2",
+      "pack": "digital-audio",
+      "category": "digital",
+      "tags": [
+        "blip",
+        "digital",
+        "pickup",
+        "retro",
+        "zap2"
+      ],
+      "use_cases": [
+        "arcade pickup",
+        "retro UI",
+        "powerup"
+      ],
+      "mood": [
+        "retro",
+        "playful"
+      ],
+      "keywords_en": [
+        "blip",
+        "digital",
+        "pickup",
+        "retro",
+        "zap2"
+      ],
+      "keywords_ar": [
+        "رقمي",
+        "التقاط",
+        "رجعي"
+      ],
+      "duration_sec": 1.228,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/digital-audio/zap2.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/digital-audio/zap2.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 9819,
+      "size_mp3": null,
+      "sha256_ogg": "169cf3876647bae0a28a7eb3fc5b5bd573ab9efae7b56b64a8700ff9bafb3494",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio"
+    },
+    {
+      "id": "digital-audio_zapthreetonedown",
+      "title": "zapthreetonedown",
+      "pack": "digital-audio",
+      "category": "digital",
+      "tags": [
+        "blip",
+        "digital",
+        "pickup",
+        "retro",
+        "zapthreetonedown"
+      ],
+      "use_cases": [
+        "arcade pickup",
+        "retro UI",
+        "powerup"
+      ],
+      "mood": [
+        "retro",
+        "playful"
+      ],
+      "keywords_en": [
+        "blip",
+        "digital",
+        "pickup",
+        "retro",
+        "zapthreetonedown"
+      ],
+      "keywords_ar": [
+        "رقمي",
+        "التقاط",
+        "رجعي"
+      ],
+      "duration_sec": 1.332,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/digital-audio/zapThreeToneDown.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/digital-audio/zapThreeToneDown.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 9936,
+      "size_mp3": null,
+      "sha256_ogg": "272e60bc62a1685f990fa50d163c3cb7f85073c1c3f89e3c3409e7ec938703c5",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio"
+    },
+    {
+      "id": "digital-audio_zapthreetoneup",
+      "title": "zapthreetoneup",
+      "pack": "digital-audio",
+      "category": "digital",
+      "tags": [
+        "blip",
+        "digital",
+        "pickup",
+        "retro",
+        "zapthreetoneup"
+      ],
+      "use_cases": [
+        "arcade pickup",
+        "retro UI",
+        "powerup"
+      ],
+      "mood": [
+        "retro",
+        "playful"
+      ],
+      "keywords_en": [
+        "blip",
+        "digital",
+        "pickup",
+        "retro",
+        "zapthreetoneup"
+      ],
+      "keywords_ar": [
+        "رقمي",
+        "التقاط",
+        "رجعي"
+      ],
+      "duration_sec": 1.202,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/digital-audio/zapThreeToneUp.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/digital-audio/zapThreeToneUp.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 9590,
+      "size_mp3": null,
+      "sha256_ogg": "52da0ff5e219179df4521b38276abde0ed6ba27e0cf030b0d1209b8857406eff",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio"
+    },
+    {
+      "id": "digital-audio_zaptwotone",
+      "title": "zaptwotone",
+      "pack": "digital-audio",
+      "category": "digital",
+      "tags": [
+        "blip",
+        "digital",
+        "pickup",
+        "retro",
+        "zaptwotone"
+      ],
+      "use_cases": [
+        "arcade pickup",
+        "retro UI",
+        "powerup"
+      ],
+      "mood": [
+        "retro",
+        "playful"
+      ],
+      "keywords_en": [
+        "blip",
+        "digital",
+        "pickup",
+        "retro",
+        "zaptwotone"
+      ],
+      "keywords_ar": [
+        "رقمي",
+        "التقاط",
+        "رجعي"
+      ],
+      "duration_sec": 1.306,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/digital-audio/zapTwoTone.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/digital-audio/zapTwoTone.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 9847,
+      "size_mp3": null,
+      "sha256_ogg": "7d5871b7b01f631bee006772cc4fb6ab6a1eb5c78d5be42edc722b57157c00f5",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio"
+    },
+    {
+      "id": "digital-audio_zaptwotone2",
+      "title": "zaptwotone2",
+      "pack": "digital-audio",
+      "category": "digital",
+      "tags": [
+        "blip",
+        "digital",
+        "pickup",
+        "retro",
+        "zaptwotone2"
+      ],
+      "use_cases": [
+        "arcade pickup",
+        "retro UI",
+        "powerup"
+      ],
+      "mood": [
+        "retro",
+        "playful"
+      ],
+      "keywords_en": [
+        "blip",
+        "digital",
+        "pickup",
+        "retro",
+        "zaptwotone2"
+      ],
+      "keywords_ar": [
+        "رقمي",
+        "التقاط",
+        "رجعي"
+      ],
+      "duration_sec": 1.202,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/digital-audio/zapTwoTone2.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/digital-audio/zapTwoTone2.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 9016,
+      "size_mp3": null,
+      "sha256_ogg": "9da93e8dade111d1913cb9dc582925712afed9f69206a80ebf89510756909a06",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/digital-audio"
+    },
     {
       "id": "impact-sounds_footstep_carpet_000",
       "title": "footstep carpet 000",
@@ -11873,6 +14851,3733 @@
       "sha256_mp3": null,
       "license": "CC0-1.0",
       "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_computernoise_000",
+      "title": "computernoise 000",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "000",
+        "computernoise",
+        "engine",
+        "laser",
+        "sci-fi",
+        "space"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "000",
+        "computernoise",
+        "engine",
+        "laser",
+        "sci-fi",
+        "space"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 5.0,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/computerNoise_000.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/computerNoise_000.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 119024,
+      "size_mp3": null,
+      "sha256_ogg": "1527944e16eb14b48ee03fe3e7ce6aae94262833a4e1f83928d451a7414fe4e1",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_computernoise_001",
+      "title": "computernoise 001",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "001",
+        "computernoise",
+        "engine",
+        "laser",
+        "sci-fi",
+        "space"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "001",
+        "computernoise",
+        "engine",
+        "laser",
+        "sci-fi",
+        "space"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 5.0,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/computerNoise_001.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/computerNoise_001.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 120178,
+      "size_mp3": null,
+      "sha256_ogg": "29b4842f6d8c0ba2b0cb00bfaff3b852b492bb43197a82e697917aacbe106757",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_computernoise_002",
+      "title": "computernoise 002",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "002",
+        "computernoise",
+        "engine",
+        "laser",
+        "sci-fi",
+        "space"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "002",
+        "computernoise",
+        "engine",
+        "laser",
+        "sci-fi",
+        "space"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 5.0,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/computerNoise_002.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/computerNoise_002.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 130861,
+      "size_mp3": null,
+      "sha256_ogg": "6ae9bb261c6536d1699972da0cdbf6e0762cf7e9b925adb64a06ff375255cb71",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_computernoise_003",
+      "title": "computernoise 003",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "003",
+        "computernoise",
+        "engine",
+        "laser",
+        "sci-fi",
+        "space"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "003",
+        "computernoise",
+        "engine",
+        "laser",
+        "sci-fi",
+        "space"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 5.0,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/computerNoise_003.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/computerNoise_003.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 123515,
+      "size_mp3": null,
+      "sha256_ogg": "5b1b73bbe6e6ad1b1d39422f640f1bbee3376e8e18916f9305b04b9d143f5cf3",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_doorclose_000",
+      "title": "doorclose 000",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "000",
+        "doorclose",
+        "engine",
+        "laser",
+        "sci-fi",
+        "space"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "000",
+        "doorclose",
+        "engine",
+        "laser",
+        "sci-fi",
+        "space"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 0.532,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/doorClose_000.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/doorClose_000.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 20369,
+      "size_mp3": null,
+      "sha256_ogg": "c9134651ebbd7c016f90393aee495ff8120bd343bb7569b689a7506987ebd6c2",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_doorclose_001",
+      "title": "doorclose 001",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "001",
+        "doorclose",
+        "engine",
+        "laser",
+        "sci-fi",
+        "space"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "001",
+        "doorclose",
+        "engine",
+        "laser",
+        "sci-fi",
+        "space"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 0.529,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/doorClose_001.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/doorClose_001.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 21561,
+      "size_mp3": null,
+      "sha256_ogg": "2153e83ff9880c78f9539aa5dcce80fc9e3b39c6fa0f8dec9325ec6d7ea2c9d5",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_doorclose_002",
+      "title": "doorclose 002",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "002",
+        "doorclose",
+        "engine",
+        "laser",
+        "sci-fi",
+        "space"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "002",
+        "doorclose",
+        "engine",
+        "laser",
+        "sci-fi",
+        "space"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 0.533,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/doorClose_002.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/doorClose_002.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 20530,
+      "size_mp3": null,
+      "sha256_ogg": "01c7d15e90ae1b218812597d04c20e3df872367ebf22cd99d66dddd5fdb542a4",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_dooropen_000",
+      "title": "dooropen 000",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "000",
+        "dooropen",
+        "engine",
+        "laser",
+        "sci-fi",
+        "space"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "000",
+        "dooropen",
+        "engine",
+        "laser",
+        "sci-fi",
+        "space"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 0.532,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/doorOpen_000.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/doorOpen_000.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 19616,
+      "size_mp3": null,
+      "sha256_ogg": "5b7e07eccd4413ad9ef3720c2d14f9cc699f4c50111e9b2f48bd60e6f1a164c3",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_dooropen_001",
+      "title": "dooropen 001",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "001",
+        "dooropen",
+        "engine",
+        "laser",
+        "sci-fi",
+        "space"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "001",
+        "dooropen",
+        "engine",
+        "laser",
+        "sci-fi",
+        "space"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 0.529,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/doorOpen_001.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/doorOpen_001.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 21442,
+      "size_mp3": null,
+      "sha256_ogg": "8c204ca94eb722d3af95f29221f4551938ca3c217fda32c14dabe2cf6a9c782b",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_dooropen_002",
+      "title": "dooropen 002",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "002",
+        "dooropen",
+        "engine",
+        "laser",
+        "sci-fi",
+        "space"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "002",
+        "dooropen",
+        "engine",
+        "laser",
+        "sci-fi",
+        "space"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 0.533,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/doorOpen_002.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/doorOpen_002.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 19864,
+      "size_mp3": null,
+      "sha256_ogg": "84473b70b0b2f69bd325fffee5790f030ff6597d178efddc7e4c201933a6c6c1",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_enginecircular_000",
+      "title": "enginecircular 000",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "000",
+        "engine",
+        "enginecircular",
+        "laser",
+        "sci-fi",
+        "space"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "000",
+        "engine",
+        "enginecircular",
+        "laser",
+        "sci-fi",
+        "space"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 5.0,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/engineCircular_000.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/engineCircular_000.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 177470,
+      "size_mp3": null,
+      "sha256_ogg": "8ab85f9fa85e9e692287f98acb36b9ac3ba15313b007c039055e286b736f4e3a",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_enginecircular_001",
+      "title": "enginecircular 001",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "001",
+        "engine",
+        "enginecircular",
+        "laser",
+        "sci-fi",
+        "space"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "001",
+        "engine",
+        "enginecircular",
+        "laser",
+        "sci-fi",
+        "space"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 5.0,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/engineCircular_001.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/engineCircular_001.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 199100,
+      "size_mp3": null,
+      "sha256_ogg": "e1df3a942842a24f7c4056db3177e8008edd73d4f3985fd95f55362bc85058bc",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_enginecircular_002",
+      "title": "enginecircular 002",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "002",
+        "engine",
+        "enginecircular",
+        "laser",
+        "sci-fi",
+        "space"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "002",
+        "engine",
+        "enginecircular",
+        "laser",
+        "sci-fi",
+        "space"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 5.0,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/engineCircular_002.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/engineCircular_002.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 188542,
+      "size_mp3": null,
+      "sha256_ogg": "5f364bd42269e111df1d421fa2b45f0b2f0cc99a873ceae2d55b34898ad0d779",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_enginecircular_003",
+      "title": "enginecircular 003",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "003",
+        "engine",
+        "enginecircular",
+        "laser",
+        "sci-fi",
+        "space"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "003",
+        "engine",
+        "enginecircular",
+        "laser",
+        "sci-fi",
+        "space"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 5.0,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/engineCircular_003.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/engineCircular_003.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 184193,
+      "size_mp3": null,
+      "sha256_ogg": "f592ec53043887cf5aeec60d545372da3b4459fba3f634265ee9d5251a4edf4e",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_enginecircular_004",
+      "title": "enginecircular 004",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "004",
+        "engine",
+        "enginecircular",
+        "laser",
+        "sci-fi",
+        "space"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "004",
+        "engine",
+        "enginecircular",
+        "laser",
+        "sci-fi",
+        "space"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 5.0,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/engineCircular_004.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/engineCircular_004.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 180870,
+      "size_mp3": null,
+      "sha256_ogg": "ce286b2d637b0d71c230f0f12bc95c1d2a8cf0419aa13e66fcdde1f9096acae7",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_explosioncrunch_000",
+      "title": "explosioncrunch 000",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "000",
+        "engine",
+        "explosioncrunch",
+        "laser",
+        "sci-fi",
+        "space"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "000",
+        "engine",
+        "explosioncrunch",
+        "laser",
+        "sci-fi",
+        "space"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 0.777,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/explosionCrunch_000.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/explosionCrunch_000.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 28274,
+      "size_mp3": null,
+      "sha256_ogg": "4b597d658d0ae101f0a030fbeea5fc3a4292ab85f017470a8254a8e7959cbd69",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_explosioncrunch_001",
+      "title": "explosioncrunch 001",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "001",
+        "engine",
+        "explosioncrunch",
+        "laser",
+        "sci-fi",
+        "space"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "001",
+        "engine",
+        "explosioncrunch",
+        "laser",
+        "sci-fi",
+        "space"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 1.357,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/explosionCrunch_001.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/explosionCrunch_001.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 47916,
+      "size_mp3": null,
+      "sha256_ogg": "fdd04d6f0032d4d57c134ad37f3587d2d00e58c9572715275bd8cf4f43593576",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_explosioncrunch_002",
+      "title": "explosioncrunch 002",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "002",
+        "engine",
+        "explosioncrunch",
+        "laser",
+        "sci-fi",
+        "space"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "002",
+        "engine",
+        "explosioncrunch",
+        "laser",
+        "sci-fi",
+        "space"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 1.256,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/explosionCrunch_002.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/explosionCrunch_002.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 47907,
+      "size_mp3": null,
+      "sha256_ogg": "be2b8ddc62e4a24c91e2e77793de98549ce216faf2f323a917e7d6f34321ff97",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_explosioncrunch_003",
+      "title": "explosioncrunch 003",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "003",
+        "engine",
+        "explosioncrunch",
+        "laser",
+        "sci-fi",
+        "space"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "003",
+        "engine",
+        "explosioncrunch",
+        "laser",
+        "sci-fi",
+        "space"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 1.553,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/explosionCrunch_003.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/explosionCrunch_003.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 54824,
+      "size_mp3": null,
+      "sha256_ogg": "8c7197bb3a1c504690319c3abe0e62a5423ee246dd70caab57963d0b7aa8144f",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_explosioncrunch_004",
+      "title": "explosioncrunch 004",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "004",
+        "engine",
+        "explosioncrunch",
+        "laser",
+        "sci-fi",
+        "space"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "004",
+        "engine",
+        "explosioncrunch",
+        "laser",
+        "sci-fi",
+        "space"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 1.98,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/explosionCrunch_004.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/explosionCrunch_004.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 79250,
+      "size_mp3": null,
+      "sha256_ogg": "9c3a1c73cadf0de5d5a578b31a264f20b1ac7cb6ec9bbd34a203f58402ea5390",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_forcefield_000",
+      "title": "forcefield 000",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "000",
+        "engine",
+        "forcefield",
+        "laser",
+        "sci-fi",
+        "space"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "000",
+        "engine",
+        "forcefield",
+        "laser",
+        "sci-fi",
+        "space"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 0.954,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/forceField_000.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/forceField_000.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 25672,
+      "size_mp3": null,
+      "sha256_ogg": "c2916f2a062c8ddd1aca2826d134fe90847037db31342726ffb0f9097afe339c",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_forcefield_001",
+      "title": "forcefield 001",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "001",
+        "engine",
+        "forcefield",
+        "laser",
+        "sci-fi",
+        "space"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "001",
+        "engine",
+        "forcefield",
+        "laser",
+        "sci-fi",
+        "space"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 0.953,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/forceField_001.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/forceField_001.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 28947,
+      "size_mp3": null,
+      "sha256_ogg": "5574e69dd04e5f59322c5ddffde5978f077b09170ae5e29cec0bd9901828cd90",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_forcefield_002",
+      "title": "forcefield 002",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "002",
+        "engine",
+        "forcefield",
+        "laser",
+        "sci-fi",
+        "space"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "002",
+        "engine",
+        "forcefield",
+        "laser",
+        "sci-fi",
+        "space"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 0.955,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/forceField_002.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/forceField_002.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 27647,
+      "size_mp3": null,
+      "sha256_ogg": "051b0eafc479695af4ca3607d41fd4be41bae7c21f4f9508d004722b09f1bd63",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_forcefield_003",
+      "title": "forcefield 003",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "003",
+        "engine",
+        "forcefield",
+        "laser",
+        "sci-fi",
+        "space"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "003",
+        "engine",
+        "forcefield",
+        "laser",
+        "sci-fi",
+        "space"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 0.956,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/forceField_003.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/forceField_003.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 23938,
+      "size_mp3": null,
+      "sha256_ogg": "15e3fe971ffd3415e5ab641d3a4d043fb31f6712b0956315b524ba29c3889cda",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_forcefield_004",
+      "title": "forcefield 004",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "004",
+        "engine",
+        "forcefield",
+        "laser",
+        "sci-fi",
+        "space"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "004",
+        "engine",
+        "forcefield",
+        "laser",
+        "sci-fi",
+        "space"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 0.954,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/forceField_004.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/forceField_004.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 26885,
+      "size_mp3": null,
+      "sha256_ogg": "05609bb296cbc287ae95ac8924c89809d69c89d7bb357cc6a117ec1b1ef65e09",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_impactmetal_000",
+      "title": "impactmetal 000",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "000",
+        "engine",
+        "impactmetal",
+        "laser",
+        "sci-fi",
+        "space"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "000",
+        "engine",
+        "impactmetal",
+        "laser",
+        "sci-fi",
+        "space"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 0.635,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/impactMetal_000.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/impactMetal_000.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 15491,
+      "size_mp3": null,
+      "sha256_ogg": "956c6612a256aa1a67a2327fffe2454f6b1d82e4c1c2be28fd66916335d5b1d6",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_impactmetal_001",
+      "title": "impactmetal 001",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "001",
+        "engine",
+        "impactmetal",
+        "laser",
+        "sci-fi",
+        "space"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "001",
+        "engine",
+        "impactmetal",
+        "laser",
+        "sci-fi",
+        "space"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 0.688,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/impactMetal_001.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/impactMetal_001.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 15305,
+      "size_mp3": null,
+      "sha256_ogg": "4a2b76f20052819c6ace57cc5ba55ec58deffcf74e3ed30694d619c582cc8e8e",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_impactmetal_002",
+      "title": "impactmetal 002",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "002",
+        "engine",
+        "impactmetal",
+        "laser",
+        "sci-fi",
+        "space"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "002",
+        "engine",
+        "impactmetal",
+        "laser",
+        "sci-fi",
+        "space"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 0.471,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/impactMetal_002.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/impactMetal_002.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 12708,
+      "size_mp3": null,
+      "sha256_ogg": "0c1bb4db8a4d48b2b8c2e65a175d9056b845f1063837599995d81be1c5957d2c",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_impactmetal_003",
+      "title": "impactmetal 003",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "003",
+        "engine",
+        "impactmetal",
+        "laser",
+        "sci-fi",
+        "space"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "003",
+        "engine",
+        "impactmetal",
+        "laser",
+        "sci-fi",
+        "space"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 0.777,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/impactMetal_003.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/impactMetal_003.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 17303,
+      "size_mp3": null,
+      "sha256_ogg": "ef29c3943ee701616f65e3d596c13eb3ff6b11ca5b3ac01e7bc923366a5c6f76",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_impactmetal_004",
+      "title": "impactmetal 004",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "004",
+        "engine",
+        "impactmetal",
+        "laser",
+        "sci-fi",
+        "space"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "004",
+        "engine",
+        "impactmetal",
+        "laser",
+        "sci-fi",
+        "space"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 0.39,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/impactMetal_004.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/impactMetal_004.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 11290,
+      "size_mp3": null,
+      "sha256_ogg": "0032710d1fc88c217946cd54492f275eb4363bb8025a4bc1b7ce08df7b3c60de",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_laserlarge_000",
+      "title": "laserlarge 000",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "000",
+        "engine",
+        "laser",
+        "laserlarge",
+        "sci-fi",
+        "space"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "000",
+        "engine",
+        "laser",
+        "laserlarge",
+        "sci-fi",
+        "space"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 0.677,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/laserLarge_000.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/laserLarge_000.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 25566,
+      "size_mp3": null,
+      "sha256_ogg": "a56d95794cd732d6c2d66ce488c14cf557fe526c282897c9a77675c2bd9b77e6",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_laserlarge_001",
+      "title": "laserlarge 001",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "001",
+        "engine",
+        "laser",
+        "laserlarge",
+        "sci-fi",
+        "space"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "001",
+        "engine",
+        "laser",
+        "laserlarge",
+        "sci-fi",
+        "space"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 0.721,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/laserLarge_001.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/laserLarge_001.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 26220,
+      "size_mp3": null,
+      "sha256_ogg": "e678aca631495b7dfef4ac625f0349875ccac81a60f538d530e072241af3e4bd",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_laserlarge_002",
+      "title": "laserlarge 002",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "002",
+        "engine",
+        "laser",
+        "laserlarge",
+        "sci-fi",
+        "space"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "002",
+        "engine",
+        "laser",
+        "laserlarge",
+        "sci-fi",
+        "space"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 0.744,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/laserLarge_002.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/laserLarge_002.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 27440,
+      "size_mp3": null,
+      "sha256_ogg": "e5e0b6ccc4d5720c8174a3e5b7cc6f9be3057352a89cbb2e99a00efc6fe5cc11",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_laserlarge_003",
+      "title": "laserlarge 003",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "003",
+        "engine",
+        "laser",
+        "laserlarge",
+        "sci-fi",
+        "space"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "003",
+        "engine",
+        "laser",
+        "laserlarge",
+        "sci-fi",
+        "space"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 0.716,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/laserLarge_003.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/laserLarge_003.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 26104,
+      "size_mp3": null,
+      "sha256_ogg": "3c7b3c9d856ee31fa1b92d29322f6ee472446627381595baeaba2af35c07135f",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_laserlarge_004",
+      "title": "laserlarge 004",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "004",
+        "engine",
+        "laser",
+        "laserlarge",
+        "sci-fi",
+        "space"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "004",
+        "engine",
+        "laser",
+        "laserlarge",
+        "sci-fi",
+        "space"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 0.693,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/laserLarge_004.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/laserLarge_004.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 26283,
+      "size_mp3": null,
+      "sha256_ogg": "86c749483b40e1bba9bfea6a04e884d479e5481e52efb6f113341141de516b3b",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_laserretro_000",
+      "title": "laserretro 000",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "000",
+        "engine",
+        "laser",
+        "laserretro",
+        "sci-fi",
+        "space"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "000",
+        "engine",
+        "laser",
+        "laserretro",
+        "sci-fi",
+        "space"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 0.235,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/laserRetro_000.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/laserRetro_000.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 12588,
+      "size_mp3": null,
+      "sha256_ogg": "2a203a007d24cc7e607eb8bec1d86bedba7f551911217ce2c4c1f31393aed32c",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_laserretro_001",
+      "title": "laserretro 001",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "001",
+        "engine",
+        "laser",
+        "laserretro",
+        "sci-fi",
+        "space"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "001",
+        "engine",
+        "laser",
+        "laserretro",
+        "sci-fi",
+        "space"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 0.236,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/laserRetro_001.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/laserRetro_001.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 12732,
+      "size_mp3": null,
+      "sha256_ogg": "a0a99efaa755594982d5dfebf3d9cecaed5249bdf1f0de29cf26ca9ea24c191a",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_laserretro_002",
+      "title": "laserretro 002",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "002",
+        "engine",
+        "laser",
+        "laserretro",
+        "sci-fi",
+        "space"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "002",
+        "engine",
+        "laser",
+        "laserretro",
+        "sci-fi",
+        "space"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 0.255,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/laserRetro_002.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/laserRetro_002.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 13130,
+      "size_mp3": null,
+      "sha256_ogg": "df6112dc4eba5444bc28a1c8b80f6ce942bb2696beb466ac8e736b2ebf3e15b9",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_laserretro_003",
+      "title": "laserretro 003",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "003",
+        "engine",
+        "laser",
+        "laserretro",
+        "sci-fi",
+        "space"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "003",
+        "engine",
+        "laser",
+        "laserretro",
+        "sci-fi",
+        "space"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 0.255,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/laserRetro_003.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/laserRetro_003.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 14271,
+      "size_mp3": null,
+      "sha256_ogg": "4442b847419f5f203ef8ba16f19957124884da176c843d68d48a22e9cd022796",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_laserretro_004",
+      "title": "laserretro 004",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "004",
+        "engine",
+        "laser",
+        "laserretro",
+        "sci-fi",
+        "space"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "004",
+        "engine",
+        "laser",
+        "laserretro",
+        "sci-fi",
+        "space"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 0.279,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/laserRetro_004.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/laserRetro_004.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 12701,
+      "size_mp3": null,
+      "sha256_ogg": "e42c226741e73fa6f3a501835dcca8c6d51105ee039f5d0ee29e0a3e5450a635",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_lasersmall_000",
+      "title": "lasersmall 000",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "000",
+        "engine",
+        "laser",
+        "lasersmall",
+        "sci-fi",
+        "space"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "000",
+        "engine",
+        "laser",
+        "lasersmall",
+        "sci-fi",
+        "space"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 0.239,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/laserSmall_000.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/laserSmall_000.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 7286,
+      "size_mp3": null,
+      "sha256_ogg": "72b589eadd41781257ac859e4f4d030222e623390e4a1a83f6d05329a6e026f1",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_lasersmall_001",
+      "title": "lasersmall 001",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "001",
+        "engine",
+        "laser",
+        "lasersmall",
+        "sci-fi",
+        "space"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "001",
+        "engine",
+        "laser",
+        "lasersmall",
+        "sci-fi",
+        "space"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 0.247,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/laserSmall_001.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/laserSmall_001.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 7448,
+      "size_mp3": null,
+      "sha256_ogg": "ab87913aba9790a0c5fa173d086267ba521ad522fcad2252271db49988313cf5",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_lasersmall_002",
+      "title": "lasersmall 002",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "002",
+        "engine",
+        "laser",
+        "lasersmall",
+        "sci-fi",
+        "space"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "002",
+        "engine",
+        "laser",
+        "lasersmall",
+        "sci-fi",
+        "space"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 0.344,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/laserSmall_002.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/laserSmall_002.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 8973,
+      "size_mp3": null,
+      "sha256_ogg": "e70139466c3e801358c9041ee17db7ff82c0e9a9cdf44647ad0ea6b9f8458f63",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_lasersmall_003",
+      "title": "lasersmall 003",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "003",
+        "engine",
+        "laser",
+        "lasersmall",
+        "sci-fi",
+        "space"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "003",
+        "engine",
+        "laser",
+        "lasersmall",
+        "sci-fi",
+        "space"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 0.3,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/laserSmall_003.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/laserSmall_003.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 8179,
+      "size_mp3": null,
+      "sha256_ogg": "cfa4391ca280933f567ce81c646b16f7cb2a090866eae674159a20f07641833c",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_lasersmall_004",
+      "title": "lasersmall 004",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "004",
+        "engine",
+        "laser",
+        "lasersmall",
+        "sci-fi",
+        "space"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "004",
+        "engine",
+        "laser",
+        "lasersmall",
+        "sci-fi",
+        "space"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 0.414,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/laserSmall_004.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/laserSmall_004.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 8632,
+      "size_mp3": null,
+      "sha256_ogg": "a464e34436f3c2a09f0e3a03dc0658a9036148062bbf293722007df4cfd8ff08",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_lowfrequency_explosion_000",
+      "title": "lowfrequency explosion 000",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "000",
+        "engine",
+        "explosion",
+        "laser",
+        "lowfrequency",
+        "sci-fi",
+        "space"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "000",
+        "engine",
+        "explosion",
+        "laser",
+        "lowfrequency",
+        "sci-fi",
+        "space"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 2.0,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/lowFrequency_explosion_000.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/lowFrequency_explosion_000.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 14317,
+      "size_mp3": null,
+      "sha256_ogg": "3cb48d86dab63140cfb9aaeea4d4a6846abaca5831d157d8adbec0490da26343",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_lowfrequency_explosion_001",
+      "title": "lowfrequency explosion 001",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "001",
+        "engine",
+        "explosion",
+        "laser",
+        "lowfrequency",
+        "sci-fi",
+        "space"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "001",
+        "engine",
+        "explosion",
+        "laser",
+        "lowfrequency",
+        "sci-fi",
+        "space"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 1.0,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/lowFrequency_explosion_001.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/lowFrequency_explosion_001.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 9408,
+      "size_mp3": null,
+      "sha256_ogg": "cdda50600a4928f2f1b8371224d53c171ac799c1cf2c30b11999508985250b3b",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_slime_000",
+      "title": "slime 000",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "000",
+        "engine",
+        "laser",
+        "sci-fi",
+        "slime",
+        "space"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "000",
+        "engine",
+        "laser",
+        "sci-fi",
+        "slime",
+        "space"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 0.5,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/slime_000.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/slime_000.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 20870,
+      "size_mp3": null,
+      "sha256_ogg": "480ee82b690136ea9db6966a3c3033356b8274752795c4e37afd6b6defcfacff",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_slime_001",
+      "title": "slime 001",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "001",
+        "engine",
+        "laser",
+        "sci-fi",
+        "slime",
+        "space"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "001",
+        "engine",
+        "laser",
+        "sci-fi",
+        "slime",
+        "space"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 4.71,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/slime_001.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/slime_001.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 159177,
+      "size_mp3": null,
+      "sha256_ogg": "822ca475d71e18ef6bba707dbe6bff2bd493d3457b2552f7473d23022c1257ca",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_spaceengine_000",
+      "title": "spaceengine 000",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "000",
+        "engine",
+        "laser",
+        "sci-fi",
+        "space",
+        "spaceengine"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "000",
+        "engine",
+        "laser",
+        "sci-fi",
+        "space",
+        "spaceengine"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 5.0,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/spaceEngine_000.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/spaceEngine_000.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 109059,
+      "size_mp3": null,
+      "sha256_ogg": "c06e84fb6734ddd0ce7242351e0952d560b3b3e47430172e8944f761d7bb1fc8",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_spaceengine_001",
+      "title": "spaceengine 001",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "001",
+        "engine",
+        "laser",
+        "sci-fi",
+        "space",
+        "spaceengine"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "001",
+        "engine",
+        "laser",
+        "sci-fi",
+        "space",
+        "spaceengine"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 5.0,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/spaceEngine_001.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/spaceEngine_001.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 121385,
+      "size_mp3": null,
+      "sha256_ogg": "ee53af299758b664c086d9ca99efecb41168596ea9fb1c5c24ac4389f94aea6b",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_spaceengine_002",
+      "title": "spaceengine 002",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "002",
+        "engine",
+        "laser",
+        "sci-fi",
+        "space",
+        "spaceengine"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "002",
+        "engine",
+        "laser",
+        "sci-fi",
+        "space",
+        "spaceengine"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 5.0,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/spaceEngine_002.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/spaceEngine_002.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 111072,
+      "size_mp3": null,
+      "sha256_ogg": "5a1b1cc6d335944dd9ef94578b6bad939195d3020f61780c19425d2f6b3583db",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_spaceengine_003",
+      "title": "spaceengine 003",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "003",
+        "engine",
+        "laser",
+        "sci-fi",
+        "space",
+        "spaceengine"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "003",
+        "engine",
+        "laser",
+        "sci-fi",
+        "space",
+        "spaceengine"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 5.0,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/spaceEngine_003.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/spaceEngine_003.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 67503,
+      "size_mp3": null,
+      "sha256_ogg": "e100065a0c2ddc2c4aa301fe5b002e251fb31a07bad674a51183964a6b6a0e6a",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_spaceenginelarge_000",
+      "title": "spaceenginelarge 000",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "000",
+        "engine",
+        "laser",
+        "sci-fi",
+        "space",
+        "spaceenginelarge"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "000",
+        "engine",
+        "laser",
+        "sci-fi",
+        "space",
+        "spaceenginelarge"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 5.0,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/spaceEngineLarge_000.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/spaceEngineLarge_000.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 189900,
+      "size_mp3": null,
+      "sha256_ogg": "885aeda16116b715be5e8fd03d0d77959761015e1ca5823fd3b53d4fd965107f",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_spaceenginelarge_001",
+      "title": "spaceenginelarge 001",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "001",
+        "engine",
+        "laser",
+        "sci-fi",
+        "space",
+        "spaceenginelarge"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "001",
+        "engine",
+        "laser",
+        "sci-fi",
+        "space",
+        "spaceenginelarge"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 5.0,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/spaceEngineLarge_001.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/spaceEngineLarge_001.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 212818,
+      "size_mp3": null,
+      "sha256_ogg": "fcf4aec5587aa29cdb82fd24801ebd37accd57d61eb67683de8c48cb73ba899e",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_spaceenginelarge_002",
+      "title": "spaceenginelarge 002",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "002",
+        "engine",
+        "laser",
+        "sci-fi",
+        "space",
+        "spaceenginelarge"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "002",
+        "engine",
+        "laser",
+        "sci-fi",
+        "space",
+        "spaceenginelarge"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 5.0,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/spaceEngineLarge_002.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/spaceEngineLarge_002.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 214424,
+      "size_mp3": null,
+      "sha256_ogg": "dc1a5c00a93d24bd5fd1d3cfca70483054e7c025b40d255980309544428084de",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_spaceenginelarge_003",
+      "title": "spaceenginelarge 003",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "003",
+        "engine",
+        "laser",
+        "sci-fi",
+        "space",
+        "spaceenginelarge"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "003",
+        "engine",
+        "laser",
+        "sci-fi",
+        "space",
+        "spaceenginelarge"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 5.0,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/spaceEngineLarge_003.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/spaceEngineLarge_003.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 214580,
+      "size_mp3": null,
+      "sha256_ogg": "c1e6542f9ad0839083072d9b2d4d77208b9ceb60e5f3fd9873047de7f0c57a83",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_spaceenginelarge_004",
+      "title": "spaceenginelarge 004",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "004",
+        "engine",
+        "laser",
+        "sci-fi",
+        "space",
+        "spaceenginelarge"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "004",
+        "engine",
+        "laser",
+        "sci-fi",
+        "space",
+        "spaceenginelarge"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 5.0,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/spaceEngineLarge_004.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/spaceEngineLarge_004.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 210809,
+      "size_mp3": null,
+      "sha256_ogg": "1021ea050c664d021e4e847d92148fa6781bcf1fe573d94e91b6b18aea1c16ee",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_spaceenginelow_000",
+      "title": "spaceenginelow 000",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "000",
+        "engine",
+        "laser",
+        "sci-fi",
+        "space",
+        "spaceenginelow"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "000",
+        "engine",
+        "laser",
+        "sci-fi",
+        "space",
+        "spaceenginelow"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 5.0,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/spaceEngineLow_000.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/spaceEngineLow_000.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 99760,
+      "size_mp3": null,
+      "sha256_ogg": "d7deee8d7217ce63aab802ad7365a59cacfd243392dc1bd03b0a9d454aa494df",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_spaceenginelow_001",
+      "title": "spaceenginelow 001",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "001",
+        "engine",
+        "laser",
+        "sci-fi",
+        "space",
+        "spaceenginelow"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "001",
+        "engine",
+        "laser",
+        "sci-fi",
+        "space",
+        "spaceenginelow"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 5.0,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/spaceEngineLow_001.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/spaceEngineLow_001.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 99120,
+      "size_mp3": null,
+      "sha256_ogg": "307dfd8fbfe7e6f2d59dec4de445cf02bd4fff86005803096b8c95e333836a70",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_spaceenginelow_002",
+      "title": "spaceenginelow 002",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "002",
+        "engine",
+        "laser",
+        "sci-fi",
+        "space",
+        "spaceenginelow"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "002",
+        "engine",
+        "laser",
+        "sci-fi",
+        "space",
+        "spaceenginelow"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 5.0,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/spaceEngineLow_002.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/spaceEngineLow_002.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 72688,
+      "size_mp3": null,
+      "sha256_ogg": "3b1adf8645a40c35fcad25eee224c82c9836dc443102a9af5586eb22cbedabcc",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_spaceenginelow_003",
+      "title": "spaceenginelow 003",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "003",
+        "engine",
+        "laser",
+        "sci-fi",
+        "space",
+        "spaceenginelow"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "003",
+        "engine",
+        "laser",
+        "sci-fi",
+        "space",
+        "spaceenginelow"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 5.0,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/spaceEngineLow_003.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/spaceEngineLow_003.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 85760,
+      "size_mp3": null,
+      "sha256_ogg": "e8f7ce4dbc20b5aeead35b94f1c8927b0baa416edaa5b39f1699703031111488",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_spaceenginelow_004",
+      "title": "spaceenginelow 004",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "004",
+        "engine",
+        "laser",
+        "sci-fi",
+        "space",
+        "spaceenginelow"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "004",
+        "engine",
+        "laser",
+        "sci-fi",
+        "space",
+        "spaceenginelow"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 5.0,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/spaceEngineLow_004.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/spaceEngineLow_004.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 100444,
+      "size_mp3": null,
+      "sha256_ogg": "c489079d9e8d577ceae4b1ea71fbe282ea1bce8b873dfa9166f9c962f7df81d3",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_spaceenginesmall_000",
+      "title": "spaceenginesmall 000",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "000",
+        "engine",
+        "laser",
+        "sci-fi",
+        "space",
+        "spaceenginesmall"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "000",
+        "engine",
+        "laser",
+        "sci-fi",
+        "space",
+        "spaceenginesmall"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 5.0,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/spaceEngineSmall_000.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/spaceEngineSmall_000.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 116880,
+      "size_mp3": null,
+      "sha256_ogg": "2bec8ff75d81f0c37a6b78bd63beea6c70375e49ee30b0bbe7f38d654d576831",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_spaceenginesmall_001",
+      "title": "spaceenginesmall 001",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "001",
+        "engine",
+        "laser",
+        "sci-fi",
+        "space",
+        "spaceenginesmall"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "001",
+        "engine",
+        "laser",
+        "sci-fi",
+        "space",
+        "spaceenginesmall"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 5.0,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/spaceEngineSmall_001.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/spaceEngineSmall_001.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 133181,
+      "size_mp3": null,
+      "sha256_ogg": "a87d5d8b2233f7bd803df78927b52c27be251e8d1354c6cc9ea00ce26215e3da",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_spaceenginesmall_002",
+      "title": "spaceenginesmall 002",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "002",
+        "engine",
+        "laser",
+        "sci-fi",
+        "space",
+        "spaceenginesmall"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "002",
+        "engine",
+        "laser",
+        "sci-fi",
+        "space",
+        "spaceenginesmall"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 5.0,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/spaceEngineSmall_002.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/spaceEngineSmall_002.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 120467,
+      "size_mp3": null,
+      "sha256_ogg": "3d7da67ca2d24ca2abd1e257556d74ff28cf152402968c2035d6f1ea92517f25",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_spaceenginesmall_003",
+      "title": "spaceenginesmall 003",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "003",
+        "engine",
+        "laser",
+        "sci-fi",
+        "space",
+        "spaceenginesmall"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "003",
+        "engine",
+        "laser",
+        "sci-fi",
+        "space",
+        "spaceenginesmall"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 5.0,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/spaceEngineSmall_003.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/spaceEngineSmall_003.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 129935,
+      "size_mp3": null,
+      "sha256_ogg": "78f6c1f0a46e3693f56ed6922bd23e5af9a4093aac9b653c1ce9ee7b33081c29",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_spaceenginesmall_004",
+      "title": "spaceenginesmall 004",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "004",
+        "engine",
+        "laser",
+        "sci-fi",
+        "space",
+        "spaceenginesmall"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "004",
+        "engine",
+        "laser",
+        "sci-fi",
+        "space",
+        "spaceenginesmall"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 5.0,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/spaceEngineSmall_004.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/spaceEngineSmall_004.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 130520,
+      "size_mp3": null,
+      "sha256_ogg": "009ef3beadec605ab0e60cd64c73b6ca42590058e8491e72b4bc813ba0e3ab57",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_thrusterfire_000",
+      "title": "thrusterfire 000",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "000",
+        "engine",
+        "laser",
+        "sci-fi",
+        "space",
+        "thrusterfire"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "000",
+        "engine",
+        "laser",
+        "sci-fi",
+        "space",
+        "thrusterfire"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 5.0,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/thrusterFire_000.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/thrusterFire_000.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 201216,
+      "size_mp3": null,
+      "sha256_ogg": "0fdc474d93f209debf1fc4ea77765a669dcb7676db31b4d8a0a509685bccf374",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_thrusterfire_001",
+      "title": "thrusterfire 001",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "001",
+        "engine",
+        "laser",
+        "sci-fi",
+        "space",
+        "thrusterfire"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "001",
+        "engine",
+        "laser",
+        "sci-fi",
+        "space",
+        "thrusterfire"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 5.0,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/thrusterFire_001.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/thrusterFire_001.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 204218,
+      "size_mp3": null,
+      "sha256_ogg": "924636edc923fe4aab5829b69dc5dc1c5d659dec5739865434dabee752a3bb79",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_thrusterfire_002",
+      "title": "thrusterfire 002",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "002",
+        "engine",
+        "laser",
+        "sci-fi",
+        "space",
+        "thrusterfire"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "002",
+        "engine",
+        "laser",
+        "sci-fi",
+        "space",
+        "thrusterfire"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 5.0,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/thrusterFire_002.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/thrusterFire_002.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 205657,
+      "size_mp3": null,
+      "sha256_ogg": "5f7731c30196d73777d62eec7cb36a28bf63852e70244057b7625b888e71a3a8",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_thrusterfire_003",
+      "title": "thrusterfire 003",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "003",
+        "engine",
+        "laser",
+        "sci-fi",
+        "space",
+        "thrusterfire"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "003",
+        "engine",
+        "laser",
+        "sci-fi",
+        "space",
+        "thrusterfire"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 5.0,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/thrusterFire_003.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/thrusterFire_003.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 196273,
+      "size_mp3": null,
+      "sha256_ogg": "04f558ca5abf30788e49ed4370289dfd7e38c7f054d2ea35c2a013210374f1e5",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "sci-fi-sounds_thrusterfire_004",
+      "title": "thrusterfire 004",
+      "pack": "sci-fi-sounds",
+      "category": "sci-fi",
+      "tags": [
+        "004",
+        "engine",
+        "laser",
+        "sci-fi",
+        "space",
+        "thrusterfire"
+      ],
+      "use_cases": [
+        "shooter",
+        "spaceship",
+        "futuristic UI"
+      ],
+      "mood": [
+        "futuristic",
+        "tense"
+      ],
+      "keywords_en": [
+        "004",
+        "engine",
+        "laser",
+        "sci-fi",
+        "space",
+        "thrusterfire"
+      ],
+      "keywords_ar": [
+        "ليزر",
+        "فضاء",
+        "خيال علمي",
+        "محرك"
+      ],
+      "duration_sec": 5.0,
+      "formats": [
+        "ogg"
+      ],
+      "file_ogg": "audio/sci-fi-sounds/thrusterFire_004.ogg",
+      "file_mp3": null,
+      "download_url_ogg": "https://raw.githubusercontent.com/Mcamento8/open-game-sfx-index/main/audio/sci-fi-sounds/thrusterFire_004.ogg",
+      "download_url_mp3": null,
+      "size_ogg": 209339,
+      "size_mp3": null,
+      "sha256_ogg": "5297afd01c3e91a13d08ec1f673d89997bd17012fa8645a20c94fba240f0f1b2",
+      "sha256_mp3": null,
+      "license": "CC0-1.0",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
     },
     {
       "id": "ui-audio_click1",
