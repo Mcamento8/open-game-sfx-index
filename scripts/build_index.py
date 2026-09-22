@@ -8,6 +8,7 @@ import datetime
 import hashlib
 import json
 import pathlib
+import urllib.parse
 import re
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
@@ -15,6 +16,18 @@ AUDIO = ROOT / "audio"
 INDEX = ROOT / "index.json"
 REPO = "Mcamento8/open-game-sfx-index"
 RAW = f"https://raw.githubusercontent.com/{REPO}/main"
+
+
+def raw_url(rel: str) -> str:
+    """Build a fetchable raw URL for a repo-relative path.
+
+    Percent-encode each path segment: several packs (oga-512-retro,
+    oga-rpg-pack) keep the upstream archive's directory names, which contain
+    spaces and square brackets. Emitting those literally produces a URL that no
+    HTTP client will even parse, so every one of those entries was unusable as
+    written — the file existed, the link did not work.
+    """
+    return RAW + "/" + "/".join(urllib.parse.quote(seg, safe="") for seg in rel.split("/"))
 
 PACK_META = {
     "ui-audio": {"category": "ui", "source": "https://kenney.nl/assets/ui-audio",
@@ -152,10 +165,10 @@ def main():
                 "file_mp3": rel_mp3,
                 "file_wav": rel_wav,
                 "file_flac": rel_flac,
-                "download_url_ogg": f"{RAW}/{rel_ogg}" if rel_ogg else None,
-                "download_url_mp3": f"{RAW}/{rel_mp3}" if rel_mp3 else None,
-                "download_url_wav": f"{RAW}/{rel_wav}" if rel_wav else None,
-                "download_url_flac": f"{RAW}/{rel_flac}" if rel_flac else None,
+                "download_url_ogg": raw_url(rel_ogg) if rel_ogg else None,
+                "download_url_mp3": raw_url(rel_mp3) if rel_mp3 else None,
+                "download_url_wav": raw_url(rel_wav) if rel_wav else None,
+                "download_url_flac": raw_url(rel_flac) if rel_flac else None,
                 "size_ogg": ogg.stat().st_size if ogg else None,
                 "size_mp3": mp3.stat().st_size if mp3 else None,
                 "size_wav": wav.stat().st_size if wav else None,

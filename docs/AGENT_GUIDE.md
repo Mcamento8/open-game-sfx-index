@@ -52,6 +52,29 @@ Use `scripts/search.py` locally, or replicate its scoring in your own runtime.
 - Download **only the chosen format** (prefer OGG for games, MP3 for quick preview).
 - Cache by `id` + sha256 (`sha256_ogg` / `sha256_mp3` in index).
 - Cite `source` + `license: CC0-1.0` in your own credits file (optional, appreciated).
+- The `download_url_*` fields are percent-encoded. Some packs keep the upstream
+  archive's folder names, which contain spaces and brackets; a client that
+  re-encodes an already-encoded URL is fine, but a client that *strips* the
+  encoding will produce an unparseable URL. Use the field verbatim.
+
+### ⚠️ Which format can Minecraft actually PLAY?
+
+**Only OGG.** A vanilla 1.8-style `sounds.json` entry resolves to
+`assets/<namespace>/sounds/<entry-name>.ogg` — the `.ogg` is appended
+unconditionally, with no extension handling. A WAV/MP3/FLAC placed in a resource
+pack is copied but never requested, so it plays nothing while looking installed.
+
+| Your target | What to take |
+|---|---|
+| Minecraft (any version with `sounds.json`) | an **OGG** entry |
+| Godot / Unity / Unreal / web | OGG or WAV both fine |
+| Quick auditioning / placeholders | MP3 is smallest |
+
+Packs that currently ship **no OGG** (WAV or FLAC only) are:
+`oga-512-retro`, `oga-rpg-pack`, `oga-battle`, `oga-gui-lokif`,
+`oga-levelup-powerup`, `oga-zombies` (WAV) and `oga-hits-punches` (FLAC).
+For a Minecraft target, either transcode those (`ffmpeg -i in.wav -c:a libvorbis
+-q:a 5 out.ogg`) or prefer the 11 packs that already ship OGG.
 
 ## 4. Category cheat-sheet (most-used first)
 
